@@ -21,3 +21,6 @@ def index(request):
 
 def graph(request):
     return render(request, "./graph-label-overlap.html")
+
+def graphofone(request):
+    return render(request, "./graph-of-one.html")

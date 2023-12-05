@@ -41,11 +41,11 @@
     var option;
 
     myChart.showLoading();
-$.getJSON(ROOT_PATH + 'following-network.json', function (graph) {
+$.getJSON(ROOT_PATH + 'SenKatieBritt.json', function (graph) {
   myChart.hideLoading();
   option = {
     title: {
-      text: 'Following Network',
+      text: "SenKatieBritt's Network",
       subtext: 'Default layout',
       top: 'bottom',
       left: 'right'
@@ -62,7 +62,7 @@ $.getJSON(ROOT_PATH + 'following-network.json', function (graph) {
     animationEasingUpdate: 'quinticInOut',
     series: [
       {
-        name: 'Following Network',
+        name: "SenKatieBritt's Network",
         type: 'graph',
         layout: 'none',
         data: graph.nodes,

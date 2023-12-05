@@ -6,4 +6,5 @@ urlpatterns = [
     path('', views.index),
     # 访问127.0.0.1:8000则会显示views.graph
     path('graph/', views.graph),
+    path('graphofone/', views.graphofone),
 ]
