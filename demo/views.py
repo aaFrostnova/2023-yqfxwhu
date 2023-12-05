@@ -20,4 +20,4 @@ def index(request):
     return render(request, "./index.html", context=context)
 
 def graph(request):
-    return render(request, "./graph.html")
+    return render(request, "./graph-label-overlap.html")
