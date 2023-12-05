@@ -7,7 +7,7 @@
   <meta charset="utf-8">
 </head>
 <body style="height: 100%; margin: 0">
-  <div id="container" style="height: 100%"></div>
+  <div id="container" style="width: 80%; height: 100%; float: right;"></div>
   {% load static %}
   <script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
   <script type="text/javascript" src="{% static 'js/echarts.min.js' %}"></script>
@@ -100,8 +100,27 @@ $.getJSON(ROOT_PATH + 'SenKatieBritt.json', function (graph) {
     if (option && typeof option === 'object') {
       myChart.setOption(option);
     }
+    myChart.on('click', function (params) {
+      if (params.dataType === 'node')
+      {
+        var clickedNode = params.data;
+        console.log('Clicked Node Information:', clickedNode);
+        var imgSrc = '/static/img/' + params.name + '.jpg';
+        //var imgSrc = "https://en.wikipedia.org/wiki/Katie_Britt#/media/File:Katie_Britt.jpg";
+        displayInfomation(imgSrc);
+      }
 
+});
+function displayInfomation(imgSrc) {
+  var infoElement = document.getElementById('info-image');
+
+  infoElement.src = imgSrc;
+  console.log('show the image:', imgSrc);
+}
     window.addEventListener('resize', myChart.resize);
   </script>
+<div id="info-container" style="width: 10%; height: 100%; float: left">
+  <img id="info-image" alt="The Image" style="width: 150px; height: 150px;"/>
+</div>
 </body>
 </html>
