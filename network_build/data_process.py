@@ -26,7 +26,7 @@ def data_reader(filename):
     #print(os.getcwd())
     if not os.path.exists(filename):
         print(f"No such file named '{filename}'")
-        exit()
+        return None
     
     data_dict = {}
     with open(filename, 'r', encoding="utf-8") as f:
@@ -42,7 +42,10 @@ def data_reader(filename):
 
 def init_matrix(data_dict, senator_node_vocab):
     num_senator_nodes = len(senator_node_vocab)
-    data_mat          = np.zeros((num_senator_nodes, num_senator_nodes), dtype=int)
+    if data_dict == None:
+        return np.zeros((num_senator_nodes, num_senator_nodes), dtype=int)
+
+    data_mat         = np.zeros((num_senator_nodes, num_senator_nodes), dtype=int)
 
     for i in range(num_senator_nodes):
         senator = senator_node_vocab[i] # 取senator姓名

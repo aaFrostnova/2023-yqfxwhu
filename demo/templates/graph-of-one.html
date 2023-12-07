@@ -39,18 +39,43 @@
     //var ROOT_PATH = 'https://echarts.apache.org/examples';
     var ROOT_PATH = '/static/data/';
     var option;
-
     myChart.showLoading();
-$.getJSON(ROOT_PATH + 'SenKatieBritt.json', function (graph) {
+$.getJSON(ROOT_PATH + '{{filename}}', function (graph) {
   myChart.hideLoading();
   option = {
     title: {
-      text: "SenKatieBritt's Network",
+      text: "{{Senator}}'s Network",
       subtext: 'Default layout',
       top: 'bottom',
       left: 'right'
     },
-    tooltip: {},
+    tooltip: {
+      formatter: function(params) {
+        //console.log(params);
+        var content = "";
+        if (params.dataType === 'node') {
+          const value = params.data.value;
+          content = `
+            <div style="font-weight:bold;">Real Name: <span style="color: gray">${value.name}</span></div>
+            <div style="font-weight:bold;">Office: <span style="color: gray">${value.office}</span></div>
+            <div style="font-weight:bold;">Party: <span style="color: gray">${value.party}</span></div>
+          `;
+        }
+        else if (params.dataType == 'edge') {
+          const value = params.data
+          const nodes = myChart.getOption().series[0].data;
+          source_id = value.source;
+          target_id = value.target;
+          let source_obj = nodes.find(item => item.id === source_id);
+          let target_obj = nodes.find(item => item.id == target_id);
+          const sourceNode = source_obj.name;
+          const targetNode = target_obj.name;
+          content = `${sourceNode} -> ${targetNode}`;
+        }
+
+        return content;
+      }
+    },
     legend: [
       {
         data: graph.categories.map(function (a) {
@@ -59,10 +84,10 @@ $.getJSON(ROOT_PATH + 'SenKatieBritt.json', function (graph) {
       }
     ],
     animationDuration: 1500,
-    animationEasingUpdate: 'quinticInOut',
+    animationEasingUpdate: 'quarticInOut',
     series: [
       {
-        name: "SenKatieBritt's Network",
+        name: "{{Senator}}'s Network",
         type: 'graph',
         layout: 'none',
         data: graph.nodes,
@@ -95,6 +120,7 @@ $.getJSON(ROOT_PATH + 'SenKatieBritt.json', function (graph) {
     ]
   };
   myChart.setOption(option);
+  //console.log(option);
 });
 
     if (option && typeof option === 'object') {
@@ -104,23 +130,32 @@ $.getJSON(ROOT_PATH + 'SenKatieBritt.json', function (graph) {
       if (params.dataType === 'node')
       {
         var clickedNode = params.data;
-        console.log('Clicked Node Information:', clickedNode);
-        var imgSrc = '/static/img/' + params.name + '.jpg';
-        //var imgSrc = "https://en.wikipedia.org/wiki/Katie_Britt#/media/File:Katie_Britt.jpg";
-        displayInfomation(imgSrc);
+        //var infomation = params.data.value;
+        displayInfomation(clickedNode);
       }
 
 });
-function displayInfomation(imgSrc) {
-  var infoElement = document.getElementById('info-image');
-
-  infoElement.src = imgSrc;
-  console.log('show the image:', imgSrc);
+function displayInfomation(information) {
+  var infoElement = document.getElementById('info-container');
+  var twitter_name = information.name;
+  var office = information.value.office;
+  var real_name = information.value.name;
+  var party = information.value.party;
+  var imgSrc = `/static/img/Senators/${twitter_name}.jpg`;
+  var HTMLcontent = `
+    <img alt="Senator Image Here" style="width:150px; height: 150px;" src=${imgSrc}/>
+    <p>
+      Name: ${real_name}<br>
+      Office: ${office}<br>
+      Party: ${party}<br>
+      TwitterID: <a href="https://twitter.com/${twitter_name}">@${twitter_name}</a><br>
+    </p>
+  `;
+  infoElement.innerHTML = HTMLcontent;
 }
     window.addEventListener('resize', myChart.resize);
+
   </script>
-<div id="info-container" style="width: 10%; height: 100%; float: left">
-  <img id="info-image" alt="The Image" style="width: 150px; height: 150px;"/>
-</div>
+<div id="info-container" style="width: 20%; height: 100%; float: left"></div>
 </body>
 </html>
