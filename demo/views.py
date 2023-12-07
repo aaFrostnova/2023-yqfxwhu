@@ -56,5 +56,11 @@ def search(request):
             relation_dump(msg["Senator"], senator_info, json_file, mats=[following_mat, coat_mat, coexist_mat])
         return render(request, "./graph-of-one.html", context=msg)
     
-def following(request):
+def page1(request):
     return render(request, "./page1.html")
+
+def page2(request):
+    return render(request, "./page2.html")
+
+def page3(request):
+    return render(request, "./page3.html")

@@ -9,5 +9,7 @@ urlpatterns = [
     path('graph/', views.graph),
     path('graphofone/', views.graphofone),
     path('search/', views.search),
-    path('page1/', views.following),
+    path('page1/', views.page1),
+    path('page2/',views.page2),
+    path('page3/',views.page3)
 ]
