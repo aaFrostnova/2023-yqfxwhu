@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-CN" style="height: 100%">
+<head>
+  <meta charset="utf-8">
+</head>
+<body style="height: 100%; margin: 0">
+  <form action="../search" method="get">
+    <input type="text" name="SenatorName">
+    <input type="submit" value="search">
+  </form>
+  {% if error != '' %}
+  <p>{{error}}</p>
+  {% endif %}
+</body>
+</html>
