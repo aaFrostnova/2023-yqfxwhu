@@ -47,8 +47,8 @@ def network_dump(mat, senator_info, json_file):
 
 def relation_dump(senator_name, senator_info, json_file, mats):
     relation_dict = {"nodes" : [], "links": [], "categories": [],}
-    color_dict = {"Republican" : "#F08784", "Democratic" : "#77CBFA", "Independent" : "#FFF88C"}
-    # Republican:red, Democratic:green, Independent:blue
+    color_dict = {"Republican" : "#FF6F61", "Democratic" : "#9ACD32", "Independent" : "#FFD700"}
+    # Republican:red, Democratic:green, Independent:yellow
     senator_node_vocab = list(senator_info.keys())
     num_senator = len(senator_node_vocab)
     center_id = senator_node_vocab.index(senator_name)
@@ -56,7 +56,7 @@ def relation_dump(senator_name, senator_info, json_file, mats):
     category_list = list(category_dict.keys())
     categories = [{"name" : "Center"}, {"name" : "Following"}, {"name" : "Co@"}, {"name" : "Coexist"}, ]
     relation_dict["categories"] = categories
-    center_node = {"id":f"n{center_id}", "name":senator_name, "symbolSize":30.8, "x":0, "y":0, "color":"#0023F5", "value":senator_info[senator_name], "category":0}
+    center_node = {"id":f"n{center_id}", "name":senator_name, "symbolSize":30.8, "x":0, "y":0, "color":"#6495ED", "value":senator_info[senator_name], "category":0}
     relation_dict["nodes"].append(center_node)
     cnt = 0
     for i in range(3):
