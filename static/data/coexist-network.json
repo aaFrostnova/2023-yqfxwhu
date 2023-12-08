@@ -1,0 +1,1416 @@
+{
+ "nodes": [
+  {
+   "id": "n0",
+   "name": "SenKatieBritt",
+   "symbolSize": 30.652543410377653,
+   "x": -431.7688019119578,
+   "y": 310.6502251180724,
+   "value": {
+    "office": "U.S. Senate Alabama",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
+    "name": "Katie Britt",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n1",
+   "name": "SenTuberville",
+   "symbolSize": 22.446464423351188,
+   "x": -114.28856329313874,
+   "y": -158.2641260085361,
+   "value": {
+    "office": "U.S. Senate Alabama",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
+    "name": "Tommy Tuberville",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n2",
+   "name": "lisamurkowski",
+   "symbolSize": 21.50608741426875,
+   "x": 351.4720908603754,
+   "y": 114.95697503131453,
+   "value": {
+    "office": "U.S. Senate Alaska",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
+    "name": "Lisa Murkowski",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n3",
+   "name": "SenDanSullivan",
+   "symbolSize": 6.295620632416424,
+   "x": 271.1914900044226,
+   "y": -28.248046539209554,
+   "value": {
+    "office": "U.S. Senate Alaska",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
+    "name": "Daniel S. Sullivan",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n4",
+   "name": "SenMarkKelly",
+   "symbolSize": 26.39735053455819,
+   "x": 310.0833725862037,
+   "y": 27.95783767116461,
+   "value": {
+    "office": "U.S. Senate Arizona",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
+    "name": "Mark Kelly",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n5",
+   "name": "SenatorSinema",
+   "symbolSize": 28.66497184655488,
+   "x": 294.89493109116154,
+   "y": 467.80804629620513,
+   "value": {
+    "office": "U.S. Senate Arizona",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
+    "name": "Kyrsten Sinema",
+    "party": "Independent"
+   },
+   "category": 2
+  },
+  {
+   "id": "n6",
+   "name": "JohnBoozman",
+   "symbolSize": 22.40436660204877,
+   "x": 400.27261137094104,
+   "y": -37.897958154544085,
+   "value": {
+    "office": "U.S. Senate Arkansas",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
+    "name": "John Boozman",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n7",
+   "name": "SenTomCotton",
+   "symbolSize": 22.70726505047734,
+   "x": -117.95608021000925,
+   "y": -242.58063696726316,
+   "value": {
+    "office": "U.S. Senate Arkansas",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
+    "name": "Tom Cotton",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n8",
+   "name": "Senlaphonza",
+   "symbolSize": 14.818739705510191,
+   "x": 396.0709119776602,
+   "y": -285.5608254090938,
+   "value": {
+    "office": "U.S. Senate California",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
+    "name": "Laphonza Butler",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n9",
+   "name": "SenAlexPadilla",
+   "symbolSize": 11.75595488055614,
+   "x": 71.52188719046796,
+   "y": -70.38188113815323,
+   "value": {
+    "office": "U.S. Senate California",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
+    "name": "Alex Padilla",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n10",
+   "name": "SenatorBennet",
+   "symbolSize": 21.732633855812125,
+   "x": 333.3041100927146,
+   "y": -332.26717191104126,
+   "value": {
+    "office": "U.S. Senate Colorado",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
+    "name": "Michael Bennet",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n11",
+   "name": "SenatorHick",
+   "symbolSize": 14.264045615981534,
+   "x": -26.78542071061463,
+   "y": -293.7602641407532,
+   "value": {
+    "office": "U.S. Senate Colorado",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
+    "name": "John Hickenlooper",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n12",
+   "name": "SenBlumenthal",
+   "symbolSize": 20.86347238366451,
+   "x": 325.05392471808386,
+   "y": -371.92996120197773,
+   "value": {
+    "office": "U.S. Senate Connecticut",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
+    "name": "Richard Blumenthal",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n13",
+   "name": "ChrisMurphyCT",
+   "symbolSize": 24.672117832034367,
+   "x": 44.873601017908754,
+   "y": 242.20925279647815,
+   "value": {
+    "office": "U.S. Senate Connecticut",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
+    "name": "Christopher S. Murphy",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n14",
+   "name": "SenatorCarper",
+   "symbolSize": 4.795896824129132,
+   "x": 360.3218815788216,
+   "y": -163.19996627360302,
+   "value": {
+    "office": "U.S. Senate Delaware",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
+    "name": "Tom Carper",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n15",
+   "name": "ChrisCoons",
+   "symbolSize": 25.595388545774632,
+   "x": 489.9764877545274,
+   "y": -147.6186314370339,
+   "value": {
+    "office": "U.S. Senate Delaware",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
+    "name": "Chris Coons",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n16",
+   "name": "marcorubio",
+   "symbolSize": 6.581310206070389,
+   "x": 7.0277901298034635,
+   "y": -158.81511630639886,
+   "value": {
+    "office": "U.S. Senate Florida",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
+    "name": "Marco Rubio",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n17",
+   "name": "SenRickScott",
+   "symbolSize": 11.800282528748832,
+   "x": -361.09490879625696,
+   "y": 365.87829334106823,
+   "value": {
+    "office": "U.S. Senate Florida",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
+    "name": "Rick Scott",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n18",
+   "name": "ossoff",
+   "symbolSize": 5.079148427111342,
+   "x": -152.51243906498615,
+   "y": 288.1293131777976,
+   "value": {
+    "office": "U.S. Senate Georgia",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
+    "name": "Jon Ossoff",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n19",
+   "name": "ReverendWarnock",
+   "symbolSize": 13.431758742153212,
+   "x": 356.59766735196115,
+   "y": 464.8393404411487,
+   "value": {
+    "office": "U.S. Senate Georgia",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
+    "name": "Raphael Warnock",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n20",
+   "name": "maziehirono",
+   "symbolSize": 29.289844284312903,
+   "x": -34.37130656969447,
+   "y": -8.520646225718224,
+   "value": {
+    "office": "U.S. Senate Hawaii",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
+    "name": "Mazie K. Hirono",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n21",
+   "name": "brianschatz",
+   "symbolSize": 26.00005654883776,
+   "x": 174.8123329909671,
+   "y": 163.32417791618593,
+   "value": {
+    "office": "U.S. Senate Hawaii",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
+    "name": "Brian E. Schatz",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n22",
+   "name": "MikeCrapo",
+   "symbolSize": 9.207969603779471,
+   "x": -490.1997576416017,
+   "y": -342.5709726904231,
+   "value": {
+    "office": "U.S. Senate Idaho",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
+    "name": "Mike Crapo",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n23",
+   "name": "SenatorRisch",
+   "symbolSize": 29.241284147877373,
+   "x": -352.77905226886475,
+   "y": 420.6723330803545,
+   "value": {
+    "office": "U.S. Senate Idaho",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
+    "name": "Jim Risch",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n24",
+   "name": "SenDuckworth",
+   "symbolSize": 26.11345265031602,
+   "x": 92.77347786024802,
+   "y": -208.41231465867628,
+   "value": {
+    "office": "U.S. Senate Illinois",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
+    "name": "Tammy Duckworth",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n25",
+   "name": "SenatorDurbin",
+   "symbolSize": 15.352595817018816,
+   "x": 84.68279812347714,
+   "y": -313.3102555668622,
+   "value": {
+    "office": "U.S. Senate Illinois",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
+    "name": "Dick Durbin",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n26",
+   "name": "SenatorBraun",
+   "symbolSize": 25.411809428971114,
+   "x": -83.48018206702955,
+   "y": -170.97523514665602,
+   "value": {
+    "office": "U.S. Senate Indiana",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
+    "name": "Mike Braun",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n27",
+   "name": "SenToddYoung",
+   "symbolSize": 11.585323557239612,
+   "x": -439.2346659640938,
+   "y": -363.13692783891224,
+   "value": {
+    "office": "U.S. Senate Indiana",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
+    "name": "Todd C. Young",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n28",
+   "name": "SenJoniErnst",
+   "symbolSize": 20.399059088974717,
+   "x": -352.60583449943226,
+   "y": -52.894734752038744,
+   "value": {
+    "office": "U.S. Senate Iowa",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
+    "name": "Joni Ernst",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n29",
+   "name": "ChuckGrassley",
+   "symbolSize": 9.394632569701887,
+   "x": 429.6522824392682,
+   "y": 318.78092284384536,
+   "value": {
+    "office": "U.S. Senate Iowa",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
+    "name": "Chuck Grassley",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n30",
+   "name": "RogerMarshallMD",
+   "symbolSize": 29.406966464529177,
+   "x": -64.20944495433054,
+   "y": -480.0729831729561,
+   "value": {
+    "office": "U.S. Senate Kansas",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
+    "name": "Roger Marshall",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n31",
+   "name": "JerryMoran",
+   "symbolSize": 15.563772617463155,
+   "x": 51.853366715974516,
+   "y": -264.1345456980292,
+   "value": {
+    "office": "U.S. Senate Kansas",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
+    "name": "Jerry Moran",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n32",
+   "name": "LeaderMcConnell",
+   "symbolSize": 2.629396907637278,
+   "x": 317.23709982472303,
+   "y": -127.02111181180118,
+   "value": {
+    "office": "U.S. Senate Kentucky",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
+    "name": "Mitch McConnell",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n33",
+   "name": "SenRandPaul",
+   "symbolSize": 23.64999460967077,
+   "x": 178.44025673271244,
+   "y": -455.49355490977683,
+   "value": {
+    "office": "U.S. Senate Kentucky",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
+    "name": "Rand Paul",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n34",
+   "name": "BillCassidy",
+   "symbolSize": 3.0201826992919867,
+   "x": -141.32830752441504,
+   "y": -374.19040286752283,
+   "value": {
+    "office": "U.S. Senate Louisiana",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
+    "name": "Bill Cassidy",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n35",
+   "name": "SenJohnKennedy",
+   "symbolSize": 2.5174584024751914,
+   "x": -119.34457421784327,
+   "y": 195.94575121249557,
+   "value": {
+    "office": "U.S. Senate Louisiana",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
+    "name": "John Neely Kennedy",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n36",
+   "name": "SenatorCollins",
+   "symbolSize": 17.325445634957894,
+   "x": 332.97432332557514,
+   "y": 391.17687141414694,
+   "value": {
+    "office": "U.S. Senate Maine",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
+    "name": "Susan Collins",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n37",
+   "name": "SenAngusKing",
+   "symbolSize": 29.436563639374825,
+   "x": 211.96267697157487,
+   "y": -420.2448873005036,
+   "value": {
+    "office": "U.S. Senate Maine",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
+    "name": "Angus King",
+    "party": "Independent"
+   },
+   "category": 2
+  },
+  {
+   "id": "n38",
+   "name": "SenatorCardin",
+   "symbolSize": 26.976907763492555,
+   "x": -369.460166795648,
+   "y": -140.99231514038655,
+   "value": {
+    "office": "U.S. Senate Maryland",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
+    "name": "Ben Cardin",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n39",
+   "name": "ChrisVanHollen",
+   "symbolSize": 14.325957728186554,
+   "x": 61.6997201331078,
+   "y": -326.3463769641609,
+   "value": {
+    "office": "U.S. Senate Maryland",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
+    "name": "Chris Van Hollen",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n40",
+   "name": "SenMarkey",
+   "symbolSize": 3.6052603428229135,
+   "x": 169.31075113175018,
+   "y": 426.07582013136175,
+   "value": {
+    "office": "U.S. Senate Massachusetts",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
+    "name": "Edward J. Markey",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n41",
+   "name": "SenWarren",
+   "symbolSize": 17.51401246880658,
+   "x": -350.42046400606955,
+   "y": -246.86534785266988,
+   "value": {
+    "office": "U.S. Senate Massachusetts",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
+    "name": "Elizabeth Warren",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n42",
+   "name": "SenGaryPeters",
+   "symbolSize": 18.6988918112661,
+   "x": -26.72635443331029,
+   "y": 313.6694189655641,
+   "value": {
+    "office": "U.S. Senate Michigan",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
+    "name": "Gary Peters",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n43",
+   "name": "SenStabenow",
+   "symbolSize": 16.046487240589148,
+   "x": -159.7260257311761,
+   "y": 479.7927801626696,
+   "value": {
+    "office": "U.S. Senate Michigan",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
+    "name": "Debbie Stabenow",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n44",
+   "name": "SenAmyKlobuchar",
+   "symbolSize": 15.755009413571624,
+   "x": -225.89838061959398,
+   "y": -109.522689159918,
+   "value": {
+    "office": "U.S. Senate Minnesota",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
+    "name": "Amy Klobuchar",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n45",
+   "name": "SenTinaSmith",
+   "symbolSize": 12.190491101023511,
+   "x": 196.3274552420869,
+   "y": -281.91995957145696,
+   "value": {
+    "office": "U.S. Senate Minnesota",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
+    "name": "Tina Smith",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n46",
+   "name": "SenHydeSmith",
+   "symbolSize": 19.533430775594613,
+   "x": -424.8807674725406,
+   "y": 66.20025383947348,
+   "value": {
+    "office": "U.S. Senate Mississippi",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
+    "name": "Cindy Hyde-Smith",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n47",
+   "name": "SenatorWicker",
+   "symbolSize": 13.815267573251928,
+   "x": -188.92320184987676,
+   "y": 90.56394892408787,
+   "value": {
+    "office": "U.S. Senate Mississippi",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
+    "name": "Roger Wicker",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n48",
+   "name": "HawleyMO",
+   "symbolSize": 18.06026194933259,
+   "x": 221.49355542112698,
+   "y": 431.5268766700742,
+   "value": {
+    "office": "U.S. Senate Missouri",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
+    "name": "Josh Hawley",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n49",
+   "name": "SenEricSchmitt",
+   "symbolSize": 26.701808489132866,
+   "x": 358.2951504459918,
+   "y": -495.8126820967138,
+   "value": {
+    "office": "U.S. Senate Missouri",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
+    "name": "Eric Schmitt",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n50",
+   "name": "SteveDaines",
+   "symbolSize": 13.607582284777553,
+   "x": 7.669036051068076,
+   "y": -237.96441109771905,
+   "value": {
+    "office": "U.S. Senate Montana",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
+    "name": "Steve Daines",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n51",
+   "name": "SenatorTester",
+   "symbolSize": 25.61208979117346,
+   "x": -111.17893011925241,
+   "y": 58.601941311427936,
+   "value": {
+    "office": "U.S. Senate Montana",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
+    "name": "Jon Tester",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n52",
+   "name": "SenatorFischer",
+   "symbolSize": 26.652945358204846,
+   "x": 88.36267716896998,
+   "y": -389.02780519213087,
+   "value": {
+    "office": "U.S. Senate Nebraska",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
+    "name": "Deb Fischer",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n53",
+   "name": "SenatorRicketts",
+   "symbolSize": 20.067427449850694,
+   "x": 226.77245839066745,
+   "y": -236.29904632982237,
+   "value": {
+    "office": "U.S. Senate Nebraska",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
+    "name": "Pete Ricketts",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n54",
+   "name": "SenCortezMasto",
+   "symbolSize": 24.421226509439403,
+   "x": -189.6402756363974,
+   "y": -24.50612632221481,
+   "value": {
+    "office": "U.S. Senate Nevada",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
+    "name": "Catherine Cortez Masto",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n55",
+   "name": "SenJackyRosen",
+   "symbolSize": 13.202576937824388,
+   "x": -261.79410333812336,
+   "y": -359.93984524927623,
+   "value": {
+    "office": "U.S. Senate Nevada",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
+    "name": "Jacky Rosen",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n56",
+   "name": "SenatorHassan",
+   "symbolSize": 30.432377692509345,
+   "x": 266.8312152973374,
+   "y": -325.2386624460544,
+   "value": {
+    "office": "U.S. Senate New Hampshire",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
+    "name": "Maggie Hassan",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n57",
+   "name": "SenatorShaheen",
+   "symbolSize": 6.728648365262908,
+   "x": -362.5840541274631,
+   "y": -374.38912456457365,
+   "value": {
+    "office": "U.S. Senate New Hampshire",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
+    "name": "Jeanne Shaheen",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n58",
+   "name": "SenBooker",
+   "symbolSize": 22.579330343271547,
+   "x": -292.9406659669495,
+   "y": -297.77160809826154,
+   "value": {
+    "office": "U.S. Senate New Jersey",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
+    "name": "Cory Booker",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n59",
+   "name": "SenatorMenendez",
+   "symbolSize": 13.036019898772828,
+   "x": 170.5461357285194,
+   "y": -146.63639232055112,
+   "value": {
+    "office": "U.S. Senate New Jersey",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
+    "name": "Bob Menendez",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n60",
+   "name": "SenatorHeinrich",
+   "symbolSize": 12.961310038656267,
+   "x": 58.899984259256485,
+   "y": 135.6474145542046,
+   "value": {
+    "office": "U.S. Senate New Mexico",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
+    "name": "Martin Heinrich",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n61",
+   "name": "SenatorLujan",
+   "symbolSize": 3.704457995708982,
+   "x": -498.2976561294055,
+   "y": 456.4284173331398,
+   "value": {
+    "office": "U.S. Senate New Mexico",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
+    "name": "Ben Ray Luj\u0438\u0432n",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n62",
+   "name": "SenGillibrand",
+   "symbolSize": 24.520392548288104,
+   "x": 386.88239752061895,
+   "y": 356.76362730722053,
+   "value": {
+    "office": "U.S. Senate New York",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
+    "name": "Kirsten Gillibrand",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n63",
+   "name": "SenSchumer",
+   "symbolSize": 30.118577355721236,
+   "x": 374.27783248686023,
+   "y": 385.44601351421386,
+   "value": {
+    "office": "U.S. Senate New York",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
+    "name": "Chuck Schumer",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n64",
+   "name": "SenTedBuddNC",
+   "symbolSize": 24.224354209129462,
+   "x": -426.0026477016702,
+   "y": 418.6637937336367,
+   "value": {
+    "office": "U.S. Senate North Carolina",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
+    "name": "Ted Budd",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n65",
+   "name": "SenThomTillis",
+   "symbolSize": 30.175812857147932,
+   "x": 407.96893894234483,
+   "y": 34.292052921167624,
+   "value": {
+    "office": "U.S. Senate North Carolina",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
+    "name": "Thom Tillis",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n66",
+   "name": "SenKevinCramer",
+   "symbolSize": 3.999398229134167,
+   "x": 494.91930085280376,
+   "y": -280.75209050139694,
+   "value": {
+    "office": "U.S. Senate North Dakota",
+    "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
+    "name": "Kevin Cramer",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n67",
+   "name": "SenJohnHoeven",
+   "symbolSize": 17.12600578103671,
+   "x": -229.50189401656593,
+   "y": -460.001265936006,
+   "value": {
+    "office": "U.S. Senate North Dakota",
+    "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
+    "name": "John Hoeven",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n68",
+   "name": "SenSherrodBrown",
+   "symbolSize": 18.073505480286915,
+   "x": -123.8572505186387,
+   "y": -176.51250727258292,
+   "value": {
+    "office": "U.S. Senate Ohio",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
+    "name": "Sherrod Brown",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n69",
+   "name": "SenVancePress",
+   "symbolSize": 13.918442635541592,
+   "x": 306.4024616426526,
+   "y": 457.3314679217581,
+   "value": {
+    "office": "U.S. Senate Ohio",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
+    "name": "J.D. Vance",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n70",
+   "name": "SenatorLankford",
+   "symbolSize": 18.89415186949658,
+   "x": -24.821576497559874,
+   "y": -491.8907569693669,
+   "value": {
+    "office": "U.S. Senate Oklahoma",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
+    "name": "James Lankford",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n71",
+   "name": "SenMullin",
+   "symbolSize": 5.442840919498128,
+   "x": 218.5980864667838,
+   "y": -480.5791821251485,
+   "value": {
+    "office": "U.S. Senate Oklahoma",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
+    "name": "Markwayne Mullin",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n72",
+   "name": "SenJeffMerkley",
+   "symbolSize": 13.952437229049961,
+   "x": -258.6724149002308,
+   "y": -365.1878650486649,
+   "value": {
+    "office": "U.S. Senate Oregon",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
+    "name": "Jeff Merkley",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n73",
+   "name": "RonWyden",
+   "symbolSize": 11.63818234658013,
+   "x": 455.02421675587595,
+   "y": 220.47689145785682,
+   "value": {
+    "office": "U.S. Senate Oregon",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
+    "name": "Ron Wyden",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n74",
+   "name": "SenBobCasey",
+   "symbolSize": 9.438058294510057,
+   "x": -85.65321927982848,
+   "y": 470.39182487878384,
+   "value": {
+    "office": "U.S. Senate Pennsylvania",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
+    "name": "Bob Casey Jr.",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n75",
+   "name": "SenFettermanPA",
+   "symbolSize": 14.996463527361007,
+   "x": -392.26624833550295,
+   "y": -157.02581106616952,
+   "value": {
+    "office": "U.S. Senate Pennsylvania",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
+    "name": "John Fetterman",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n76",
+   "name": "SenJackReed",
+   "symbolSize": 29.623831634352612,
+   "x": 174.45422455845198,
+   "y": -203.16929303854135,
+   "value": {
+    "office": "U.S. Senate Rhode Island",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
+    "name": "Jack Reed",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n77",
+   "name": "SenWhitehouse",
+   "symbolSize": 30.630087852604515,
+   "x": -174.3649125585365,
+   "y": 242.36715125277158,
+   "value": {
+    "office": "U.S. Senate Rhode Island",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
+    "name": "Sheldon Whitehouse",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n78",
+   "name": "JeffMerkley",
+   "symbolSize": 4.945149748863416,
+   "x": 316.36986476150014,
+   "y": 387.198870574064,
+   "value": {
+    "office": "U.S. Senate South Carolina",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
+    "name": "Lindsey Graham",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n79",
+   "name": "SenatorTimScott",
+   "symbolSize": 6.883288396354281,
+   "x": 170.94555510976397,
+   "y": -105.23207780810526,
+   "value": {
+    "office": "U.S. Senate South Carolina",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
+    "name": "Tim Scott",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n80",
+   "name": "SenatorRounds",
+   "symbolSize": 23.674345050167215,
+   "x": -417.2025108258957,
+   "y": -207.67564841270223,
+   "value": {
+    "office": "U.S. Senate South Dakota",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
+    "name": "Mike Rounds",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n81",
+   "name": "SenJohnThune",
+   "symbolSize": 22.8435370671696,
+   "x": 228.58400921721955,
+   "y": -297.60369111247553,
+   "value": {
+    "office": "U.S. Senate South Dakota",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
+    "name": "John Thune",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n82",
+   "name": "MarshaBlackburn",
+   "symbolSize": 25.27723809889414,
+   "x": -186.27617187452086,
+   "y": 195.46219503846896,
+   "value": {
+    "office": "U.S. Senate Tennessee",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
+    "name": "Marsha Blackburn",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n83",
+   "name": "SenatorHagerty",
+   "symbolSize": 19.45446703629499,
+   "x": 53.39723982323051,
+   "y": -389.0948560238685,
+   "value": {
+    "office": "U.S. Senate Tennessee",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
+    "name": "Bill Hagerty",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n84",
+   "name": "JohnCornyn",
+   "symbolSize": 10.290379199698215,
+   "x": 155.91066191799132,
+   "y": -72.39298477967657,
+   "value": {
+    "office": "U.S. Senate Texas",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
+    "name": "John Cornyn",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n85",
+   "name": "SenTedCruz",
+   "symbolSize": 21.55798506707534,
+   "x": 277.9857452748938,
+   "y": 208.26357072467442,
+   "value": {
+    "office": "U.S. Senate Texas",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
+    "name": "Ted Cruz",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n86",
+   "name": "SenMikeLee",
+   "symbolSize": 16.042597956268516,
+   "x": -160.67081937371074,
+   "y": -76.04372106792277,
+   "value": {
+    "office": "U.S. Senate Utah",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
+    "name": "Mike Lee",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n87",
+   "name": "SenatorRomney",
+   "symbolSize": 14.48078743496512,
+   "x": -455.4741035131632,
+   "y": -279.61602587572463,
+   "value": {
+    "office": "U.S. Senate Utah",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
+    "name": "Mitt Romney",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n88",
+   "name": "SenSanders",
+   "symbolSize": 21.336842743709393,
+   "x": 113.93045362615123,
+   "y": 52.88615145315407,
+   "value": {
+    "office": "U.S. Senate Vermont",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
+    "name": "Bernie Sanders",
+    "party": "Independent"
+   },
+   "category": 2
+  },
+  {
+   "id": "n89",
+   "name": "SenPeterWelch",
+   "symbolSize": 16.74118474204664,
+   "x": 144.65108380013953,
+   "y": -230.24787353171558,
+   "value": {
+    "office": "U.S. Senate Vermont",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
+    "name": "Peter Welch",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n90",
+   "name": "SenTimKaine",
+   "symbolSize": 9.163942368871227,
+   "x": -451.543086660824,
+   "y": -18.343729147568013,
+   "value": {
+    "office": "U.S. Senate Virginia",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
+    "name": "Tim Kaine",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n91",
+   "name": "MarkWarner",
+   "symbolSize": 26.717010407844384,
+   "x": 448.1943859933102,
+   "y": -286.84553202130144,
+   "value": {
+    "office": "U.S. Senate Virginia",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
+    "name": "Mark Warner",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n92",
+   "name": "SenatorCantwell",
+   "symbolSize": 25.78156459605104,
+   "x": -498.2292842732191,
+   "y": -7.891024424875525,
+   "value": {
+    "office": "U.S. Senate Washington",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
+    "name": "Maria Cantwell",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n93",
+   "name": "PattyMurray",
+   "symbolSize": 2.88345395455171,
+   "x": -109.26108087917817,
+   "y": -1.6776921997955014,
+   "value": {
+    "office": "U.S. Senate Washington",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
+    "name": "Patty Murray",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n94",
+   "name": "SenCapito",
+   "symbolSize": 24.765872715023345,
+   "x": 82.3539720855855,
+   "y": -40.11353620050562,
+   "value": {
+    "office": "U.S. Senate West Virginia",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
+    "name": "Shelley Moore Capito",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n95",
+   "name": "JoeManchinIII",
+   "symbolSize": 9.527952131072768,
+   "x": 108.77539681006124,
+   "y": 100.56737387386124,
+   "value": {
+    "office": "U.S. Senate West Virginia",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
+    "name": "Joe Manchin III",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n96",
+   "name": "SenatorBaldwin",
+   "symbolSize": 23.56314379078989,
+   "x": 192.47225049906808,
+   "y": 164.03161973566478,
+   "value": {
+    "office": "U.S. Senate Wisconsin",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
+    "name": "Tammy Baldwin",
+    "party": "Democratic"
+   },
+   "category": 1
+  },
+  {
+   "id": "n97",
+   "name": "SenRonJohnson",
+   "symbolSize": 10.361057791548635,
+   "x": 342.0397468030619,
+   "y": -15.818915867008684,
+   "value": {
+    "office": "U.S. Senate Wisconsin",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
+    "name": "Ronald Harold Johnson",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n98",
+   "name": "SenJohnBarrasso",
+   "symbolSize": 29.949261687002462,
+   "x": -0.8316790385230775,
+   "y": -410.8670617531969,
+   "value": {
+    "office": "U.S. Senate Wyoming",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
+    "name": "John Barrasso",
+    "party": "Republican"
+   },
+   "category": 0
+  },
+  {
+   "id": "n99",
+   "name": "SenLummis",
+   "symbolSize": 26.40332205997235,
+   "x": 129.763075234089,
+   "y": -378.32372996956343,
+   "value": {
+    "office": "U.S. Senate Wyoming",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
+    "name": "Cynthia Lummis",
+    "party": "Republican"
+   },
+   "category": 0
+  }
+ ],
+ "links": [],
+ "categories": [
+  {
+   "name": "Republican"
+  },
+  {
+   "name": "Democratic"
+  },
+  {
+   "name": "Independent"
+  }
+ ]
+}
