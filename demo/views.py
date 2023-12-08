@@ -20,8 +20,18 @@ def index(request):
         senators["senator_info"][_tw_name] = info["name"]
     return render(request, "./index.html", context=senators)
 
-def graphoverall(request):
-    return render(request, "./graph-overall.html")
+def graphoverall(request, num):
+    file_list = ["following-network.json", "coat-network.json", "coexist-network.json"]
+    disp_list = ["Following Network", "Co@ Network", "Coexist Network"]
+    senator_info = senator_reader()
+    msg = {}
+    msg["filename"] = file_list[num]
+    msg["dispname"] = disp_list[num]
+    msg["senator_info"] = {}
+    for tw_name, info in senator_info.items():
+        _tw_name = "@" + tw_name
+        msg["senator_info"][_tw_name] = info["name"]
+    return render(request, "./graph-overall.html", context=msg)
 
 def graphofone(request):
     return render(request, "./graph-of-one.html")
@@ -66,12 +76,3 @@ def search(request):
         json_file = ".\static\data\\" + filename + ".json"
         relation_dump(senator_name, senator_info, json_file, mats=[following_mat, coat_mat, coexist_mat])
         return render(request, "./graph-of-one.html", context=msg)
-    
-def page1(request):
-    return render(request, "./page1.html")
-
-def page2(request):
-    return render(request, "./page2.html")
-
-def page3(request):
-    return render(request, "./page3.html")

@@ -4,10 +4,46 @@
 <!DOCTYPE html>
 <html lang="zh-CN" style="height: 100%">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>美国议员社交网络分析</title>
+  <link rel="stylesheet" href="../../static/css/bootstrap.css">
+  <link rel="stylesheet" href="../../static/css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="../../static/css/index.css">
 </head>
 <body style="height: 100%; margin: 0">
-  <div id="container" style="height: 100%"></div>
+  <nav class="navbar navbar-default" >
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">舆情分析大作业</a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="../index">首页 <span class="sr-only">(current)</span></a></li>
+          <li><a href="../graphoverall/0">关注网络</a></li>
+          <li><a href="../graphoverall/1">内容网络</a></li>
+          <li><a href="../graphoverall/2">同现网络</a></li>
+        </ul>
+
+        <form id="search-form" class="navbar-form navbar-right" action="../search" method="get"> 
+          <div class="form-group">
+            <input type="text" class="form-control typeahead" placeholder="real name or @twittername" name="SenatorName" id="SenatorName" autocomplete="off">
+          </div>
+          <button type="submit" class="btn btn-default" value="search">查询</button>
+        </form>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+  <div id="container" style="width: 80%; height: 100%; float: right;"></div>
   {% load static %}
   <script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
   <script type="text/javascript" src="{% static 'js/echarts.min.js' %}"></script>
@@ -39,30 +75,62 @@
     //var ROOT_PATH = 'https://echarts.apache.org/examples';
     var ROOT_PATH = '/static/data/';
     var option;
-
+    var chartwidth = myChart.getWidth();
+    var chartheight = myChart.getHeight();
     myChart.showLoading();
-$.getJSON(ROOT_PATH + 'following-network.json', function (graph) {
+$.getJSON(ROOT_PATH + '{{filename}}', function (graph) {
   myChart.hideLoading();
+  graph.nodes.forEach(node => {
+    node.itemStyle = {
+      color: node.color
+    }
+  })
   option = {
     title: {
-      text: 'Following Network',
+      text: "{{dispname}}",
       subtext: 'Default layout',
       top: 'bottom',
       left: 'right'
     },
-    tooltip: {},
+    tooltip: {
+      formatter: function(params) {
+        //console.log(params);
+        var content = "";
+        if (params.dataType === 'node') {
+          const value = params.data.value;
+          content = `
+            <div style="font-weight:bold;">Real Name: <span style="color: gray">${value.name}</span></div>
+            <div style="font-weight:bold;">Office: <span style="color: gray">${value.office}</span></div>
+            <div style="font-weight:bold;">Party: <span style="color: gray">${value.party}</span></div>
+          `;
+        }
+        else if (params.dataType == 'edge') {
+          const value = params.data
+          const nodes = myChart.getOption().series[0].data;
+          source_id = value.source;
+          target_id = value.target;
+          let source_obj = nodes.find(item => item.id === source_id);
+          let target_obj = nodes.find(item => item.id == target_id);
+          const sourceNode = source_obj.name;
+          const targetNode = target_obj.name;
+          content = `${sourceNode} -> ${targetNode}`;
+        }
+
+        return content;
+      }
+    },
     legend: [
       {
         data: graph.categories.map(function (a) {
           return a.name;
-        })
-      }
+        }),
+      },
     ],
     animationDuration: 1500,
-    animationEasingUpdate: 'quinticInOut',
+    animationEasingUpdate: 'quarticInOut',
     series: [
       {
-        name: 'Following Network',
+        name: "{{dispname}}",
         type: 'graph',
         layout: 'none',
         data: graph.nodes,
@@ -91,17 +159,83 @@ $.getJSON(ROOT_PATH + 'following-network.json', function (graph) {
             width: 10
           }
         }
-      }
+      },
+      {
+        name: "classify"
+      },
     ]
   };
   myChart.setOption(option);
+  console.log(option);
 });
 
     if (option && typeof option === 'object') {
       myChart.setOption(option);
     }
+    myChart.on('click', function (params) {
+      console.log(params);
+      if (params.dataType === 'node')
+      {
+        var clickedNode = params.data;
+        //var infomation = params.data.value;
+        displayInfomation(clickedNode);
+      }
 
+});
+function displayInfomation(information) {
+  var infoElement = document.getElementById('info-container');
+  var twitter_name = information.name;
+  var office = information.value.office;
+  var real_name = information.value.name;
+  var party = information.value.party;
+  var imgSrc = `/static/img/Senators/${twitter_name}.jpg`;
+  var _name = real_name.replace(/ /g, "_");
+  var wiki_url = `https://en.wikipedia.org/wiki/${_name}`;
+  var HTMLcontent = `
+
+  <div class="row" >
+  <div class="col-sm-6 col-md-4" style="width:280px" >
+    <div class="thumbnail" >
+      <img alt="Senator Image Here" style="width:150px; height: 150px;" src=${imgSrc}/>
+      <div class="caption" >
+        <h3>${real_name}</h3>
+        <p>
+          Name: ${real_name}<br>
+          Office: ${office}<br>
+          Party: ${party}<br>
+          TwitterID: <a href="https://twitter.com/${twitter_name}">@${twitter_name}</a><br>
+        </p>
+        <p><a href="https://twitter.com/${twitter_name}" class="btn btn-primary" role="button">推特主页</a> <a href="${wiki_url}" class="btn btn-default" role="button">维基百科</a></p>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  `;
+  infoElement.innerHTML = HTMLcontent;
+}
     window.addEventListener('resize', myChart.resize);
+
   </script>
+<div id="info-container" style="height: 100%; float: left"></div>
+<script src="../../static/js/jquery.min.js"></script>
+<script src="../../static/js/bootstrap.min.js"></script>
+<script src="../../static/js/bootstrap3-typeahead.js"></script>
+<script>
+  var data = "{{senator_info|safe}}";
+  var data = data.replace(/'/g, '"');
+  var data = JSON.parse(data);
+  var twNames = Object.keys(data);
+  var realNames = Object.values(data);
+  var dataList = twNames.concat(realNames);
+  $("#SenatorName").typeahead(
+    {
+      source: dataList,
+      items: 5,
+    }
+  )
+</script>
+<script src="../../static/js/jquery.min.js"></script>
+<script src="../../static/js/bootstrap.js"></script>
 </body>
 </html>
