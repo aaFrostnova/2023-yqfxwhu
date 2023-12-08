@@ -1,26 +1,26 @@
 {
  "nodes": [
   {
-   "id": "n1",
-   "name": "SenTuberville",
+   "id": "n89",
+   "name": "SenPeterWelch",
    "symbolSize": 30.8,
    "x": 0,
    "y": 0,
    "color": "#6495ED",
    "value": {
-    "office": "U.S. Senate Alabama",
-    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
-    "name": "Tommy Tuberville",
-    "party": "Republican"
+    "office": "U.S. Senate Vermont",
+    "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
+    "name": "Peter Welch",
+    "party": "Democratic"
    },
    "category": 0
   },
   {
    "id": "n0",
    "name": "SenKatieBritt",
-   "symbolSize": 5.10345788813143,
-   "x": -349.66130201242385,
-   "y": 319.21610974999646,
+   "symbolSize": 3.2727222676293843,
+   "x": 134.99597447670158,
+   "y": -400.69009430736105,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alabama",
@@ -31,11 +31,11 @@
    "category": 1
   },
   {
-   "id": "n2",
+   "id": "n1",
    "name": "SenTuberville",
-   "symbolSize": 16.640790115326418,
-   "x": -315.48411327606766,
-   "y": 372.0301314309103,
+   "symbolSize": 2.0069523999464036,
+   "x": -471.3133987644519,
+   "y": 223.23632699119128,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alabama",
@@ -46,11 +46,11 @@
    "category": 1
   },
   {
-   "id": "n3",
+   "id": "n2",
    "name": "lisamurkowski",
-   "symbolSize": 17.928381853840204,
-   "x": -292.7042252223867,
-   "y": -41.012978510456264,
+   "symbolSize": 14.355008999659894,
+   "x": -494.78621550322475,
+   "y": -218.86774467243555,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alaska",
@@ -61,11 +61,11 @@
    "category": 1
   },
   {
-   "id": "n4",
+   "id": "n3",
    "name": "SenDanSullivan",
-   "symbolSize": 4.630520271232482,
-   "x": -16.097287779511362,
-   "y": 50.699645760245176,
+   "symbolSize": 29.543699478300624,
+   "x": -326.4112125784684,
+   "y": 484.85168018152706,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alaska",
@@ -76,11 +76,11 @@
    "category": 1
   },
   {
-   "id": "n5",
+   "id": "n4",
    "name": "SenMarkKelly",
-   "symbolSize": 13.44897095913309,
-   "x": 475.48572255391866,
-   "y": -371.16159808752366,
+   "symbolSize": 29.24265811342313,
+   "x": 202.1061027010893,
+   "y": -42.4024704336735,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Arizona",
@@ -91,11 +91,11 @@
    "category": 1
   },
   {
-   "id": "n6",
+   "id": "n5",
    "name": "SenatorSinema",
-   "symbolSize": 13.457477583866627,
-   "x": 223.51861533056513,
-   "y": -478.6104261937567,
+   "symbolSize": 20.866620068583174,
+   "x": -322.94522703597124,
+   "y": 487.44094770082313,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Arizona",
@@ -106,11 +106,11 @@
    "category": 1
   },
   {
-   "id": "n7",
+   "id": "n6",
    "name": "JohnBoozman",
-   "symbolSize": 12.760886506368927,
-   "x": 94.35319901097967,
-   "y": -457.94420389254043,
+   "symbolSize": 7.254560467723537,
+   "x": -403.46272142945713,
+   "y": -60.28436638100743,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Arkansas",
@@ -121,11 +121,11 @@
    "category": 1
   },
   {
-   "id": "n8",
+   "id": "n7",
    "name": "SenTomCotton",
-   "symbolSize": 10.691926989772934,
-   "x": 350.9937882678495,
-   "y": -348.9638993134443,
+   "symbolSize": 25.130958666262373,
+   "x": -489.0239689767395,
+   "y": -285.3089242042893,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Arkansas",
@@ -136,11 +136,11 @@
    "category": 1
   },
   {
-   "id": "n9",
+   "id": "n8",
    "name": "Senlaphonza",
-   "symbolSize": 5.17991405699923,
-   "x": 252.5492465601087,
-   "y": -202.2224530963299,
+   "symbolSize": 15.62239719045679,
+   "x": 11.17598445741794,
+   "y": -198.2833068826959,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate California",
@@ -151,11 +151,11 @@
    "category": 1
   },
   {
-   "id": "n10",
+   "id": "n9",
    "name": "SenAlexPadilla",
-   "symbolSize": 22.868472546074084,
-   "x": 152.54749160216193,
-   "y": 496.1873986702767,
+   "symbolSize": 12.060827334854027,
+   "x": 260.56796572408814,
+   "y": -75.29521025589736,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate California",
@@ -166,11 +166,11 @@
    "category": 1
   },
   {
-   "id": "n11",
+   "id": "n10",
    "name": "SenatorBennet",
-   "symbolSize": 16.963196406392676,
-   "x": 261.21781183297753,
-   "y": 227.51525417020173,
+   "symbolSize": 19.908190564495197,
+   "x": 8.35175707295656,
+   "y": 114.28289421025715,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Colorado",
@@ -181,11 +181,11 @@
    "category": 1
   },
   {
-   "id": "n12",
+   "id": "n11",
    "name": "SenatorHick",
-   "symbolSize": 30.176410382669143,
-   "x": 166.85302283522878,
-   "y": 327.52419147380715,
+   "symbolSize": 7.608363380147586,
+   "x": 325.4824036853256,
+   "y": -249.7044489056124,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Colorado",
@@ -196,11 +196,11 @@
    "category": 1
   },
   {
-   "id": "n13",
+   "id": "n12",
    "name": "SenBlumenthal",
-   "symbolSize": 7.138287531794112,
-   "x": 274.44697450158014,
-   "y": -347.09633045820675,
+   "symbolSize": 22.204819804162156,
+   "x": 387.6594851374298,
+   "y": -1.1709879251496886,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Connecticut",
@@ -211,11 +211,11 @@
    "category": 1
   },
   {
-   "id": "n14",
+   "id": "n13",
    "name": "ChrisMurphyCT",
-   "symbolSize": 8.794691638818232,
-   "x": -454.34689997002386,
-   "y": -213.50884877712627,
+   "symbolSize": 16.673620513245883,
+   "x": 53.78435224700354,
+   "y": -52.023491219009486,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Connecticut",
@@ -226,11 +226,11 @@
    "category": 1
   },
   {
-   "id": "n15",
+   "id": "n14",
    "name": "SenatorCarper",
-   "symbolSize": 30.776044362581302,
-   "x": -453.2242693628836,
-   "y": 113.0359274142993,
+   "symbolSize": 6.968389367547417,
+   "x": -163.79745536179956,
+   "y": -413.9677736633284,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Delaware",
@@ -241,11 +241,11 @@
    "category": 1
   },
   {
-   "id": "n16",
+   "id": "n15",
    "name": "ChrisCoons",
-   "symbolSize": 10.228945851259532,
-   "x": 318.98553930489993,
-   "y": 199.96622327175282,
+   "symbolSize": 16.828164780902803,
+   "x": -487.99091420156094,
+   "y": -273.6580254554988,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Delaware",
@@ -256,11 +256,11 @@
    "category": 1
   },
   {
-   "id": "n17",
+   "id": "n16",
    "name": "marcorubio",
-   "symbolSize": 7.680045539886882,
-   "x": 10.126171353300606,
-   "y": 398.14328073173897,
+   "symbolSize": 7.658645345220265,
+   "x": 336.12476004580515,
+   "y": 435.0319314468745,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Florida",
@@ -271,11 +271,11 @@
    "category": 1
   },
   {
-   "id": "n18",
+   "id": "n17",
    "name": "SenRickScott",
-   "symbolSize": 4.366355451367442,
-   "x": 333.8136837553742,
-   "y": 437.6704144288209,
+   "symbolSize": 30.603844245579005,
+   "x": 430.92578370463445,
+   "y": 123.5824278819008,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Florida",
@@ -286,11 +286,11 @@
    "category": 1
   },
   {
-   "id": "n19",
+   "id": "n18",
    "name": "ossoff",
-   "symbolSize": 30.598127967150894,
-   "x": -293.1604176746414,
-   "y": -267.9090990941757,
+   "symbolSize": 17.389795485105783,
+   "x": -145.86549214185993,
+   "y": 119.34339983916516,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Georgia",
@@ -301,11 +301,11 @@
    "category": 1
   },
   {
-   "id": "n20",
+   "id": "n19",
    "name": "ReverendWarnock",
-   "symbolSize": 26.92014417393307,
-   "x": 72.33306440049921,
-   "y": 472.27139499863995,
+   "symbolSize": 7.938938993677248,
+   "x": -301.4529196288176,
+   "y": 91.77281204604117,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Georgia",
@@ -316,11 +316,11 @@
    "category": 1
   },
   {
-   "id": "n21",
+   "id": "n20",
    "name": "maziehirono",
-   "symbolSize": 26.49684513748127,
-   "x": 372.98215148138945,
-   "y": -376.378844920357,
+   "symbolSize": 26.362412256764067,
+   "x": 306.7038567629022,
+   "y": -127.37169760106326,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Hawaii",
@@ -331,11 +331,11 @@
    "category": 1
   },
   {
-   "id": "n22",
+   "id": "n21",
    "name": "brianschatz",
-   "symbolSize": 2.8386007180629433,
-   "x": -147.15373965983923,
-   "y": 222.33063851390875,
+   "symbolSize": 11.855929357685524,
+   "x": 70.58955894778387,
+   "y": 162.33819821267912,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Hawaii",
@@ -346,11 +346,11 @@
    "category": 1
   },
   {
-   "id": "n23",
+   "id": "n22",
    "name": "MikeCrapo",
-   "symbolSize": 7.905513618977311,
-   "x": 168.4314041211759,
-   "y": 225.32535905479494,
+   "symbolSize": 30.597493333083403,
+   "x": -368.49786605962896,
+   "y": -218.1191937766954,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Idaho",
@@ -361,11 +361,11 @@
    "category": 1
   },
   {
-   "id": "n24",
+   "id": "n23",
    "name": "SenatorRisch",
-   "symbolSize": 25.835505028099675,
-   "x": 435.4442699614365,
-   "y": -234.89137918265135,
+   "symbolSize": 2.4768792679651543,
+   "x": 56.407654842911825,
+   "y": -3.1784373879773966,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Idaho",
@@ -376,11 +376,11 @@
    "category": 1
   },
   {
-   "id": "n25",
+   "id": "n24",
    "name": "SenDuckworth",
-   "symbolSize": 21.422582669300755,
-   "x": 309.24299518373437,
-   "y": -10.142153556886399,
+   "symbolSize": 23.519226405459325,
+   "x": -212.6887562374742,
+   "y": 419.2045625196431,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Illinois",
@@ -391,11 +391,11 @@
    "category": 1
   },
   {
-   "id": "n26",
+   "id": "n25",
    "name": "SenatorDurbin",
-   "symbolSize": 9.783322143645096,
-   "x": -359.96602847680214,
-   "y": -399.73176196304206,
+   "symbolSize": 30.534418936418273,
+   "x": 281.12372969100534,
+   "y": -266.9538218282229,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Illinois",
@@ -406,11 +406,11 @@
    "category": 1
   },
   {
-   "id": "n27",
+   "id": "n26",
    "name": "SenatorBraun",
-   "symbolSize": 10.94294439812351,
-   "x": -216.74261987780864,
-   "y": -263.7241213996608,
+   "symbolSize": 25.137794719876567,
+   "x": 179.78055408110913,
+   "y": -255.282961799002,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Indiana",
@@ -421,11 +421,11 @@
    "category": 1
   },
   {
-   "id": "n28",
+   "id": "n27",
    "name": "SenToddYoung",
-   "symbolSize": 9.890122717725934,
-   "x": -139.8456645952154,
-   "y": 346.206681822134,
+   "symbolSize": 25.259525550073832,
+   "x": -346.43589767135495,
+   "y": -174.17948583727673,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Indiana",
@@ -436,11 +436,11 @@
    "category": 1
   },
   {
-   "id": "n29",
+   "id": "n28",
    "name": "SenJoniErnst",
-   "symbolSize": 15.909522532226562,
-   "x": -205.72551804073936,
-   "y": 200.63382836149685,
+   "symbolSize": 14.417969450974269,
+   "x": 117.17167805825193,
+   "y": -156.56888283944784,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Iowa",
@@ -451,11 +451,11 @@
    "category": 1
   },
   {
-   "id": "n30",
+   "id": "n29",
    "name": "ChuckGrassley",
-   "symbolSize": 9.095354707029916,
-   "x": -60.761824201714376,
-   "y": 93.9743553289535,
+   "symbolSize": 24.809340930472967,
+   "x": -427.2343367262218,
+   "y": 374.5621739496554,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Iowa",
@@ -466,11 +466,11 @@
    "category": 1
   },
   {
-   "id": "n31",
+   "id": "n30",
    "name": "RogerMarshallMD",
-   "symbolSize": 11.479362320977968,
-   "x": 40.0227389670747,
-   "y": 283.88505883682274,
+   "symbolSize": 26.853021806037734,
+   "x": -2.751698710914411,
+   "y": 314.11954219132144,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kansas",
@@ -481,11 +481,11 @@
    "category": 1
   },
   {
-   "id": "n32",
+   "id": "n31",
    "name": "JerryMoran",
-   "symbolSize": 12.233332779629707,
-   "x": -443.72807265329664,
-   "y": 236.97995029978165,
+   "symbolSize": 22.12297499872161,
+   "x": 20.22408618858117,
+   "y": -486.07217011800395,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kansas",
@@ -496,11 +496,11 @@
    "category": 1
   },
   {
-   "id": "n33",
+   "id": "n32",
    "name": "LeaderMcConnell",
-   "symbolSize": 8.567519541181644,
-   "x": -389.01496198699834,
-   "y": 66.90435964619883,
+   "symbolSize": 11.1363001803065,
+   "x": -422.6637885138648,
+   "y": -274.3188333833798,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kentucky",
@@ -511,11 +511,11 @@
    "category": 1
   },
   {
-   "id": "n34",
+   "id": "n33",
    "name": "SenRandPaul",
-   "symbolSize": 18.880053004745598,
-   "x": 429.3017710253771,
-   "y": -278.0973577205692,
+   "symbolSize": 12.736695304029038,
+   "x": 465.5932500515163,
+   "y": 249.74065505807346,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kentucky",
@@ -526,11 +526,11 @@
    "category": 1
   },
   {
-   "id": "n35",
+   "id": "n34",
    "name": "BillCassidy",
-   "symbolSize": 26.00851442224386,
-   "x": -79.40569676663603,
-   "y": 18.10795400867096,
+   "symbolSize": 14.4452807284615,
+   "x": 101.82367353223628,
+   "y": -394.9920656835253,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Louisiana",
@@ -541,11 +541,11 @@
    "category": 1
   },
   {
-   "id": "n36",
+   "id": "n35",
    "name": "SenJohnKennedy",
-   "symbolSize": 11.760094778893208,
-   "x": 396.3172857494018,
-   "y": -432.4196349963537,
+   "symbolSize": 22.961786497174366,
+   "x": 76.56926122998527,
+   "y": 416.0847865286721,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Louisiana",
@@ -556,11 +556,11 @@
    "category": 1
   },
   {
-   "id": "n37",
+   "id": "n36",
    "name": "SenatorCollins",
-   "symbolSize": 11.70377129905727,
-   "x": -108.58211143092012,
-   "y": 497.27351352951905,
+   "symbolSize": 12.34807993757738,
+   "x": 100.74516680893703,
+   "y": 270.2550475952969,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Maine",
@@ -571,11 +571,11 @@
    "category": 1
   },
   {
-   "id": "n38",
+   "id": "n37",
    "name": "SenAngusKing",
-   "symbolSize": 18.447286481792865,
-   "x": 387.70190769238116,
-   "y": 19.641118261982115,
+   "symbolSize": 18.09397884557291,
+   "x": -91.3318531135883,
+   "y": 327.8751665188952,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Maine",
@@ -586,11 +586,11 @@
    "category": 1
   },
   {
-   "id": "n39",
+   "id": "n38",
    "name": "SenatorCardin",
-   "symbolSize": 24.301318837701185,
-   "x": -108.39525590517928,
-   "y": -285.59194464934524,
+   "symbolSize": 2.904507181819847,
+   "x": 57.5778114646688,
+   "y": 190.15721144807935,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Maryland",
@@ -601,11 +601,11 @@
    "category": 1
   },
   {
-   "id": "n40",
+   "id": "n39",
    "name": "ChrisVanHollen",
-   "symbolSize": 4.209400802982557,
-   "x": -112.06157066204878,
-   "y": -247.48581389118186,
+   "symbolSize": 30.58911779782006,
+   "x": 205.384542017252,
+   "y": -210.40738903613567,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Maryland",
@@ -616,11 +616,11 @@
    "category": 1
   },
   {
-   "id": "n41",
+   "id": "n40",
    "name": "SenMarkey",
-   "symbolSize": 9.338026037487559,
-   "x": 23.48172127686348,
-   "y": -418.20593687206275,
+   "symbolSize": 2.0895719839834452,
+   "x": 158.3338580593594,
+   "y": 325.2131004170876,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Massachusetts",
@@ -631,11 +631,11 @@
    "category": 1
   },
   {
-   "id": "n42",
+   "id": "n41",
    "name": "SenWarren",
-   "symbolSize": 4.168025132664152,
-   "x": 18.525011193809632,
-   "y": -365.2014798481912,
+   "symbolSize": 16.861364928573366,
+   "x": -466.9946134087415,
+   "y": 363.4728634625103,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Massachusetts",
@@ -646,11 +646,11 @@
    "category": 1
   },
   {
-   "id": "n43",
+   "id": "n42",
    "name": "SenGaryPeters",
-   "symbolSize": 13.856126412004661,
-   "x": -218.90074448610375,
-   "y": 29.393866696329496,
+   "symbolSize": 19.202154061930347,
+   "x": -372.88726877285535,
+   "y": -475.5833730993101,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Michigan",
@@ -661,11 +661,11 @@
    "category": 1
   },
   {
-   "id": "n44",
+   "id": "n43",
    "name": "SenStabenow",
-   "symbolSize": 2.9522163410523925,
-   "x": 436.9326687854194,
-   "y": 475.5043587565722,
+   "symbolSize": 25.50713497741614,
+   "x": 374.93884681003317,
+   "y": -274.34503759491076,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Michigan",
@@ -676,11 +676,11 @@
    "category": 1
   },
   {
-   "id": "n45",
+   "id": "n44",
    "name": "SenAmyKlobuchar",
-   "symbolSize": 24.198882761328505,
-   "x": -245.00960180998732,
-   "y": 223.33288109830676,
+   "symbolSize": 9.044183308873388,
+   "x": -205.02372864276583,
+   "y": -487.4343241993759,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Minnesota",
@@ -691,11 +691,11 @@
    "category": 1
   },
   {
-   "id": "n46",
+   "id": "n45",
    "name": "SenTinaSmith",
-   "symbolSize": 25.568525714459234,
-   "x": 364.3720477561102,
-   "y": -441.12990213821155,
+   "symbolSize": 4.499622438981728,
+   "x": 103.25594223170651,
+   "y": 409.6294458109396,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Minnesota",
@@ -706,11 +706,11 @@
    "category": 1
   },
   {
-   "id": "n47",
+   "id": "n46",
    "name": "SenHydeSmith",
-   "symbolSize": 12.592592743245417,
-   "x": 143.55764261125864,
-   "y": 300.56385306624065,
+   "symbolSize": 4.29897431764987,
+   "x": 487.0699993292576,
+   "y": 122.94513079177898,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Mississippi",
@@ -721,11 +721,11 @@
    "category": 1
   },
   {
-   "id": "n48",
+   "id": "n47",
    "name": "SenatorWicker",
-   "symbolSize": 2.3475959816501644,
-   "x": -313.7916803234173,
-   "y": 337.1470645887166,
+   "symbolSize": 7.445449632488871,
+   "x": 444.6918676863917,
+   "y": -467.5897014991041,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Mississippi",
@@ -736,11 +736,11 @@
    "category": 1
   },
   {
-   "id": "n49",
+   "id": "n48",
    "name": "HawleyMO",
-   "symbolSize": 8.81864572191916,
-   "x": 264.2630505868292,
-   "y": 145.97753208730433,
+   "symbolSize": 18.086052199401795,
+   "x": 119.93060062125596,
+   "y": 217.6226227750867,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Missouri",
@@ -751,11 +751,11 @@
    "category": 1
   },
   {
-   "id": "n50",
+   "id": "n49",
    "name": "SenEricSchmitt",
-   "symbolSize": 26.044127485912945,
-   "x": 153.9642722294784,
-   "y": -434.02894236948674,
+   "symbolSize": 21.461202686196117,
+   "x": -271.58247800672245,
+   "y": -258.77459379744937,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Missouri",
@@ -766,11 +766,11 @@
    "category": 1
   },
   {
-   "id": "n51",
+   "id": "n50",
    "name": "SteveDaines",
-   "symbolSize": 29.71687707670586,
-   "x": 428.5251404627703,
-   "y": 326.3008413602837,
+   "symbolSize": 24.909924972245676,
+   "x": -122.91478281405574,
+   "y": 167.69249947523406,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Montana",
@@ -781,11 +781,11 @@
    "category": 1
   },
   {
-   "id": "n52",
+   "id": "n51",
    "name": "SenatorTester",
-   "symbolSize": 22.34019720581363,
-   "x": 263.21767931320903,
-   "y": -309.76398521575265,
+   "symbolSize": 17.948800005947238,
+   "x": -263.6087120612799,
+   "y": 372.37497219847114,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Montana",
@@ -796,11 +796,11 @@
    "category": 1
   },
   {
-   "id": "n53",
+   "id": "n52",
    "name": "SenatorFischer",
-   "symbolSize": 29.193123278711607,
-   "x": 119.81244188628523,
-   "y": -400.9099819531675,
+   "symbolSize": 18.83768301048622,
+   "x": 308.74377492199153,
+   "y": 279.91416992891425,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Nebraska",
@@ -811,11 +811,11 @@
    "category": 1
   },
   {
-   "id": "n54",
+   "id": "n53",
    "name": "SenatorRicketts",
-   "symbolSize": 4.580879622310726,
-   "x": -20.233899053879384,
-   "y": 468.3339416787833,
+   "symbolSize": 8.636744297510923,
+   "x": 293.1699014909598,
+   "y": -470.1207250780667,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Nebraska",
@@ -826,11 +826,11 @@
    "category": 1
   },
   {
-   "id": "n55",
+   "id": "n54",
    "name": "SenCortezMasto",
-   "symbolSize": 21.308692478495878,
-   "x": -399.9534788980291,
-   "y": -183.40304583416156,
+   "symbolSize": 28.99623792694991,
+   "x": -364.88987760463067,
+   "y": 271.96334196138037,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Nevada",
@@ -841,11 +841,11 @@
    "category": 1
   },
   {
-   "id": "n56",
+   "id": "n55",
    "name": "SenJackyRosen",
-   "symbolSize": 16.957706947019176,
-   "x": -334.7329166666667,
-   "y": -357.42265816084216,
+   "symbolSize": 23.39109679928144,
+   "x": 385.19742332011094,
+   "y": -138.39360656930558,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Nevada",
@@ -856,11 +856,11 @@
    "category": 1
   },
   {
-   "id": "n57",
+   "id": "n56",
    "name": "SenatorHassan",
-   "symbolSize": 12.55413391907586,
-   "x": -274.28604013622885,
-   "y": -118.62048439277117,
+   "symbolSize": 12.705304632853611,
+   "x": -308.01256602266767,
+   "y": -430.2862611457821,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Hampshire",
@@ -871,11 +871,11 @@
    "category": 1
   },
   {
-   "id": "n58",
+   "id": "n57",
    "name": "SenatorShaheen",
-   "symbolSize": 4.468727970990862,
-   "x": 166.521598050247,
-   "y": -73.54786037393,
+   "symbolSize": 10.796843197785801,
+   "x": 457.05793058297024,
+   "y": -92.72708328585566,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Hampshire",
@@ -886,11 +886,11 @@
    "category": 1
   },
   {
-   "id": "n59",
+   "id": "n58",
    "name": "SenBooker",
-   "symbolSize": 2.9413079054412714,
-   "x": -265.8063688461957,
-   "y": 377.56653935078486,
+   "symbolSize": 9.770518870936376,
+   "x": -409.32945228449694,
+   "y": 84.53331851374196,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Jersey",
@@ -901,11 +901,11 @@
    "category": 1
   },
   {
-   "id": "n60",
+   "id": "n59",
    "name": "SenatorMenendez",
-   "symbolSize": 24.511801389074304,
-   "x": -233.5133655519831,
-   "y": -378.8997307385579,
+   "symbolSize": 11.695115780086718,
+   "x": 132.71102620089607,
+   "y": 260.82217177743155,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Jersey",
@@ -916,11 +916,11 @@
    "category": 1
   },
   {
-   "id": "n61",
+   "id": "n60",
    "name": "SenatorHeinrich",
-   "symbolSize": 2.4169781894878897,
-   "x": -277.21467607729943,
-   "y": 335.8849843611399,
+   "symbolSize": 19.389292312118915,
+   "x": 236.65191307274324,
+   "y": 453.506692857316,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Mexico",
@@ -931,11 +931,11 @@
    "category": 1
   },
   {
-   "id": "n62",
+   "id": "n61",
    "name": "SenatorLujan",
-   "symbolSize": 25.09209961947707,
-   "x": -25.496293797498083,
-   "y": 217.7251408697523,
+   "symbolSize": 28.551232815520898,
+   "x": 406.30910144213146,
+   "y": -292.98695974308043,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Mexico",
@@ -946,11 +946,11 @@
    "category": 1
   },
   {
-   "id": "n63",
+   "id": "n62",
    "name": "SenGillibrand",
-   "symbolSize": 7.714766742841452,
-   "x": -67.00686098334609,
-   "y": -219.65872771858642,
+   "symbolSize": 13.942028403298249,
+   "x": 16.141095690601333,
+   "y": 30.049856438106872,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New York",
@@ -961,11 +961,11 @@
    "category": 1
   },
   {
-   "id": "n64",
+   "id": "n63",
    "name": "SenSchumer",
-   "symbolSize": 26.822713905511797,
-   "x": -415.75983028906495,
-   "y": -128.0065333691541,
+   "symbolSize": 13.199524047103232,
+   "x": -453.19875889401965,
+   "y": 169.6493301235771,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New York",
@@ -976,11 +976,11 @@
    "category": 1
   },
   {
-   "id": "n65",
+   "id": "n64",
    "name": "SenTedBuddNC",
-   "symbolSize": 24.1729321910159,
-   "x": 167.76350549838355,
-   "y": -281.28940512119595,
+   "symbolSize": 25.894694427074157,
+   "x": 46.73299383333176,
+   "y": 29.177506820763483,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Carolina",
@@ -991,11 +991,11 @@
    "category": 1
   },
   {
-   "id": "n66",
+   "id": "n65",
    "name": "SenThomTillis",
-   "symbolSize": 16.25555236301805,
-   "x": 103.58651547848967,
-   "y": 256.10271937716595,
+   "symbolSize": 2.3676142653144088,
+   "x": -74.28337765118442,
+   "y": 116.0559805545081,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Carolina",
@@ -1006,11 +1006,11 @@
    "category": 1
   },
   {
-   "id": "n67",
+   "id": "n66",
    "name": "SenKevinCramer",
-   "symbolSize": 30.152118919171475,
-   "x": 426.7189699025871,
-   "y": -430.2533783243458,
+   "symbolSize": 19.686648038021552,
+   "x": 339.6941120317374,
+   "y": -119.02457465728378,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Dakota",
@@ -1021,11 +1021,11 @@
    "category": 1
   },
   {
-   "id": "n68",
+   "id": "n67",
    "name": "SenJohnHoeven",
-   "symbolSize": 23.903618568015883,
-   "x": 92.13409614851071,
-   "y": 386.9537027268833,
+   "symbolSize": 28.311911096860705,
+   "x": -279.86320487887184,
+   "y": 82.5442294852827,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Dakota",
@@ -1036,11 +1036,11 @@
    "category": 1
   },
   {
-   "id": "n69",
+   "id": "n68",
    "name": "SenSherrodBrown",
-   "symbolSize": 29.849037335892096,
-   "x": -484.2902308432624,
-   "y": 464.72433063785616,
+   "symbolSize": 8.036986662315577,
+   "x": 254.2036592665288,
+   "y": 97.03492236271654,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Ohio",
@@ -1051,11 +1051,11 @@
    "category": 1
   },
   {
-   "id": "n70",
+   "id": "n69",
    "name": "SenVancePress",
-   "symbolSize": 22.779337508008275,
-   "x": 155.39946675731403,
-   "y": 472.76326825022306,
+   "symbolSize": 27.916657889060154,
+   "x": -108.39555322795991,
+   "y": 75.29187691377888,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Ohio",
@@ -1066,11 +1066,11 @@
    "category": 1
   },
   {
-   "id": "n71",
+   "id": "n70",
    "name": "SenatorLankford",
-   "symbolSize": 11.2435122206925,
-   "x": 430.1734466251254,
-   "y": 495.1227158494755,
+   "symbolSize": 29.02416901846474,
+   "x": 53.631706497408686,
+   "y": 243.24940199106254,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Oklahoma",
@@ -1081,11 +1081,11 @@
    "category": 1
   },
   {
-   "id": "n72",
+   "id": "n71",
    "name": "SenMullin",
-   "symbolSize": 3.5393366791281715,
-   "x": 95.38887607521133,
-   "y": -352.845515331818,
+   "symbolSize": 18.7462822989363,
+   "x": -141.7700349752975,
+   "y": -438.8314161349265,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Oklahoma",
@@ -1096,11 +1096,11 @@
    "category": 1
   },
   {
-   "id": "n73",
+   "id": "n72",
    "name": "SenJeffMerkley",
-   "symbolSize": 3.574021391221425,
-   "x": 3.7192789442405,
-   "y": 247.00545169441784,
+   "symbolSize": 11.790273213704095,
+   "x": -154.375005271009,
+   "y": -50.13053600922126,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Oregon",
@@ -1111,11 +1111,11 @@
    "category": 1
   },
   {
-   "id": "n74",
+   "id": "n73",
    "name": "RonWyden",
-   "symbolSize": 14.99478081563882,
-   "x": 467.96694818249887,
-   "y": -52.22030205864883,
+   "symbolSize": 12.958017694022516,
+   "x": 309.66050501212885,
+   "y": 178.9527835235731,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Oregon",
@@ -1126,11 +1126,11 @@
    "category": 1
   },
   {
-   "id": "n75",
+   "id": "n74",
    "name": "SenBobCasey",
-   "symbolSize": 30.39986281008318,
-   "x": -172.28589183268127,
-   "y": -122.23557978863539,
+   "symbolSize": 12.834846222218525,
+   "x": 498.1095980921301,
+   "y": -203.94424302733307,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Pennsylvania",
@@ -1141,11 +1141,11 @@
    "category": 1
   },
   {
-   "id": "n76",
+   "id": "n75",
    "name": "SenFettermanPA",
-   "symbolSize": 25.12743996040608,
-   "x": -429.2631762025981,
-   "y": -43.716563590271335,
+   "symbolSize": 4.47618865080968,
+   "x": 80.40106571970205,
+   "y": 79.94919240847867,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Pennsylvania",
@@ -1156,11 +1156,11 @@
    "category": 1
   },
   {
-   "id": "n77",
+   "id": "n76",
    "name": "SenJackReed",
-   "symbolSize": 23.258775048765525,
-   "x": -454.19023392678,
-   "y": -113.53549239531168,
+   "symbolSize": 14.544750744733387,
+   "x": -139.62230101933324,
+   "y": 417.5991687950167,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Rhode Island",
@@ -1171,11 +1171,11 @@
    "category": 1
   },
   {
-   "id": "n78",
+   "id": "n77",
    "name": "SenWhitehouse",
-   "symbolSize": 17.754012389259547,
-   "x": 166.43420394714008,
-   "y": -473.9815473250181,
+   "symbolSize": 6.3416279595823175,
+   "x": 191.2721858628513,
+   "y": 21.71631425168198,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Rhode Island",
@@ -1186,11 +1186,11 @@
    "category": 1
   },
   {
-   "id": "n79",
+   "id": "n78",
    "name": "JeffMerkley",
-   "symbolSize": 26.17432647227634,
-   "x": 451.2939580641779,
-   "y": -321.3371866550866,
+   "symbolSize": 1.774711663497933,
+   "x": 4.573421711543176,
+   "y": -456.8969993122645,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Carolina",
@@ -1201,11 +1201,11 @@
    "category": 1
   },
   {
-   "id": "n80",
+   "id": "n79",
    "name": "SenatorTimScott",
-   "symbolSize": 30.188054938506088,
-   "x": -10.556961594338816,
-   "y": -87.71136190247506,
+   "symbolSize": 20.62260037932933,
+   "x": 42.805556925628935,
+   "y": -313.9045721930281,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Carolina",
@@ -1216,11 +1216,11 @@
    "category": 1
   },
   {
-   "id": "n81",
+   "id": "n80",
    "name": "SenatorRounds",
-   "symbolSize": 15.223402653547007,
-   "x": -165.2813164205836,
-   "y": 89.59707158741128,
+   "symbolSize": 29.056823649996822,
+   "x": 466.3203929812146,
+   "y": -245.292485015585,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Dakota",
@@ -1231,11 +1231,11 @@
    "category": 1
   },
   {
-   "id": "n82",
+   "id": "n81",
    "name": "SenJohnThune",
-   "symbolSize": 29.62376784913061,
-   "x": -305.6889960159507,
-   "y": -381.4307471128683,
+   "symbolSize": 6.489194464745032,
+   "x": -186.5094498696692,
+   "y": -410.38372508479614,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Dakota",
@@ -1246,11 +1246,11 @@
    "category": 1
   },
   {
-   "id": "n83",
+   "id": "n82",
    "name": "MarshaBlackburn",
-   "symbolSize": 27.323029125578046,
-   "x": 184.4491237039207,
-   "y": -426.3301485353731,
+   "symbolSize": 9.111149443843122,
+   "x": -80.88368196774911,
+   "y": -145.86491278759848,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Tennessee",
@@ -1261,11 +1261,11 @@
    "category": 1
   },
   {
-   "id": "n84",
+   "id": "n83",
    "name": "SenatorHagerty",
-   "symbolSize": 27.504042677719077,
-   "x": 440.4522968542474,
-   "y": -207.931337281832,
+   "symbolSize": 15.190782339419995,
+   "x": 74.13148295227984,
+   "y": 13.248615321944612,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Tennessee",
@@ -1276,11 +1276,11 @@
    "category": 1
   },
   {
-   "id": "n85",
+   "id": "n84",
    "name": "JohnCornyn",
-   "symbolSize": 2.508511326979452,
-   "x": -452.4929074748494,
-   "y": 35.700563982543144,
+   "symbolSize": 5.0084072354681055,
+   "x": 35.76114335017314,
+   "y": 340.87090500071906,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Texas",
@@ -1291,11 +1291,11 @@
    "category": 1
   },
   {
-   "id": "n86",
+   "id": "n85",
    "name": "SenTedCruz",
-   "symbolSize": 27.463933580912837,
-   "x": -50.31421041465336,
-   "y": 414.2942425955375,
+   "symbolSize": 11.214764420682457,
+   "x": 392.83521926974186,
+   "y": 322.2831307537738,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Texas",
@@ -1306,11 +1306,11 @@
    "category": 1
   },
   {
-   "id": "n87",
+   "id": "n86",
    "name": "SenMikeLee",
-   "symbolSize": 24.343891627064078,
-   "x": 400.67541220815235,
-   "y": 54.53398708080681,
+   "symbolSize": 8.979706909777732,
+   "x": 254.44955501247284,
+   "y": -215.29703165378635,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Utah",
@@ -1321,11 +1321,11 @@
    "category": 1
   },
   {
-   "id": "n88",
+   "id": "n87",
    "name": "SenatorRomney",
-   "symbolSize": 20.26300059078085,
-   "x": -361.5179969849472,
-   "y": 91.45785245647949,
+   "symbolSize": 17.785773792393684,
+   "x": 140.3463167303828,
+   "y": -12.664536352842617,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Utah",
@@ -1336,11 +1336,11 @@
    "category": 1
   },
   {
-   "id": "n89",
+   "id": "n88",
    "name": "SenSanders",
-   "symbolSize": 10.146695665909823,
-   "x": -200.6954092281432,
-   "y": -119.0418591492404,
+   "symbolSize": 11.400210493133937,
+   "x": -243.9350882925001,
+   "y": -404.49665172171024,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Vermont",
@@ -1353,9 +1353,9 @@
   {
    "id": "n90",
    "name": "SenPeterWelch",
-   "symbolSize": 15.833633210985225,
-   "x": 181.7166763289914,
-   "y": 94.49839166207119,
+   "symbolSize": 18.534030027391886,
+   "x": -37.76690862171341,
+   "y": 260.926321038012,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Vermont",
@@ -1368,9 +1368,9 @@
   {
    "id": "n91",
    "name": "SenTimKaine",
-   "symbolSize": 10.296131095438781,
-   "x": -498.2904513340938,
-   "y": 53.56386740314372,
+   "symbolSize": 25.77550523188459,
+   "x": -194.53651864676283,
+   "y": 65.10593732187203,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Virginia",
@@ -1383,9 +1383,9 @@
   {
    "id": "n92",
    "name": "MarkWarner",
-   "symbolSize": 18.8539674901304,
-   "x": 412.2175984487012,
-   "y": -492.5005268512689,
+   "symbolSize": 2.6411935775794237,
+   "x": -229.29564520473457,
+   "y": 87.04968279138484,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Virginia",
@@ -1398,9 +1398,9 @@
   {
    "id": "n93",
    "name": "SenatorCantwell",
-   "symbolSize": 24.557859918146814,
-   "x": 495.4645859420028,
-   "y": 146.75425289157874,
+   "symbolSize": 17.787056366125295,
+   "x": -294.13580173420996,
+   "y": 434.1053555612291,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Washington",
@@ -1413,9 +1413,9 @@
   {
    "id": "n94",
    "name": "PattyMurray",
-   "symbolSize": 16.27638190776767,
-   "x": -92.41362233294336,
-   "y": 392.25147239221474,
+   "symbolSize": 14.068132172646981,
+   "x": 72.1779635074439,
+   "y": 212.59816068046746,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Washington",
@@ -1428,9 +1428,9 @@
   {
    "id": "n95",
    "name": "SenCapito",
-   "symbolSize": 15.953576356890862,
-   "x": 348.3978321363253,
-   "y": 377.73202345372727,
+   "symbolSize": 13.584909413697593,
+   "x": -130.99436842885325,
+   "y": -285.4713327322323,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate West Virginia",
@@ -1443,9 +1443,9 @@
   {
    "id": "n96",
    "name": "JoeManchinIII",
-   "symbolSize": 19.65295557978641,
-   "x": 175.16317809463192,
-   "y": -102.64612756955859,
+   "symbolSize": 16.406354046778034,
+   "x": 308.2301068830337,
+   "y": -335.4131448778801,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate West Virginia",
@@ -1458,9 +1458,9 @@
   {
    "id": "n97",
    "name": "SenatorBaldwin",
-   "symbolSize": 22.404753546327047,
-   "x": -499.50062869537084,
-   "y": -130.33734693312135,
+   "symbolSize": 27.816188246091123,
+   "x": 296.8983488176091,
+   "y": 427.5760623202425,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Wisconsin",
@@ -1473,9 +1473,9 @@
   {
    "id": "n98",
    "name": "SenRonJohnson",
-   "symbolSize": 13.387706154910763,
-   "x": 127.76861969718095,
-   "y": -29.54434506874469,
+   "symbolSize": 18.02745469387425,
+   "x": 347.8360174968226,
+   "y": 496.0491162322717,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wisconsin",
@@ -1488,9 +1488,9 @@
   {
    "id": "n99",
    "name": "SenJohnBarrasso",
-   "symbolSize": 8.227013526389177,
-   "x": 62.21499953011585,
-   "y": 252.57984528075087,
+   "symbolSize": 7.2807829644974,
+   "x": -495.7665203805367,
+   "y": 218.90168248119733,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wyoming",
@@ -1503,9 +1503,9 @@
   {
    "id": "n100",
    "name": "SenLummis",
-   "symbolSize": 28.180579148626162,
-   "x": 487.70473718524136,
-   "y": -13.645992553554947,
+   "symbolSize": 30.416503507404062,
+   "x": 454.6639529595569,
+   "y": -262.14420769619414,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wyoming",
@@ -1518,9 +1518,9 @@
   {
    "id": "n101",
    "name": "SenKatieBritt",
-   "symbolSize": 27.799099293225698,
-   "x": -413.4801896620161,
-   "y": -487.3879362841804,
+   "symbolSize": 9.901213407805242,
+   "x": 213.77472305104618,
+   "y": 299.07939997844755,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alabama",
@@ -1533,9 +1533,9 @@
   {
    "id": "n102",
    "name": "SenTuberville",
-   "symbolSize": 20.991206473293865,
-   "x": 443.12459957163765,
-   "y": 485.79810128125337,
+   "symbolSize": 10.303721884312697,
+   "x": -381.7316207143211,
+   "y": 70.21840469980373,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alabama",
@@ -1548,9 +1548,9 @@
   {
    "id": "n103",
    "name": "lisamurkowski",
-   "symbolSize": 2.2228967168628646,
-   "x": 200.5221947865566,
-   "y": -484.3621303958422,
+   "symbolSize": 10.905250636211457,
+   "x": -63.53614939123844,
+   "y": 488.6918683827878,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alaska",
@@ -1563,9 +1563,9 @@
   {
    "id": "n104",
    "name": "SenDanSullivan",
-   "symbolSize": 12.505420101139643,
-   "x": -305.5415294939189,
-   "y": -207.9606730070813,
+   "symbolSize": 10.292048719235417,
+   "x": -1.6095226552513964,
+   "y": -304.8127150381693,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alaska",
@@ -1578,9 +1578,9 @@
   {
    "id": "n105",
    "name": "SenMarkKelly",
-   "symbolSize": 12.277448985037626,
-   "x": 194.7649513438912,
-   "y": 276.5078894222529,
+   "symbolSize": 1.8639358608729482,
+   "x": -22.52796901290708,
+   "y": -103.31014942050496,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Arizona",
@@ -1593,9 +1593,9 @@
   {
    "id": "n106",
    "name": "SenatorSinema",
-   "symbolSize": 1.945226951009544,
-   "x": 44.2606317611918,
-   "y": 410.9453724312542,
+   "symbolSize": 5.555911655727367,
+   "x": 85.74578397071207,
+   "y": -420.21669386913163,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Arizona",
@@ -1608,9 +1608,9 @@
   {
    "id": "n107",
    "name": "JohnBoozman",
-   "symbolSize": 22.622380263512973,
-   "x": 40.764019794977116,
-   "y": -57.25092805258413,
+   "symbolSize": 22.259663085347057,
+   "x": 162.5619238026369,
+   "y": 334.8019727337106,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Arkansas",
@@ -1623,9 +1623,9 @@
   {
    "id": "n108",
    "name": "SenTomCotton",
-   "symbolSize": 1.5012138907257977,
-   "x": -205.27956130162806,
-   "y": -295.0448439399605,
+   "symbolSize": 27.38712769227981,
+   "x": -293.70390886324424,
+   "y": 485.5666826942314,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Arkansas",
@@ -1638,9 +1638,9 @@
   {
    "id": "n109",
    "name": "Senlaphonza",
-   "symbolSize": 4.740743869962832,
-   "x": -147.96592072743533,
-   "y": 265.47796080632975,
+   "symbolSize": 1.8742051193360623,
+   "x": -380.31935154148476,
+   "y": 329.1082278104735,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate California",
@@ -1653,9 +1653,9 @@
   {
    "id": "n110",
    "name": "SenAlexPadilla",
-   "symbolSize": 6.433536063527631,
-   "x": 81.9383643297432,
-   "y": 299.2269588515827,
+   "symbolSize": 7.369096966676868,
+   "x": 372.16274939230505,
+   "y": 228.2864087442241,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate California",
@@ -1668,9 +1668,9 @@
   {
    "id": "n111",
    "name": "SenatorBennet",
-   "symbolSize": 10.519107762726508,
-   "x": 370.8324967866755,
-   "y": -209.48834761439218,
+   "symbolSize": 2.100692808870814,
+   "x": 84.03688092118568,
+   "y": 36.395032383170815,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Colorado",
@@ -1683,9 +1683,9 @@
   {
    "id": "n112",
    "name": "SenatorHick",
-   "symbolSize": 16.937975285956647,
-   "x": 223.67955234306567,
-   "y": -11.909562047103577,
+   "symbolSize": 26.157118650715407,
+   "x": 139.2865935435592,
+   "y": -449.77034416505956,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Colorado",
@@ -1698,9 +1698,9 @@
   {
    "id": "n113",
    "name": "SenBlumenthal",
-   "symbolSize": 19.702171566117826,
-   "x": -305.9328489573474,
-   "y": 481.2092637069095,
+   "symbolSize": 13.72177407506933,
+   "x": -261.8430214326185,
+   "y": -249.7396589109596,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Connecticut",
@@ -1713,9 +1713,9 @@
   {
    "id": "n114",
    "name": "ChrisMurphyCT",
-   "symbolSize": 8.26281623909738,
-   "x": -233.51407845017138,
-   "y": -211.9570912965596,
+   "symbolSize": 19.55283495033027,
+   "x": -70.80142840184789,
+   "y": 145.19696737730976,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Connecticut",
@@ -1728,9 +1728,9 @@
   {
    "id": "n115",
    "name": "SenatorCarper",
-   "symbolSize": 22.044706422768193,
-   "x": 350.89763188426514,
-   "y": 498.08843516284367,
+   "symbolSize": 24.504031359727914,
+   "x": 183.0229068456814,
+   "y": 370.2822572688867,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Delaware",
@@ -1743,9 +1743,9 @@
   {
    "id": "n116",
    "name": "ChrisCoons",
-   "symbolSize": 25.958697374006547,
-   "x": -495.79800022654973,
-   "y": -422.4658593161712,
+   "symbolSize": 13.970695355275813,
+   "x": 199.2455655107948,
+   "y": 327.9381976953125,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Delaware",
@@ -1758,9 +1758,9 @@
   {
    "id": "n117",
    "name": "marcorubio",
-   "symbolSize": 6.15837075815145,
-   "x": -366.5618072969529,
-   "y": -227.89436204028254,
+   "symbolSize": 23.00277600665424,
+   "x": 457.11806715427815,
+   "y": -100.40125096585206,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Florida",
@@ -1773,9 +1773,9 @@
   {
    "id": "n118",
    "name": "SenRickScott",
-   "symbolSize": 15.053442471483695,
-   "x": -205.93489851755697,
-   "y": 72.76785325826904,
+   "symbolSize": 19.496383045528933,
+   "x": -377.8201702366002,
+   "y": 305.79963761738577,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Florida",
@@ -1788,9 +1788,9 @@
   {
    "id": "n119",
    "name": "ossoff",
-   "symbolSize": 21.275738688572968,
-   "x": -383.2639678256957,
-   "y": -86.24406752371738,
+   "symbolSize": 19.050458522801165,
+   "x": -97.01316118704563,
+   "y": 430.6448086487933,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Georgia",
@@ -1803,9 +1803,9 @@
   {
    "id": "n120",
    "name": "ReverendWarnock",
-   "symbolSize": 13.886268238456037,
-   "x": -151.38535481778302,
-   "y": -358.9061930004508,
+   "symbolSize": 24.31605230327756,
+   "x": -64.13588539008839,
+   "y": -229.36154477480034,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Georgia",
@@ -1818,9 +1818,9 @@
   {
    "id": "n121",
    "name": "maziehirono",
-   "symbolSize": 15.985579757099577,
-   "x": 162.89654479365572,
-   "y": 209.73704404736645,
+   "symbolSize": 28.26143126303851,
+   "x": 403.7396128656819,
+   "y": 370.81454812647974,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Hawaii",
@@ -1833,9 +1833,9 @@
   {
    "id": "n122",
    "name": "brianschatz",
-   "symbolSize": 20.28802368143873,
-   "x": -224.58442053030058,
-   "y": -158.1280106947841,
+   "symbolSize": 25.330361706234083,
+   "x": -329.4348298433205,
+   "y": -176.5957932601865,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Hawaii",
@@ -1848,9 +1848,9 @@
   {
    "id": "n123",
    "name": "MikeCrapo",
-   "symbolSize": 30.471646989487567,
-   "x": 487.74054955581335,
-   "y": -279.26019687131543,
+   "symbolSize": 25.32968672115797,
+   "x": 382.78315438253185,
+   "y": -21.88562141111447,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Idaho",
@@ -1863,9 +1863,9 @@
   {
    "id": "n124",
    "name": "SenatorRisch",
-   "symbolSize": 27.69238798266405,
-   "x": 149.10058484463536,
-   "y": -269.5350618957084,
+   "symbolSize": 14.161142596494052,
+   "x": -315.09346565095404,
+   "y": -470.15364466796836,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Idaho",
@@ -1878,9 +1878,9 @@
   {
    "id": "n125",
    "name": "SenDuckworth",
-   "symbolSize": 29.028788890121014,
-   "x": 280.61823047808934,
-   "y": -251.41435071868236,
+   "symbolSize": 22.666856748255423,
+   "x": 377.39543639086776,
+   "y": 226.77151266270062,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Illinois",
@@ -1893,9 +1893,9 @@
   {
    "id": "n126",
    "name": "SenatorDurbin",
-   "symbolSize": 10.899489463781077,
-   "x": -139.64447955575486,
-   "y": 398.21197684754725,
+   "symbolSize": 22.230741287044932,
+   "x": 173.8327475759162,
+   "y": 485.27208611459764,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Illinois",
@@ -1908,9 +1908,9 @@
   {
    "id": "n127",
    "name": "SenatorBraun",
-   "symbolSize": 7.856599099998234,
-   "x": 308.4319411982548,
-   "y": -369.9442999687769,
+   "symbolSize": 13.754704903872181,
+   "x": 456.5914103205688,
+   "y": -391.5773751921555,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Indiana",
@@ -1923,9 +1923,9 @@
   {
    "id": "n128",
    "name": "SenToddYoung",
-   "symbolSize": 5.017153269463642,
-   "x": 253.56498790904288,
-   "y": -90.13012871833126,
+   "symbolSize": 1.5557026442567237,
+   "x": 313.90640626777054,
+   "y": 120.91016926203747,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Indiana",
@@ -1938,9 +1938,9 @@
   {
    "id": "n129",
    "name": "SenJoniErnst",
-   "symbolSize": 14.29533099495244,
-   "x": 375.14410349745265,
-   "y": -183.4060778929927,
+   "symbolSize": 4.407206813639272,
+   "x": 166.0977373467374,
+   "y": -318.5616878055572,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Iowa",
@@ -1953,9 +1953,9 @@
   {
    "id": "n130",
    "name": "ChuckGrassley",
-   "symbolSize": 29.688929564805612,
-   "x": 318.97392094114,
-   "y": 95.2432951862653,
+   "symbolSize": 15.94700384526568,
+   "x": 77.82554766201145,
+   "y": 93.81694416314804,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Iowa",
@@ -1968,9 +1968,9 @@
   {
    "id": "n131",
    "name": "RogerMarshallMD",
-   "symbolSize": 13.696524893036834,
-   "x": -412.58084487324174,
-   "y": -85.65405911733058,
+   "symbolSize": 26.45300236455973,
+   "x": 431.0757982857232,
+   "y": -102.9994574270342,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kansas",
@@ -1983,9 +1983,9 @@
   {
    "id": "n132",
    "name": "JerryMoran",
-   "symbolSize": 28.541838912307412,
-   "x": 387.5607211362844,
-   "y": -275.05446251098806,
+   "symbolSize": 3.1260297498264666,
+   "x": 212.1275731050115,
+   "y": 11.19103084297302,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kansas",
@@ -1998,9 +1998,9 @@
   {
    "id": "n133",
    "name": "LeaderMcConnell",
-   "symbolSize": 29.508162348969332,
-   "x": -69.7221489672113,
-   "y": 482.2886595542094,
+   "symbolSize": 28.00976838076324,
+   "x": 70.1837499711445,
+   "y": 250.40063154202187,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kentucky",
@@ -2013,9 +2013,9 @@
   {
    "id": "n134",
    "name": "SenRandPaul",
-   "symbolSize": 29.214423568417057,
-   "x": 464.962676744148,
-   "y": -0.4119779592296595,
+   "symbolSize": 29.41589881079656,
+   "x": 286.74708320333696,
+   "y": -214.71640322078434,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kentucky",
@@ -2028,9 +2028,9 @@
   {
    "id": "n135",
    "name": "BillCassidy",
-   "symbolSize": 12.37712274384233,
-   "x": 392.2929196469822,
-   "y": -346.1834460522516,
+   "symbolSize": 30.337827046488325,
+   "x": 394.42088637154586,
+   "y": -467.6596456056549,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Louisiana",
@@ -2043,9 +2043,9 @@
   {
    "id": "n136",
    "name": "SenJohnKennedy",
-   "symbolSize": 2.067091132693988,
-   "x": -483.7445224576098,
-   "y": 338.10316534481035,
+   "symbolSize": 3.058162125560104,
+   "x": 153.43317414620492,
+   "y": 202.85853463949343,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Louisiana",
@@ -2058,9 +2058,9 @@
   {
    "id": "n137",
    "name": "SenatorCollins",
-   "symbolSize": 10.814870468109975,
-   "x": -163.09297734567372,
-   "y": -139.14259070215473,
+   "symbolSize": 3.553550511730787,
+   "x": 50.24429970575375,
+   "y": -406.1445012865652,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Maine",
@@ -2073,9 +2073,9 @@
   {
    "id": "n138",
    "name": "SenAngusKing",
-   "symbolSize": 6.5004408610394036,
-   "x": 415.3902410030032,
-   "y": 265.92157059480496,
+   "symbolSize": 19.774707102701928,
+   "x": 452.86387121712346,
+   "y": -481.8048200733017,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Maine",
@@ -2088,9 +2088,9 @@
   {
    "id": "n139",
    "name": "SenatorCardin",
-   "symbolSize": 17.72346750864664,
-   "x": 495.20448419455727,
-   "y": -373.1178830753493,
+   "symbolSize": 18.810682347722036,
+   "x": -162.917289545066,
+   "y": -117.92099055107786,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Maryland",
@@ -2103,9 +2103,9 @@
   {
    "id": "n140",
    "name": "ChrisVanHollen",
-   "symbolSize": 5.365556529130075,
-   "x": 111.61033607118077,
-   "y": 204.39968904635396,
+   "symbolSize": 20.52675348411575,
+   "x": -383.37197941444265,
+   "y": 383.6356003917988,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Maryland",
@@ -2118,9 +2118,9 @@
   {
    "id": "n141",
    "name": "SenMarkey",
-   "symbolSize": 11.693803775374507,
-   "x": 476.404144081667,
-   "y": 405.631344735434,
+   "symbolSize": 10.949211074514169,
+   "x": -473.5037215789033,
+   "y": -64.44358444895772,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Massachusetts",
@@ -2133,9 +2133,9 @@
   {
    "id": "n142",
    "name": "SenWarren",
-   "symbolSize": 22.910285070128403,
-   "x": -371.56221423347847,
-   "y": 398.75940141851504,
+   "symbolSize": 15.115840734157997,
+   "x": -448.8203886621912,
+   "y": 121.02931163098742,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Massachusetts",
@@ -2148,9 +2148,9 @@
   {
    "id": "n143",
    "name": "SenGaryPeters",
-   "symbolSize": 7.6584596882926235,
-   "x": -445.8134011639595,
-   "y": 424.33990896991384,
+   "symbolSize": 22.027314431047216,
+   "x": -442.7883432974145,
+   "y": -216.57082168538756,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Michigan",
@@ -2163,9 +2163,9 @@
   {
    "id": "n144",
    "name": "SenStabenow",
-   "symbolSize": 7.809863240330429,
-   "x": 99.3118809673606,
-   "y": -194.19764625802185,
+   "symbolSize": 14.090919545739752,
+   "x": 346.6349145170773,
+   "y": -383.0452160473417,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Michigan",
@@ -2178,9 +2178,9 @@
   {
    "id": "n145",
    "name": "SenAmyKlobuchar",
-   "symbolSize": 24.996372112386165,
-   "x": -79.1280997283659,
-   "y": 222.96826814851215,
+   "symbolSize": 16.63013837858201,
+   "x": 221.53398396731484,
+   "y": 407.5924503953721,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Minnesota",
@@ -2193,9 +2193,9 @@
   {
    "id": "n146",
    "name": "SenTinaSmith",
-   "symbolSize": 28.793533681334175,
-   "x": -260.86848620804403,
-   "y": -470.44870847267504,
+   "symbolSize": 21.46682583656681,
+   "x": 380.9699146253372,
+   "y": -298.4091538516918,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Minnesota",
@@ -2208,9 +2208,9 @@
   {
    "id": "n147",
    "name": "SenHydeSmith",
-   "symbolSize": 20.037309257527113,
-   "x": -265.8282662784478,
-   "y": -46.604639714897814,
+   "symbolSize": 29.483797718090432,
+   "x": -97.5670914993326,
+   "y": -225.78788538361647,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Mississippi",
@@ -2223,9 +2223,9 @@
   {
    "id": "n148",
    "name": "SenatorWicker",
-   "symbolSize": 17.180453099578415,
-   "x": 56.79187605665766,
-   "y": -315.07014083518214,
+   "symbolSize": 8.818755974227727,
+   "x": 123.6219294799348,
+   "y": 168.23989133657676,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Mississippi",
@@ -2238,9 +2238,9 @@
   {
    "id": "n149",
    "name": "HawleyMO",
-   "symbolSize": 11.722776261976225,
-   "x": 151.73166062339715,
-   "y": -316.39453005170446,
+   "symbolSize": 14.4816768710191,
+   "x": 393.20376746917225,
+   "y": -384.75994246826264,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Missouri",
@@ -2253,9 +2253,9 @@
   {
    "id": "n150",
    "name": "SenEricSchmitt",
-   "symbolSize": 27.13247390518065,
-   "x": -428.512443175818,
-   "y": 415.874697390384,
+   "symbolSize": 2.321500409694771,
+   "x": 304.16572426838286,
+   "y": 34.58364154700598,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Missouri",
@@ -2268,9 +2268,9 @@
   {
    "id": "n151",
    "name": "SteveDaines",
-   "symbolSize": 3.2762780339243465,
-   "x": 380.9304024981835,
-   "y": 257.6864554149803,
+   "symbolSize": 3.0267809672890857,
+   "x": 238.9160104076592,
+   "y": 385.77498035197334,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Montana",
@@ -2283,9 +2283,9 @@
   {
    "id": "n152",
    "name": "SenatorTester",
-   "symbolSize": 27.67226098774705,
-   "x": -169.7395927711239,
-   "y": -19.95454619950732,
+   "symbolSize": 6.597244803535683,
+   "x": -200.8564649830339,
+   "y": 118.11697664233316,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Montana",
@@ -2298,9 +2298,9 @@
   {
    "id": "n153",
    "name": "SenatorFischer",
-   "symbolSize": 2.9074054166983854,
-   "x": -443.65365161130467,
-   "y": -478.6636585536563,
+   "symbolSize": 22.061519197007772,
+   "x": -145.2231351115808,
+   "y": 264.53791547846845,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Nebraska",
@@ -2313,9 +2313,9 @@
   {
    "id": "n154",
    "name": "SenatorRicketts",
-   "symbolSize": 25.979212666114076,
-   "x": -92.47404520058325,
-   "y": 228.0224725777333,
+   "symbolSize": 5.985612388565539,
+   "x": 43.05405555420077,
+   "y": -437.14717174292275,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Nebraska",
@@ -2328,9 +2328,9 @@
   {
    "id": "n155",
    "name": "SenCortezMasto",
-   "symbolSize": 11.971518420858036,
-   "x": -449.8152700850564,
-   "y": -228.3149628332054,
+   "symbolSize": 4.954852593091179,
+   "x": 302.6770003030683,
+   "y": -429.8614836283996,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Nevada",
@@ -2343,9 +2343,9 @@
   {
    "id": "n156",
    "name": "SenJackyRosen",
-   "symbolSize": 3.0816363532312865,
-   "x": 339.53360991321154,
-   "y": -170.61102863644982,
+   "symbolSize": 8.958058056955927,
+   "x": 115.17129804737726,
+   "y": -177.14300100443438,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Nevada",
@@ -2358,9 +2358,9 @@
   {
    "id": "n157",
    "name": "SenatorHassan",
-   "symbolSize": 4.450367356863387,
-   "x": 85.37802136695177,
-   "y": -30.960468226980083,
+   "symbolSize": 11.883327406044293,
+   "x": 107.1967302509853,
+   "y": 418.8565931717608,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Hampshire",
@@ -2373,9 +2373,9 @@
   {
    "id": "n158",
    "name": "SenatorShaheen",
-   "symbolSize": 20.71622917054561,
-   "x": 412.02039660423736,
-   "y": -497.5826705110251,
+   "symbolSize": 25.68310515559339,
+   "x": 97.79831068973613,
+   "y": -191.05675588823055,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Hampshire",
@@ -2388,9 +2388,9 @@
   {
    "id": "n159",
    "name": "SenBooker",
-   "symbolSize": 29.879784023088213,
-   "x": 402.01716794957963,
-   "y": 175.16408252672636,
+   "symbolSize": 23.886270257800554,
+   "x": 477.4831480263939,
+   "y": -332.2799697996634,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Jersey",
@@ -2403,9 +2403,9 @@
   {
    "id": "n160",
    "name": "SenatorMenendez",
-   "symbolSize": 17.958617808693546,
-   "x": 365.4582328869634,
-   "y": -0.24894512888863574,
+   "symbolSize": 5.822698028986688,
+   "x": -130.22710175017636,
+   "y": 494.31276761863194,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Jersey",
@@ -2418,9 +2418,9 @@
   {
    "id": "n161",
    "name": "SenatorHeinrich",
-   "symbolSize": 10.075178263513966,
-   "x": 428.70235746246647,
-   "y": 247.5796764461578,
+   "symbolSize": 3.431314701338387,
+   "x": 236.24225750042126,
+   "y": 347.9891649096662,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Mexico",
@@ -2433,9 +2433,9 @@
   {
    "id": "n162",
    "name": "SenatorLujan",
-   "symbolSize": 3.6305064150157653,
-   "x": -419.9338632634201,
-   "y": -234.13000001722918,
+   "symbolSize": 11.732881508498304,
+   "x": 282.17959274455075,
+   "y": -490.0716508447646,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Mexico",
@@ -2448,9 +2448,9 @@
   {
    "id": "n163",
    "name": "SenGillibrand",
-   "symbolSize": 10.738548067423405,
-   "x": 177.00298606815693,
-   "y": -246.35240255543044,
+   "symbolSize": 14.609214097911698,
+   "x": -393.6224801698571,
+   "y": 464.5748966695081,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New York",
@@ -2463,9 +2463,9 @@
   {
    "id": "n164",
    "name": "SenSchumer",
-   "symbolSize": 27.36130660426644,
-   "x": -497.33315672049196,
-   "y": -93.49691618461497,
+   "symbolSize": 18.87965065350213,
+   "x": 464.5894682714837,
+   "y": -372.7394630088475,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New York",
@@ -2478,9 +2478,9 @@
   {
    "id": "n165",
    "name": "SenTedBuddNC",
-   "symbolSize": 26.419285060538318,
-   "x": -10.567299288402523,
-   "y": -284.32884162467633,
+   "symbolSize": 5.825797560506989,
+   "x": 333.56772732693446,
+   "y": 251.4004230135091,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Carolina",
@@ -2493,9 +2493,9 @@
   {
    "id": "n166",
    "name": "SenThomTillis",
-   "symbolSize": 17.13225819901075,
-   "x": -66.93948715535436,
-   "y": -404.229337162961,
+   "symbolSize": 21.986546965327346,
+   "x": 182.33263435580966,
+   "y": 149.89161704060007,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Carolina",
@@ -2508,9 +2508,9 @@
   {
    "id": "n167",
    "name": "SenKevinCramer",
-   "symbolSize": 13.85012940740339,
-   "x": -207.13193728433242,
-   "y": -383.1692711403346,
+   "symbolSize": 4.006176945160408,
+   "x": -222.1042917621736,
+   "y": -315.70045460004155,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Dakota",
@@ -2523,9 +2523,9 @@
   {
    "id": "n168",
    "name": "SenJohnHoeven",
-   "symbolSize": 17.405197747304825,
-   "x": 9.30098637101753,
-   "y": 18.73756820206711,
+   "symbolSize": 11.547476961802923,
+   "x": -418.811446745166,
+   "y": -348.32401278748915,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Dakota",
@@ -2538,9 +2538,9 @@
   {
    "id": "n169",
    "name": "SenSherrodBrown",
-   "symbolSize": 4.702502821459787,
-   "x": 151.42583018855214,
-   "y": -375.0848609518356,
+   "symbolSize": 2.1392954958127266,
+   "x": -347.7291639943729,
+   "y": -255.1903191050715,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Ohio",
@@ -2553,9 +2553,9 @@
   {
    "id": "n170",
    "name": "SenVancePress",
-   "symbolSize": 15.657320976581246,
-   "x": 289.02917785329237,
-   "y": 199.85566022969294,
+   "symbolSize": 22.10412745624278,
+   "x": 65.59708872758029,
+   "y": -325.8653552479275,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Ohio",
@@ -2568,9 +2568,9 @@
   {
    "id": "n171",
    "name": "SenatorLankford",
-   "symbolSize": 6.064291928273283,
-   "x": 334.79103671970665,
-   "y": -387.3832637014256,
+   "symbolSize": 12.697011384304687,
+   "x": 219.43840678329957,
+   "y": -162.32876285746897,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Oklahoma",
@@ -2583,9 +2583,9 @@
   {
    "id": "n172",
    "name": "SenMullin",
-   "symbolSize": 29.8888989752155,
-   "x": -467.31755329836034,
-   "y": -284.9723903070355,
+   "symbolSize": 12.771816225632659,
+   "x": 345.53541485139397,
+   "y": 77.73711628506771,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Oklahoma",
@@ -2598,9 +2598,9 @@
   {
    "id": "n173",
    "name": "SenJeffMerkley",
-   "symbolSize": 5.295265065261643,
-   "x": 383.2692611724642,
-   "y": 177.90739191780085,
+   "symbolSize": 26.535774827729195,
+   "x": 226.17204900671175,
+   "y": 324.95000662369864,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Oregon",
@@ -2613,9 +2613,9 @@
   {
    "id": "n174",
    "name": "RonWyden",
-   "symbolSize": 13.437157807301023,
-   "x": -369.80360735865537,
-   "y": -88.67241298126214,
+   "symbolSize": 13.165072083027988,
+   "x": -258.6903987197826,
+   "y": -155.7548751411474,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Oregon",
@@ -2628,9 +2628,9 @@
   {
    "id": "n175",
    "name": "SenBobCasey",
-   "symbolSize": 7.390900096252183,
-   "x": -52.15255155684753,
-   "y": -35.513283309461485,
+   "symbolSize": 14.709223059327671,
+   "x": -403.25914089689695,
+   "y": 312.83308634059756,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Pennsylvania",
@@ -2643,9 +2643,9 @@
   {
    "id": "n176",
    "name": "SenFettermanPA",
-   "symbolSize": 19.053653644008083,
-   "x": 162.99858729598793,
-   "y": 387.29617344104054,
+   "symbolSize": 25.255510898954316,
+   "x": 275.8052173384724,
+   "y": -30.981718654800943,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Pennsylvania",
@@ -2658,9 +2658,9 @@
   {
    "id": "n177",
    "name": "SenJackReed",
-   "symbolSize": 4.539123446226492,
-   "x": 82.08162168118201,
-   "y": -141.71065504653825,
+   "symbolSize": 21.093275296783396,
+   "x": 119.19758974613467,
+   "y": -290.478321123219,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Rhode Island",
@@ -2673,9 +2673,9 @@
   {
    "id": "n178",
    "name": "SenWhitehouse",
-   "symbolSize": 14.78217507502299,
-   "x": -38.48848482580934,
-   "y": -19.603658994848388,
+   "symbolSize": 22.551901451676493,
+   "x": -212.70983774390874,
+   "y": -164.03690002436258,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Rhode Island",
@@ -2688,9 +2688,9 @@
   {
    "id": "n179",
    "name": "JeffMerkley",
-   "symbolSize": 10.038892331874555,
-   "x": 326.5984638141267,
-   "y": 110.73428152303723,
+   "symbolSize": 24.1766995580873,
+   "x": -386.63519552633164,
+   "y": 163.54038452777354,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Carolina",
@@ -2703,9 +2703,9 @@
   {
    "id": "n180",
    "name": "SenatorTimScott",
-   "symbolSize": 30.730124626954595,
-   "x": 43.24005959544024,
-   "y": -268.48087953169164,
+   "symbolSize": 27.790134625533828,
+   "x": -357.1598831318455,
+   "y": 398.8210472978367,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Carolina",
@@ -2718,9 +2718,9 @@
   {
    "id": "n181",
    "name": "SenatorRounds",
-   "symbolSize": 13.008059662546161,
-   "x": -181.86233488799633,
-   "y": 463.88022731691774,
+   "symbolSize": 11.137435625646349,
+   "x": 250.63267501224902,
+   "y": 192.50891454792122,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Dakota",
@@ -2733,9 +2733,9 @@
   {
    "id": "n182",
    "name": "SenJohnThune",
-   "symbolSize": 27.34002038430804,
-   "x": -465.4695366860434,
-   "y": -334.33234374751066,
+   "symbolSize": 19.869228115849666,
+   "x": -36.06384892273485,
+   "y": -278.8289066764925,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Dakota",
@@ -2748,9 +2748,9 @@
   {
    "id": "n183",
    "name": "MarshaBlackburn",
-   "symbolSize": 3.4483537416803776,
-   "x": 469.0776170631839,
-   "y": 46.38243055239684,
+   "symbolSize": 2.1077317002200022,
+   "x": -227.64203446850053,
+   "y": 182.83693783111403,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Tennessee",
@@ -2763,9 +2763,9 @@
   {
    "id": "n184",
    "name": "SenatorHagerty",
-   "symbolSize": 12.896729447843184,
-   "x": 323.4739305877555,
-   "y": 132.2095081840656,
+   "symbolSize": 14.396671652242842,
+   "x": -372.2123010939636,
+   "y": 103.6885851947128,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Tennessee",
@@ -2778,9 +2778,9 @@
   {
    "id": "n185",
    "name": "JohnCornyn",
-   "symbolSize": 7.543329291003705,
-   "x": 183.63585201287265,
-   "y": 322.45611333427644,
+   "symbolSize": 2.762170838883251,
+   "x": -34.37572742021922,
+   "y": -172.20376290201898,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Texas",
@@ -2793,9 +2793,9 @@
   {
    "id": "n186",
    "name": "SenTedCruz",
-   "symbolSize": 29.056225465530805,
-   "x": -486.9494885103661,
-   "y": -177.29485246231923,
+   "symbolSize": 17.798625215105837,
+   "x": 344.2437968037299,
+   "y": 44.69160320048081,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Texas",
@@ -2808,9 +2808,9 @@
   {
    "id": "n187",
    "name": "SenMikeLee",
-   "symbolSize": 18.68838367239153,
-   "x": 32.54893962917856,
-   "y": 425.83585506750103,
+   "symbolSize": 28.987144026703067,
+   "x": -490.63981309372616,
+   "y": -270.28282173729946,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Utah",
@@ -2823,9 +2823,9 @@
   {
    "id": "n188",
    "name": "SenatorRomney",
-   "symbolSize": 10.239232791519681,
-   "x": 214.39815369909934,
-   "y": 55.22549027669777,
+   "symbolSize": 23.04189145516762,
+   "x": 184.24843816790712,
+   "y": -171.1415419054,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Utah",
@@ -2838,9 +2838,9 @@
   {
    "id": "n189",
    "name": "SenSanders",
-   "symbolSize": 18.587435886103474,
-   "x": 303.1559646138119,
-   "y": -37.67266781014723,
+   "symbolSize": 16.915082617169535,
+   "x": -159.13996402012953,
+   "y": 16.429701783634755,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Vermont",
@@ -2853,9 +2853,9 @@
   {
    "id": "n190",
    "name": "SenPeterWelch",
-   "symbolSize": 4.7643795685554515,
-   "x": -454.2338054912247,
-   "y": -220.8496260379954,
+   "symbolSize": 7.310615438903572,
+   "x": -74.238248672851,
+   "y": 93.97833144032722,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Vermont",
@@ -2868,9 +2868,9 @@
   {
    "id": "n191",
    "name": "SenTimKaine",
-   "symbolSize": 4.154169348450964,
-   "x": 297.53780080990157,
-   "y": 423.7938378958471,
+   "symbolSize": 3.260632443526832,
+   "x": 349.814163523155,
+   "y": 460.7576232475717,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Virginia",
@@ -2883,9 +2883,9 @@
   {
    "id": "n192",
    "name": "MarkWarner",
-   "symbolSize": 25.342569349029638,
-   "x": 192.43251173441672,
-   "y": -257.96056062439186,
+   "symbolSize": 23.02469012968059,
+   "x": 303.993377294731,
+   "y": 392.1102085498612,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Virginia",
@@ -2898,9 +2898,9 @@
   {
    "id": "n193",
    "name": "SenatorCantwell",
-   "symbolSize": 16.930995098091692,
-   "x": -207.56567625057,
-   "y": -244.9460138163504,
+   "symbolSize": 18.6439466250333,
+   "x": -160.18157904215093,
+   "y": -28.122445394500346,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Washington",
@@ -2913,9 +2913,9 @@
   {
    "id": "n194",
    "name": "PattyMurray",
-   "symbolSize": 25.926024606981848,
-   "x": 52.58975295841185,
-   "y": 294.12405668181725,
+   "symbolSize": 25.824618698254746,
+   "x": -103.48023952272877,
+   "y": 219.8658782300381,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Washington",
@@ -2928,9 +2928,9 @@
   {
    "id": "n195",
    "name": "SenCapito",
-   "symbolSize": 1.9642613980286479,
-   "x": -35.67935422582377,
-   "y": -410.119978737692,
+   "symbolSize": 12.058936701455115,
+   "x": 498.0436317725282,
+   "y": -196.86037433841062,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate West Virginia",
@@ -2943,9 +2943,9 @@
   {
    "id": "n196",
    "name": "JoeManchinIII",
-   "symbolSize": 21.41470772999184,
-   "x": 49.4171534071329,
-   "y": 171.46436239811533,
+   "symbolSize": 12.161258243447426,
+   "x": 190.22774584295587,
+   "y": 253.14340979623012,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate West Virginia",
@@ -2958,9 +2958,9 @@
   {
    "id": "n197",
    "name": "SenatorBaldwin",
-   "symbolSize": 27.829669621925117,
-   "x": 486.6697793933797,
-   "y": -62.44245773293255,
+   "symbolSize": 6.5549362133006,
+   "x": 233.4878964068762,
+   "y": 55.829393139807166,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Wisconsin",
@@ -2973,9 +2973,9 @@
   {
    "id": "n198",
    "name": "SenRonJohnson",
-   "symbolSize": 12.204065603659124,
-   "x": -287.7078205757304,
-   "y": -400.39027612820485,
+   "symbolSize": 12.055200206212595,
+   "x": 301.667254066503,
+   "y": -304.8702043646608,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wisconsin",
@@ -2988,9 +2988,9 @@
   {
    "id": "n199",
    "name": "SenJohnBarrasso",
-   "symbolSize": 17.509729490809082,
-   "x": -158.22837714702598,
-   "y": -59.47048239276654,
+   "symbolSize": 9.592242967265298,
+   "x": -208.65151810217088,
+   "y": 405.88714717628886,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wyoming",
@@ -3003,9 +3003,9 @@
   {
    "id": "n200",
    "name": "SenLummis",
-   "symbolSize": 5.5252066436759355,
-   "x": 134.50605824842376,
-   "y": -158.87452064724874,
+   "symbolSize": 20.141573568062768,
+   "x": 472.6890515863852,
+   "y": 61.52424766382353,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wyoming",
@@ -3018,9 +3018,9 @@
   {
    "id": "n201",
    "name": "SenKatieBritt",
-   "symbolSize": 4.210582591152642,
-   "x": -350.2291304662906,
-   "y": -354.7599251590723,
+   "symbolSize": 9.13680232136523,
+   "x": 131.42989599880673,
+   "y": 363.19854633872694,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alabama",
@@ -3033,9 +3033,9 @@
   {
    "id": "n202",
    "name": "SenTuberville",
-   "symbolSize": 18.281231502292556,
-   "x": 117.95751434765589,
-   "y": -53.71206729720382,
+   "symbolSize": 25.80033718732523,
+   "x": 179.5925752087802,
+   "y": -355.97715731339184,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alabama",
@@ -3048,9 +3048,9 @@
   {
    "id": "n203",
    "name": "lisamurkowski",
-   "symbolSize": 1.8413810636505663,
-   "x": 9.287737609461885,
-   "y": -417.8025930512371,
+   "symbolSize": 29.972290017730945,
+   "x": -21.083938601924615,
+   "y": 216.48813613657023,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alaska",
@@ -3063,9 +3063,9 @@
   {
    "id": "n204",
    "name": "SenDanSullivan",
-   "symbolSize": 29.844365466528064,
-   "x": -320.20022490907974,
-   "y": 39.468509548247766,
+   "symbolSize": 2.7786348113408508,
+   "x": -214.70710478127165,
+   "y": -312.7346261881623,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Alaska",
@@ -3078,9 +3078,9 @@
   {
    "id": "n205",
    "name": "SenMarkKelly",
-   "symbolSize": 2.9676991556225403,
-   "x": 328.898803678352,
-   "y": -53.84235765727709,
+   "symbolSize": 23.52102344680949,
+   "x": -239.97333805637567,
+   "y": -247.0661894982682,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Arizona",
@@ -3093,9 +3093,9 @@
   {
    "id": "n206",
    "name": "SenatorSinema",
-   "symbolSize": 10.5933575833299,
-   "x": -169.7549644639438,
-   "y": -168.96300711500567,
+   "symbolSize": 6.017240534566064,
+   "x": 375.3403926547767,
+   "y": 306.2258204980294,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Arizona",
@@ -3108,9 +3108,9 @@
   {
    "id": "n207",
    "name": "JohnBoozman",
-   "symbolSize": 3.931840503098886,
-   "x": -78.43743878288558,
-   "y": -362.10160193964714,
+   "symbolSize": 27.42822509975525,
+   "x": -226.58195241588908,
+   "y": 445.1882654117553,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Arkansas",
@@ -3123,9 +3123,9 @@
   {
    "id": "n208",
    "name": "SenTomCotton",
-   "symbolSize": 10.713328892866084,
-   "x": 150.36664306794876,
-   "y": -192.30116803618478,
+   "symbolSize": 23.985878710678875,
+   "x": -89.26600107208174,
+   "y": -393.3335709687831,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Arkansas",
@@ -3138,9 +3138,9 @@
   {
    "id": "n209",
    "name": "Senlaphonza",
-   "symbolSize": 10.398627793624259,
-   "x": 498.87974532435464,
-   "y": 328.7848424340234,
+   "symbolSize": 7.280730968660178,
+   "x": -465.76061654298496,
+   "y": -28.985411781654705,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate California",
@@ -3153,9 +3153,9 @@
   {
    "id": "n210",
    "name": "SenAlexPadilla",
-   "symbolSize": 29.19319574273482,
-   "x": 39.604076334815886,
-   "y": -156.22364400194544,
+   "symbolSize": 6.896054438104429,
+   "x": -13.347146286843838,
+   "y": -185.13779211154002,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate California",
@@ -3168,9 +3168,9 @@
   {
    "id": "n211",
    "name": "SenatorBennet",
-   "symbolSize": 27.450126552036554,
-   "x": -232.95804722743605,
-   "y": 490.4493727922553,
+   "symbolSize": 25.619200983653737,
+   "x": 422.08177053032114,
+   "y": -213.80370304521136,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Colorado",
@@ -3183,9 +3183,9 @@
   {
    "id": "n212",
    "name": "SenatorHick",
-   "symbolSize": 3.178165699710198,
-   "x": 351.345237261237,
-   "y": -152.79944230829068,
+   "symbolSize": 22.788584743375974,
+   "x": 418.98899516290953,
+   "y": 385.92046248415534,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Colorado",
@@ -3198,9 +3198,9 @@
   {
    "id": "n213",
    "name": "SenBlumenthal",
-   "symbolSize": 10.220706473749377,
-   "x": -137.4386148984247,
-   "y": -205.90008927810158,
+   "symbolSize": 2.2409983469547186,
+   "x": 350.8697051452077,
+   "y": 384.8239062045144,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Connecticut",
@@ -3213,9 +3213,9 @@
   {
    "id": "n214",
    "name": "ChrisMurphyCT",
-   "symbolSize": 20.831494231013494,
-   "x": 104.57329592896122,
-   "y": -21.76883032252863,
+   "symbolSize": 9.263717860114905,
+   "x": -383.6660517797735,
+   "y": -250.6897518032195,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Connecticut",
@@ -3228,9 +3228,9 @@
   {
    "id": "n215",
    "name": "SenatorCarper",
-   "symbolSize": 29.692292875419685,
-   "x": -155.1398991607872,
-   "y": 101.82905731637675,
+   "symbolSize": 5.322412108158199,
+   "x": 439.3166768065869,
+   "y": -316.33739173553147,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Delaware",
@@ -3243,9 +3243,9 @@
   {
    "id": "n216",
    "name": "ChrisCoons",
-   "symbolSize": 17.594747821464495,
-   "x": 247.31963850020884,
-   "y": -42.49831277256857,
+   "symbolSize": 20.657031010420972,
+   "x": 315.1642565923827,
+   "y": 108.14331568529269,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Delaware",
@@ -3258,9 +3258,9 @@
   {
    "id": "n217",
    "name": "marcorubio",
-   "symbolSize": 22.09263548345148,
-   "x": 14.58711206203543,
-   "y": 340.2097532170036,
+   "symbolSize": 22.418823100447238,
+   "x": -459.9009133119134,
+   "y": 1.355420119061307,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Florida",
@@ -3273,9 +3273,9 @@
   {
    "id": "n218",
    "name": "SenRickScott",
-   "symbolSize": 14.985736394424173,
-   "x": -42.28379289093323,
-   "y": 186.5201463453908,
+   "symbolSize": 4.315671662078458,
+   "x": 256.75388067879715,
+   "y": -86.55099788873622,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Florida",
@@ -3288,9 +3288,9 @@
   {
    "id": "n219",
    "name": "ossoff",
-   "symbolSize": 24.98493555432716,
-   "x": 234.2014004180561,
-   "y": 214.12838610082213,
+   "symbolSize": 14.717514292416265,
+   "x": 456.82245160106254,
+   "y": -446.5200579361017,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Georgia",
@@ -3303,9 +3303,9 @@
   {
    "id": "n220",
    "name": "ReverendWarnock",
-   "symbolSize": 3.664002767298897,
-   "x": 362.358597118514,
-   "y": 172.19457978130265,
+   "symbolSize": 21.242997297157874,
+   "x": -234.71627753293433,
+   "y": 122.55163639519117,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Georgia",
@@ -3318,9 +3318,9 @@
   {
    "id": "n221",
    "name": "maziehirono",
-   "symbolSize": 14.995768462167565,
-   "x": -268.9026059774898,
-   "y": -353.5286174769476,
+   "symbolSize": 26.144218534290715,
+   "x": -13.480000839413492,
+   "y": -309.9113860995165,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Hawaii",
@@ -3333,9 +3333,9 @@
   {
    "id": "n222",
    "name": "brianschatz",
-   "symbolSize": 3.9820988157732558,
-   "x": 238.7974267966531,
-   "y": -463.03182640254215,
+   "symbolSize": 30.453885849712766,
+   "x": -41.76260995728012,
+   "y": 228.18029051532255,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Hawaii",
@@ -3348,9 +3348,9 @@
   {
    "id": "n223",
    "name": "MikeCrapo",
-   "symbolSize": 16.957214733940866,
-   "x": -39.664638767205815,
-   "y": -87.38448754760662,
+   "symbolSize": 19.281333618966844,
+   "x": 433.639371349105,
+   "y": -391.7175863938661,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Idaho",
@@ -3363,9 +3363,9 @@
   {
    "id": "n224",
    "name": "SenatorRisch",
-   "symbolSize": 4.5375244111146875,
-   "x": 189.87284622455513,
-   "y": 110.42231738030125,
+   "symbolSize": 30.706955110066854,
+   "x": -58.71032689579124,
+   "y": -422.02500084713665,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Idaho",
@@ -3378,9 +3378,9 @@
   {
    "id": "n225",
    "name": "SenDuckworth",
-   "symbolSize": 16.70429029701331,
-   "x": -304.1324376261881,
-   "y": 430.57720811041247,
+   "symbolSize": 10.685161015592561,
+   "x": -11.72871289583452,
+   "y": -16.865816271508493,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Illinois",
@@ -3393,9 +3393,9 @@
   {
    "id": "n226",
    "name": "SenatorDurbin",
-   "symbolSize": 17.62337124634132,
-   "x": 238.99113779524498,
-   "y": 74.42080698849065,
+   "symbolSize": 4.040745775974714,
+   "x": -159.92728239273646,
+   "y": 23.449217765679577,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Illinois",
@@ -3408,9 +3408,9 @@
   {
    "id": "n227",
    "name": "SenatorBraun",
-   "symbolSize": 8.112241230780572,
-   "x": 367.58284551111467,
-   "y": -352.35851692969845,
+   "symbolSize": 25.022880622644735,
+   "x": -46.70940746923981,
+   "y": 205.1521192514699,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Indiana",
@@ -3423,9 +3423,9 @@
   {
    "id": "n228",
    "name": "SenToddYoung",
-   "symbolSize": 23.70628179471692,
-   "x": -238.69477000442208,
-   "y": -229.57321438613263,
+   "symbolSize": 24.479922320194117,
+   "x": 285.5136746317967,
+   "y": -496.9970055950589,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Indiana",
@@ -3438,9 +3438,9 @@
   {
    "id": "n229",
    "name": "SenJoniErnst",
-   "symbolSize": 27.333496982682185,
-   "x": 339.74504490831043,
-   "y": -326.2694463276622,
+   "symbolSize": 22.06427834716595,
+   "x": 32.43894371587794,
+   "y": -440.31034897904965,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Iowa",
@@ -3453,9 +3453,9 @@
   {
    "id": "n230",
    "name": "ChuckGrassley",
-   "symbolSize": 12.966355223043964,
-   "x": 323.5207108552256,
-   "y": -15.020302974951505,
+   "symbolSize": 4.505245180137834,
+   "x": -210.13036905291148,
+   "y": -356.7337431474283,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Iowa",
@@ -3468,9 +3468,9 @@
   {
    "id": "n231",
    "name": "RogerMarshallMD",
-   "symbolSize": 22.008608367047874,
-   "x": -289.23235493511413,
-   "y": -167.7431949089774,
+   "symbolSize": 3.756806807476214,
+   "x": -160.85038688283623,
+   "y": 77.82223887755958,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kansas",
@@ -3483,9 +3483,9 @@
   {
    "id": "n232",
    "name": "JerryMoran",
-   "symbolSize": 6.226782700916808,
-   "x": 368.3644342721119,
-   "y": 219.23538199825146,
+   "symbolSize": 10.279834039364397,
+   "x": -287.6817994942638,
+   "y": 326.69003710498566,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kansas",
@@ -3498,9 +3498,9 @@
   {
    "id": "n233",
    "name": "LeaderMcConnell",
-   "symbolSize": 30.091458004871402,
-   "x": 337.80828337746766,
-   "y": -57.58856713714931,
+   "symbolSize": 6.34328567639003,
+   "x": -46.995066401765314,
+   "y": 494.8596008241376,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kentucky",
@@ -3513,9 +3513,9 @@
   {
    "id": "n234",
    "name": "SenRandPaul",
-   "symbolSize": 4.099906825946277,
-   "x": 209.7948750065931,
-   "y": 25.385491153825456,
+   "symbolSize": 12.782385006730438,
+   "x": 86.2373335655085,
+   "y": 97.18628250626489,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Kentucky",
@@ -3528,9 +3528,9 @@
   {
    "id": "n235",
    "name": "BillCassidy",
-   "symbolSize": 14.88279253508244,
-   "x": 94.88895712557712,
-   "y": 94.41207484486586,
+   "symbolSize": 7.9121467815114634,
+   "x": 79.70745471142527,
+   "y": -266.2975015765661,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Louisiana",
@@ -3543,9 +3543,9 @@
   {
    "id": "n236",
    "name": "SenJohnKennedy",
-   "symbolSize": 7.319611838192784,
-   "x": 399.8113928964427,
-   "y": -111.75425082770306,
+   "symbolSize": 4.049423201935026,
+   "x": -39.0697208601469,
+   "y": 412.8802641041075,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Louisiana",
@@ -3558,9 +3558,9 @@
   {
    "id": "n237",
    "name": "SenatorCollins",
-   "symbolSize": 27.00328397960528,
-   "x": 204.33831947755925,
-   "y": 106.5691772690351,
+   "symbolSize": 22.533621382519737,
+   "x": 341.3280543809774,
+   "y": 338.6448944180012,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Maine",
@@ -3573,9 +3573,9 @@
   {
    "id": "n238",
    "name": "SenAngusKing",
-   "symbolSize": 21.77316061495071,
-   "x": -446.76649404416236,
-   "y": 314.80629355717474,
+   "symbolSize": 25.46770085073819,
+   "x": -319.97770546446816,
+   "y": 398.16170994777667,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Maine",
@@ -3588,9 +3588,9 @@
   {
    "id": "n239",
    "name": "SenatorCardin",
-   "symbolSize": 28.74762210020985,
-   "x": 247.5481567071422,
-   "y": -239.94463940593613,
+   "symbolSize": 1.7269632635150727,
+   "x": 118.61417789900679,
+   "y": 75.19966374612977,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Maryland",
@@ -3603,9 +3603,9 @@
   {
    "id": "n240",
    "name": "ChrisVanHollen",
-   "symbolSize": 18.908210899949026,
-   "x": -46.51685624902814,
-   "y": 254.299390471361,
+   "symbolSize": 12.451830803359766,
+   "x": -441.2419689039667,
+   "y": -276.55180304710746,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Maryland",
@@ -3618,9 +3618,9 @@
   {
    "id": "n241",
    "name": "SenMarkey",
-   "symbolSize": 18.59090745520115,
-   "x": -318.30565755727196,
-   "y": 91.94253522933786,
+   "symbolSize": 26.947026698319068,
+   "x": 82.21488331523847,
+   "y": 392.726571434274,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Massachusetts",
@@ -3633,9 +3633,9 @@
   {
    "id": "n242",
    "name": "SenWarren",
-   "symbolSize": 8.255383756792131,
-   "x": 410.9288757157168,
-   "y": -383.142140903342,
+   "symbolSize": 19.89054678193322,
+   "x": 391.7015519601739,
+   "y": 463.26798231033024,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Massachusetts",
@@ -3648,9 +3648,9 @@
   {
    "id": "n243",
    "name": "SenGaryPeters",
-   "symbolSize": 8.053173997208836,
-   "x": -277.1881665643109,
-   "y": -179.97641104597494,
+   "symbolSize": 17.74922172817012,
+   "x": 484.05949357442717,
+   "y": -63.86364816108704,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Michigan",
@@ -3663,9 +3663,9 @@
   {
    "id": "n244",
    "name": "SenStabenow",
-   "symbolSize": 29.208530036217674,
-   "x": 276.4666842560656,
-   "y": -417.37204923584045,
+   "symbolSize": 23.43159084647144,
+   "x": -83.09423417953667,
+   "y": 82.90214312301202,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Michigan",
@@ -3678,9 +3678,9 @@
   {
    "id": "n245",
    "name": "SenAmyKlobuchar",
-   "symbolSize": 27.445516523769673,
-   "x": -369.3084938578004,
-   "y": -100.86814659479393,
+   "symbolSize": 25.629089691232092,
+   "x": 184.67200702818855,
+   "y": -348.0324005711291,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Minnesota",
@@ -3693,9 +3693,9 @@
   {
    "id": "n246",
    "name": "SenTinaSmith",
-   "symbolSize": 26.354884607800532,
-   "x": -179.53483271352854,
-   "y": -223.03381043451918,
+   "symbolSize": 12.711725437659782,
+   "x": -398.46204939782933,
+   "y": 173.9639165952807,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Minnesota",
@@ -3708,9 +3708,9 @@
   {
    "id": "n247",
    "name": "SenHydeSmith",
-   "symbolSize": 5.192208666898549,
-   "x": -434.76983358944676,
-   "y": -329.9186109051882,
+   "symbolSize": 22.922675300353923,
+   "x": 364.2225386804255,
+   "y": 321.97705995532283,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Mississippi",
@@ -3723,9 +3723,9 @@
   {
    "id": "n248",
    "name": "SenatorWicker",
-   "symbolSize": 22.511197724016917,
-   "x": 407.00540948641185,
-   "y": -253.08307171211152,
+   "symbolSize": 1.5699484984182874,
+   "x": 106.41385351883753,
+   "y": -490.5355358518844,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Mississippi",
@@ -3738,9 +3738,9 @@
   {
    "id": "n249",
    "name": "HawleyMO",
-   "symbolSize": 26.2036900913457,
-   "x": 209.8657685318201,
-   "y": -216.13852714425684,
+   "symbolSize": 30.050135795331432,
+   "x": -385.96219321651415,
+   "y": -376.60130715702024,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Missouri",
@@ -3753,9 +3753,9 @@
   {
    "id": "n250",
    "name": "SenEricSchmitt",
-   "symbolSize": 15.707772901411445,
-   "x": -226.90422381903863,
-   "y": 61.29739524439174,
+   "symbolSize": 26.365871642200634,
+   "x": 402.81220981347303,
+   "y": -86.58960873413992,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Missouri",
@@ -3768,9 +3768,9 @@
   {
    "id": "n251",
    "name": "SteveDaines",
-   "symbolSize": 18.87433821523528,
-   "x": 56.941646218635356,
-   "y": -436.8535348119681,
+   "symbolSize": 9.143154992197148,
+   "x": -437.82206179062746,
+   "y": -292.6377663111374,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Montana",
@@ -3783,9 +3783,9 @@
   {
    "id": "n252",
    "name": "SenatorTester",
-   "symbolSize": 5.402713683742571,
-   "x": -431.69634226730045,
-   "y": -95.30045268154197,
+   "symbolSize": 4.750724920358803,
+   "x": -272.27793236081834,
+   "y": 293.39895508216637,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Montana",
@@ -3798,9 +3798,9 @@
   {
    "id": "n253",
    "name": "SenatorFischer",
-   "symbolSize": 16.342493890476273,
-   "x": 340.6014668936107,
-   "y": 234.1698179852093,
+   "symbolSize": 2.9188832819707295,
+   "x": 16.642915347396297,
+   "y": -41.42802225125587,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Nebraska",
@@ -3813,9 +3813,9 @@
   {
    "id": "n254",
    "name": "SenatorRicketts",
-   "symbolSize": 10.566761443008978,
-   "x": -347.10642820343503,
-   "y": 456.82169056796795,
+   "symbolSize": 14.355382240235691,
+   "x": -460.7704077692288,
+   "y": 246.42396548604677,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Nebraska",
@@ -3828,9 +3828,9 @@
   {
    "id": "n255",
    "name": "SenCortezMasto",
-   "symbolSize": 2.8698729485071475,
-   "x": 27.911815888090473,
-   "y": -406.27714474503193,
+   "symbolSize": 8.507128313338551,
+   "x": 218.33444410243044,
+   "y": 402.863746957431,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Nevada",
@@ -3843,9 +3843,9 @@
   {
    "id": "n256",
    "name": "SenJackyRosen",
-   "symbolSize": 23.033293411491705,
-   "x": 65.8176557467599,
-   "y": 392.96791797582966,
+   "symbolSize": 9.461267293301276,
+   "x": 371.69844484138844,
+   "y": -315.70645248365315,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Nevada",
@@ -3858,9 +3858,9 @@
   {
    "id": "n257",
    "name": "SenatorHassan",
-   "symbolSize": 18.694298818145185,
-   "x": 383.7652677822555,
-   "y": 126.60507023553339,
+   "symbolSize": 30.31081615049854,
+   "x": -312.77596874565984,
+   "y": -6.443946569425236,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Hampshire",
@@ -3873,9 +3873,9 @@
   {
    "id": "n258",
    "name": "SenatorShaheen",
-   "symbolSize": 3.7534946396059437,
-   "x": -129.15887682483208,
-   "y": -102.63184643227709,
+   "symbolSize": 3.455406933286748,
+   "x": 383.7618900733331,
+   "y": -124.8900894511329,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Hampshire",
@@ -3888,9 +3888,9 @@
   {
    "id": "n259",
    "name": "SenBooker",
-   "symbolSize": 9.236819795632538,
-   "x": 252.63151757349544,
-   "y": -284.54660994571987,
+   "symbolSize": 23.039556954642755,
+   "x": 85.46977114728338,
+   "y": -172.1264313069576,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Jersey",
@@ -3903,9 +3903,9 @@
   {
    "id": "n260",
    "name": "SenatorMenendez",
-   "symbolSize": 23.975793954464343,
-   "x": 218.26885286477466,
-   "y": 136.18257383126195,
+   "symbolSize": 21.8877532874899,
+   "x": 107.95048881299272,
+   "y": 370.7422991724826,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Jersey",
@@ -3918,9 +3918,9 @@
   {
    "id": "n261",
    "name": "SenatorHeinrich",
-   "symbolSize": 3.87396044336975,
-   "x": -112.17586328847341,
-   "y": -335.96343172380693,
+   "symbolSize": 2.295608772906418,
+   "x": -183.45772093958914,
+   "y": -291.28846729170664,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Mexico",
@@ -3933,9 +3933,9 @@
   {
    "id": "n262",
    "name": "SenatorLujan",
-   "symbolSize": 30.552564551927034,
-   "x": 260.47201849152634,
-   "y": -275.8411916587259,
+   "symbolSize": 11.292976766447248,
+   "x": -160.97894398882596,
+   "y": 422.00846967055475,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New Mexico",
@@ -3948,9 +3948,9 @@
   {
    "id": "n263",
    "name": "SenGillibrand",
-   "symbolSize": 10.326474346473447,
-   "x": 425.36625788644426,
-   "y": 97.16268952541498,
+   "symbolSize": 8.557433125629604,
+   "x": 318.2721174268611,
+   "y": -444.33302834911694,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New York",
@@ -3963,9 +3963,9 @@
   {
    "id": "n264",
    "name": "SenSchumer",
-   "symbolSize": 3.2198335520873353,
-   "x": 478.3203870361149,
-   "y": -32.32609126579314,
+   "symbolSize": 29.28438312952575,
+   "x": -464.1868560301925,
+   "y": -202.08858221192907,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate New York",
@@ -3978,9 +3978,9 @@
   {
    "id": "n265",
    "name": "SenTedBuddNC",
-   "symbolSize": 11.706816989269422,
-   "x": 450.4192288053092,
-   "y": 457.9379978694342,
+   "symbolSize": 21.926415012310947,
+   "x": -81.53647089849727,
+   "y": 96.11260979787835,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Carolina",
@@ -3993,9 +3993,9 @@
   {
    "id": "n266",
    "name": "SenThomTillis",
-   "symbolSize": 28.325614610997647,
-   "x": 254.5952458935095,
-   "y": 416.22410500748856,
+   "symbolSize": 9.93232696877124,
+   "x": 321.50844740904745,
+   "y": 292.0967147280917,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Carolina",
@@ -4008,9 +4008,9 @@
   {
    "id": "n267",
    "name": "SenKevinCramer",
-   "symbolSize": 22.972691306787,
-   "x": -206.44011308103592,
-   "y": -497.24132754326956,
+   "symbolSize": 15.088099491627537,
+   "x": -152.15391346237573,
+   "y": 131.49225541865826,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Dakota",
@@ -4023,9 +4023,9 @@
   {
    "id": "n268",
    "name": "SenJohnHoeven",
-   "symbolSize": 11.287625157873006,
-   "x": 425.6925734549503,
-   "y": 342.2625065747295,
+   "symbolSize": 23.846016098464606,
+   "x": 489.5946825876824,
+   "y": -98.12250087205575,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate North Dakota",
@@ -4038,9 +4038,9 @@
   {
    "id": "n269",
    "name": "SenSherrodBrown",
-   "symbolSize": 2.272279857490744,
-   "x": 389.22378381847966,
-   "y": 60.50130110999805,
+   "symbolSize": 27.61596376623288,
+   "x": -188.67171998426215,
+   "y": -142.95796061199252,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Ohio",
@@ -4053,9 +4053,9 @@
   {
    "id": "n270",
    "name": "SenVancePress",
-   "symbolSize": 28.52786486819909,
-   "x": 2.9756876195654627,
-   "y": 235.06873274706072,
+   "symbolSize": 11.569635591721857,
+   "x": -61.478261067571566,
+   "y": -216.8051124047222,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Ohio",
@@ -4068,9 +4068,9 @@
   {
    "id": "n271",
    "name": "SenatorLankford",
-   "symbolSize": 22.25095213444585,
-   "x": -361.7792320331911,
-   "y": -451.2564529584434,
+   "symbolSize": 29.284695786629552,
+   "x": 210.5137010760311,
+   "y": 287.0080382309724,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Oklahoma",
@@ -4083,9 +4083,9 @@
   {
    "id": "n272",
    "name": "SenMullin",
-   "symbolSize": 1.89413291207891,
-   "x": 494.147936614781,
-   "y": -232.82180849589753,
+   "symbolSize": 14.646220265221636,
+   "x": -249.07352948893103,
+   "y": -158.35686470564372,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Oklahoma",
@@ -4098,9 +4098,9 @@
   {
    "id": "n273",
    "name": "SenJeffMerkley",
-   "symbolSize": 12.838414145125759,
-   "x": -464.7894935853725,
-   "y": 182.31151271132705,
+   "symbolSize": 8.02474461121788,
+   "x": -467.5566973615686,
+   "y": 42.73988655822393,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Oregon",
@@ -4113,9 +4113,9 @@
   {
    "id": "n274",
    "name": "RonWyden",
-   "symbolSize": 20.874998130631663,
-   "x": -142.37299305824257,
-   "y": 344.21476889300357,
+   "symbolSize": 14.914729626523036,
+   "x": 496.2442911576993,
+   "y": -117.87431264917348,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Oregon",
@@ -4128,9 +4128,9 @@
   {
    "id": "n275",
    "name": "SenBobCasey",
-   "symbolSize": 5.1427223526919486,
-   "x": 478.8481022522059,
-   "y": -369.5159496076724,
+   "symbolSize": 22.051104289734972,
+   "x": 58.255733617842566,
+   "y": -136.14534609320884,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Pennsylvania",
@@ -4143,9 +4143,9 @@
   {
    "id": "n276",
    "name": "SenFettermanPA",
-   "symbolSize": 14.409180563785425,
-   "x": -256.58882328346533,
-   "y": 283.2654735215516,
+   "symbolSize": 16.074625644847416,
+   "x": -182.63850618603527,
+   "y": -13.303181918531834,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Pennsylvania",
@@ -4158,9 +4158,9 @@
   {
    "id": "n277",
    "name": "SenJackReed",
-   "symbolSize": 15.868454075183386,
-   "x": 249.70369071477626,
-   "y": 489.0640240603169,
+   "symbolSize": 7.212151365879328,
+   "x": 346.5130832582205,
+   "y": -418.80523963976646,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Rhode Island",
@@ -4173,9 +4173,9 @@
   {
    "id": "n278",
    "name": "SenWhitehouse",
-   "symbolSize": 14.005170868057931,
-   "x": 259.35519662449803,
-   "y": 403.5842958399269,
+   "symbolSize": 17.17230595064944,
+   "x": -358.91804977746034,
+   "y": 49.12988571890105,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Rhode Island",
@@ -4188,9 +4188,9 @@
   {
    "id": "n279",
    "name": "JeffMerkley",
-   "symbolSize": 19.836994279934608,
-   "x": -364.00659982600337,
-   "y": -484.31022168573867,
+   "symbolSize": 23.159457972845217,
+   "x": 125.25075385875266,
+   "y": 402.17700877955656,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Carolina",
@@ -4203,9 +4203,9 @@
   {
    "id": "n280",
    "name": "SenatorTimScott",
-   "symbolSize": 19.513843254852276,
-   "x": -132.80787248062478,
-   "y": 176.08128354836344,
+   "symbolSize": 7.308435300574531,
+   "x": -388.8628383172342,
+   "y": -226.88499801656815,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Carolina",
@@ -4218,9 +4218,9 @@
   {
    "id": "n281",
    "name": "SenatorRounds",
-   "symbolSize": 7.602675547389065,
-   "x": -68.41880476463581,
-   "y": 480.6692661111367,
+   "symbolSize": 4.523594150174553,
+   "x": -313.73740452060395,
+   "y": -404.98566983613046,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Dakota",
@@ -4233,9 +4233,9 @@
   {
    "id": "n282",
    "name": "SenJohnThune",
-   "symbolSize": 22.15340894812254,
-   "x": -408.5124332439244,
-   "y": -224.90166585797368,
+   "symbolSize": 5.399373570823379,
+   "x": -246.0352132276302,
+   "y": -188.27716605124323,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate South Dakota",
@@ -4248,9 +4248,9 @@
   {
    "id": "n283",
    "name": "MarshaBlackburn",
-   "symbolSize": 14.961229541277772,
-   "x": 149.79441233283808,
-   "y": 374.21099024803584,
+   "symbolSize": 18.702555409294618,
+   "x": -28.572443853776974,
+   "y": -58.24374379798701,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Tennessee",
@@ -4263,9 +4263,9 @@
   {
    "id": "n284",
    "name": "SenatorHagerty",
-   "symbolSize": 6.768490774582149,
-   "x": -74.26457507053465,
-   "y": -92.6813445005966,
+   "symbolSize": 25.474240177751373,
+   "x": -405.1766845269583,
+   "y": 393.04299309635985,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Tennessee",
@@ -4278,9 +4278,9 @@
   {
    "id": "n285",
    "name": "JohnCornyn",
-   "symbolSize": 8.406752674768924,
-   "x": 457.83082368180715,
-   "y": 166.0606924730066,
+   "symbolSize": 13.58175886017712,
+   "x": 463.30532425673346,
+   "y": 356.87310992805897,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Texas",
@@ -4293,9 +4293,9 @@
   {
    "id": "n286",
    "name": "SenTedCruz",
-   "symbolSize": 17.63139886482751,
-   "x": 492.2188472970123,
-   "y": -455.40187113223897,
+   "symbolSize": 16.916037175966565,
+   "x": 480.0595513163105,
+   "y": 299.0290044688961,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Texas",
@@ -4308,9 +4308,9 @@
   {
    "id": "n287",
    "name": "SenMikeLee",
-   "symbolSize": 12.691036160037836,
-   "x": 86.1575882596793,
-   "y": 45.400731892981185,
+   "symbolSize": 2.933043214592721,
+   "x": -158.2828769846053,
+   "y": 486.3254312013048,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Utah",
@@ -4323,9 +4323,9 @@
   {
    "id": "n288",
    "name": "SenatorRomney",
-   "symbolSize": 1.7790809676366874,
-   "x": 376.0557770544299,
-   "y": -352.644963732477,
+   "symbolSize": 12.513395035851854,
+   "x": -231.63011239312306,
+   "y": -30.940389455855325,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Utah",
@@ -4338,9 +4338,9 @@
   {
    "id": "n289",
    "name": "SenSanders",
-   "symbolSize": 9.747826576447475,
-   "x": 415.56436400187465,
-   "y": 446.9137480384218,
+   "symbolSize": 16.904850560171433,
+   "x": -341.33482731574327,
+   "y": -377.5708997598658,
    "color": "#FFD700",
    "value": {
     "office": "U.S. Senate Vermont",
@@ -4353,9 +4353,9 @@
   {
    "id": "n290",
    "name": "SenPeterWelch",
-   "symbolSize": 1.9328676537784264,
-   "x": 29.73744684194253,
-   "y": -324.45366912718555,
+   "symbolSize": 20.183612517707314,
+   "x": -105.90354747949215,
+   "y": -415.3381248869716,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Vermont",
@@ -4368,9 +4368,9 @@
   {
    "id": "n291",
    "name": "SenTimKaine",
-   "symbolSize": 19.13448398623737,
-   "x": 239.1269195149756,
-   "y": -114.41025139112713,
+   "symbolSize": 1.7340350699802203,
+   "x": 97.84828724427484,
+   "y": 263.9382510652108,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Virginia",
@@ -4383,9 +4383,9 @@
   {
    "id": "n292",
    "name": "MarkWarner",
-   "symbolSize": 14.444032708802784,
-   "x": -11.71694241963786,
-   "y": -317.42803570401736,
+   "symbolSize": 23.314835101906603,
+   "x": 465.5878700152216,
+   "y": -240.204330116238,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Virginia",
@@ -4398,9 +4398,9 @@
   {
    "id": "n293",
    "name": "SenatorCantwell",
-   "symbolSize": 8.497645451942764,
-   "x": 145.48132952250035,
-   "y": -352.8502310746437,
+   "symbolSize": 12.882948969699848,
+   "x": -462.26936889033976,
+   "y": 391.3245192331083,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Washington",
@@ -4413,9 +4413,9 @@
   {
    "id": "n294",
    "name": "PattyMurray",
-   "symbolSize": 14.52668363803926,
-   "x": 497.60138659680547,
-   "y": -76.18759185275894,
+   "symbolSize": 26.991292401382783,
+   "x": -474.4132613497456,
+   "y": -280.08303707126004,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Washington",
@@ -4428,9 +4428,9 @@
   {
    "id": "n295",
    "name": "SenCapito",
-   "symbolSize": 20.296420320786783,
-   "x": -168.6650633913955,
-   "y": -416.1656182924415,
+   "symbolSize": 20.394805202360846,
+   "x": 343.49800847611596,
+   "y": -69.04730908235513,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate West Virginia",
@@ -4443,9 +4443,9 @@
   {
    "id": "n296",
    "name": "JoeManchinIII",
-   "symbolSize": 20.100726051641455,
-   "x": 90.85568174293667,
-   "y": 175.05222652142925,
+   "symbolSize": 25.929913610783718,
+   "x": -423.9787443722878,
+   "y": -346.21490768078456,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate West Virginia",
@@ -4458,9 +4458,9 @@
   {
    "id": "n297",
    "name": "SenatorBaldwin",
-   "symbolSize": 17.697288852911207,
-   "x": -349.90830552282904,
-   "y": 375.35771705702075,
+   "symbolSize": 15.807999901863202,
+   "x": 173.29608393816818,
+   "y": 496.4311996552809,
    "color": "#9ACD32",
    "value": {
     "office": "U.S. Senate Wisconsin",
@@ -4473,9 +4473,9 @@
   {
    "id": "n298",
    "name": "SenRonJohnson",
-   "symbolSize": 7.42831722367449,
-   "x": -184.8429987714112,
-   "y": 394.08765168908417,
+   "symbolSize": 10.841538446032533,
+   "x": 194.23072586633168,
+   "y": 427.53221102674297,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wisconsin",
@@ -4488,9 +4488,9 @@
   {
    "id": "n299",
    "name": "SenJohnBarrasso",
-   "symbolSize": 24.697055104831,
-   "x": -122.77699024318622,
-   "y": 406.2107181308643,
+   "symbolSize": 4.664310779807272,
+   "x": -242.9945141415002,
+   "y": 106.66810871466316,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wyoming",
@@ -4503,9 +4503,9 @@
   {
    "id": "n300",
    "name": "SenLummis",
-   "symbolSize": 13.364447798869179,
-   "x": 483.4396037798531,
-   "y": -333.4787921517841,
+   "symbolSize": 16.448572678716513,
+   "x": -11.042169350609868,
+   "y": 157.1804881474444,
    "color": "#FF6F61",
    "value": {
     "office": "U.S. Senate Wyoming",
@@ -4518,136 +4518,12 @@
  ],
  "links": [
   {
-   "source": "n1",
-   "target": "n0"
+   "source": "n89",
+   "target": "n12"
   },
   {
-   "source": "n1",
-   "target": "n8"
-  },
-  {
-   "source": "n1",
-   "target": "n10"
-  },
-  {
-   "source": "n1",
-   "target": "n27"
-  },
-  {
-   "source": "n1",
-   "target": "n30"
-  },
-  {
-   "source": "n1",
-   "target": "n36"
-  },
-  {
-   "source": "n1",
-   "target": "n49"
-  },
-  {
-   "source": "n1",
-   "target": "n50"
-  },
-  {
-   "source": "n1",
-   "target": "n65"
-  },
-  {
-   "source": "n1",
-   "target": "n67"
-  },
-  {
-   "source": "n1",
-   "target": "n72"
-  },
-  {
-   "source": "n1",
-   "target": "n83"
-  },
-  {
-   "source": "n1",
-   "target": "n84"
-  },
-  {
-   "source": "n1",
-   "target": "n90"
-  },
-  {
-   "source": "n1",
-   "target": "n98"
-  },
-  {
-   "source": "n1",
-   "target": "n101"
-  },
-  {
-   "source": "n1",
-   "target": "n104"
-  },
-  {
-   "source": "n1",
-   "target": "n105"
-  },
-  {
-   "source": "n1",
-   "target": "n119"
-  },
-  {
-   "source": "n1",
-   "target": "n124"
-  },
-  {
-   "source": "n1",
-   "target": "n125"
-  },
-  {
-   "source": "n1",
-   "target": "n126"
-  },
-  {
-   "source": "n1",
-   "target": "n128"
-  },
-  {
-   "source": "n1",
-   "target": "n129"
-  },
-  {
-   "source": "n1",
-   "target": "n133"
-  },
-  {
-   "source": "n1",
-   "target": "n149"
-  },
-  {
-   "source": "n1",
-   "target": "n151"
-  },
-  {
-   "source": "n1",
-   "target": "n164"
-  },
-  {
-   "source": "n1",
-   "target": "n183"
-  },
-  {
-   "source": "n1",
-   "target": "n186"
-  },
-  {
-   "source": "n1",
-   "target": "n187"
-  },
-  {
-   "source": "n1",
-   "target": "n188"
-  },
-  {
-   "source": "n1",
-   "target": "n198"
+   "source": "n89",
+   "target": "n77"
   }
  ],
  "categories": [

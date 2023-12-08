@@ -4,10 +4,21 @@ from network_build.network_dump import network_dump, relation_dump
 from network_build.data_process import senator_reader, data_reader, init_matrix
 import numpy as np
 import os
+import random
 # Create your views here.
 
 def index(request):
-    return render(request, "./index.html")
+    senator_info = senator_reader()
+    random_senators = random.sample(senator_info.keys(), 8)
+    senators = {}
+    senators["random_senators"] = {}
+    senators["senator_info"] = {}
+    for tw_name in random_senators:
+        senators["random_senators"][tw_name] = senator_info[tw_name]["name"]
+    for tw_name, info in senator_info.items():
+        _tw_name = "@" + tw_name
+        senators["senator_info"][_tw_name] = info["name"]
+    return render(request, "./index.html", context=senators)
 
 def graphoverall(request):
     return render(request, "./graph-overall.html")
@@ -28,16 +39,39 @@ def search(request):
     num_senator_nodes  = len(senator_node_vocab)
     coat_mat           = init_matrix(coat_dict, senator_node_vocab)
     coexist_mat        = init_matrix(coexist_dict, senator_node_vocab)
+    name_map = {}
+    for tw_name, info in senator_info.items():
+        name_map[tw_name] = info["name"]
     msg = {}
     msg["error"] = None
+    msg["Senator"] = None
+    msg["filename"] = None
+    print("Entering...............")
     if request.method == "GET":
         dic = request.GET
-        msg["filename"] = dic["SenatorName"] + ".json"
-        msg["Senator"] = dic["SenatorName"]
-        if msg["Senator"] not in senator_node_vocab:
-            msg["error"] = f"{msg['Senator']} was not found!"
-            return render(request, "./index.html", context=msg)
-        json_file = ".\static\data\\" + msg["filename"]
-        if not os.path.exists(json_file):
-            relation_dump(msg["Senator"], senator_info, json_file, mats=[following_mat, coat_mat, coexist_mat])
+        submit_name = dic["SenatorName"].replace("@", '')
+        if submit_name in name_map.keys():
+            filename = submit_name
+            Senator = name_map[submit_name]
+        else:
+            filename = [k for k, v in name_map.items() if v == submit_name]
+            filename = filename[0]
+            Senator = submit_name
+        msg["Senator"] = Senator
+        msg["filename"] = filename
+        if filename == "":
+            msg["error"] = f"{submit_name} was not found!"
+            return render(request, "./graph-of-one.html", context=msg)
+        senator_name = filename
+        json_file = ".\static\data\\" + filename + ".json"
+        relation_dump(senator_name, senator_info, json_file, mats=[following_mat, coat_mat, coexist_mat])
         return render(request, "./graph-of-one.html", context=msg)
+    
+def page1(request):
+    return render(request, "./page1.html")
+
+def page2(request):
+    return render(request, "./page2.html")
+
+def page3(request):
+    return render(request, "./page3.html")
