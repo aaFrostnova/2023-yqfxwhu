@@ -6,6 +6,7 @@
    "symbolSize": 30.8,
    "x": 0,
    "y": 0,
+   "color": "#0023F5",
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -17,9 +18,10 @@
   {
    "id": "n0",
    "name": "SenKatieBritt",
-   "symbolSize": 24.026676527734086,
-   "x": 455.79147026654425,
-   "y": -467.5652142911968,
+   "symbolSize": 15.752310490223554,
+   "x": -332.2749175536584,
+   "y": -60.91630010190039,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -31,9 +33,10 @@
   {
    "id": "n2",
    "name": "SenTuberville",
-   "symbolSize": 6.88268379430042,
-   "x": 474.39408437761017,
-   "y": 409.13229286762555,
+   "symbolSize": 23.579456614476392,
+   "x": 104.6996657985494,
+   "y": 311.3450005098638,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -45,9 +48,10 @@
   {
    "id": "n3",
    "name": "lisamurkowski",
-   "symbolSize": 10.27307503092031,
-   "x": 283.5607488591196,
-   "y": -299.2967974395544,
+   "symbolSize": 25.142044593499605,
+   "x": 496.43634444013367,
+   "y": -103.37963179963026,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -59,9 +63,10 @@
   {
    "id": "n4",
    "name": "SenDanSullivan",
-   "symbolSize": 16.988896446344512,
-   "x": 397.92707430329335,
-   "y": -335.5741588352016,
+   "symbolSize": 26.945697463228868,
+   "x": -387.75706952794064,
+   "y": 494.37254661240365,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -73,9 +78,10 @@
   {
    "id": "n5",
    "name": "SenMarkKelly",
-   "symbolSize": 19.75063258064004,
-   "x": 326.8488000477719,
-   "y": -423.40950118433506,
+   "symbolSize": 30.220860458862163,
+   "x": -345.4554560811073,
+   "y": -316.92085459555074,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -87,9 +93,10 @@
   {
    "id": "n6",
    "name": "SenatorSinema",
-   "symbolSize": 3.882819599337035,
-   "x": 306.14673885689933,
-   "y": -330.3123998274358,
+   "symbolSize": 22.187078236962023,
+   "x": -405.9572509965466,
+   "y": 347.4754551752312,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -101,9 +108,10 @@
   {
    "id": "n7",
    "name": "JohnBoozman",
-   "symbolSize": 11.641586454986733,
-   "x": -489.32104716746585,
-   "y": -278.87099269752304,
+   "symbolSize": 7.164688552028825,
+   "x": -25.709220895663293,
+   "y": -89.39504311364874,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -115,9 +123,10 @@
   {
    "id": "n8",
    "name": "SenTomCotton",
-   "symbolSize": 3.6651928512604792,
-   "x": 295.4779924619246,
-   "y": -324.4179787161713,
+   "symbolSize": 10.168621984761796,
+   "x": -112.12142764801712,
+   "y": 383.02873199468127,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -129,9 +138,10 @@
   {
    "id": "n9",
    "name": "Senlaphonza",
-   "symbolSize": 23.600853142765686,
-   "x": 38.895542918330534,
-   "y": 431.91119890393713,
+   "symbolSize": 16.543803812066095,
+   "x": 33.3848527497081,
+   "y": 408.0397182927319,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -143,9 +153,10 @@
   {
    "id": "n10",
    "name": "SenAlexPadilla",
-   "symbolSize": 20.060733207700803,
-   "x": -262.2753090509601,
-   "y": 460.97111384052357,
+   "symbolSize": 14.275861357157488,
+   "x": -234.33572378049848,
+   "y": 202.581390652717,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -157,9 +168,10 @@
   {
    "id": "n11",
    "name": "SenatorBennet",
-   "symbolSize": 15.917425972235534,
-   "x": 298.21414542590753,
-   "y": -118.79301410046526,
+   "symbolSize": 24.78748677201023,
+   "x": 165.17299154216118,
+   "y": 260.97234397720774,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -171,9 +183,10 @@
   {
    "id": "n12",
    "name": "SenatorHick",
-   "symbolSize": 20.650882262560433,
-   "x": 436.0189200982885,
-   "y": -435.47611225094215,
+   "symbolSize": 10.763443992388948,
+   "x": 185.68522285943834,
+   "y": 211.9725140364402,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -185,9 +198,10 @@
   {
    "id": "n13",
    "name": "SenBlumenthal",
-   "symbolSize": 29.037877748123226,
-   "x": -134.59934176782792,
-   "y": 484.8062267668487,
+   "symbolSize": 5.122383104381759,
+   "x": 183.14674412899058,
+   "y": -226.81836694265564,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -199,9 +213,10 @@
   {
    "id": "n14",
    "name": "ChrisMurphyCT",
-   "symbolSize": 7.124736995511286,
-   "x": -285.4345487796521,
-   "y": 406.7456186508664,
+   "symbolSize": 12.285189601048987,
+   "x": -418.73899133366,
+   "y": -345.53838778905566,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -213,9 +228,10 @@
   {
    "id": "n15",
    "name": "SenatorCarper",
-   "symbolSize": 24.229283323703175,
-   "x": -10.345975477862112,
-   "y": 126.88049632198954,
+   "symbolSize": 28.70771490408627,
+   "x": -187.75062884844016,
+   "y": -209.97764018791156,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -227,9 +243,10 @@
   {
    "id": "n16",
    "name": "ChrisCoons",
-   "symbolSize": 12.808917769425324,
-   "x": -91.90202934701188,
-   "y": 197.1338513613282,
+   "symbolSize": 13.540918075929236,
+   "x": -398.16566592346624,
+   "y": -171.81389958424307,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -241,9 +258,10 @@
   {
    "id": "n17",
    "name": "marcorubio",
-   "symbolSize": 28.165745717151424,
-   "x": -75.36624825076842,
-   "y": 62.82614820349818,
+   "symbolSize": 23.73817852468576,
+   "x": -83.82562669850057,
+   "y": -266.7101201800157,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -255,9 +273,10 @@
   {
    "id": "n18",
    "name": "SenRickScott",
-   "symbolSize": 3.375086134696014,
-   "x": -326.82394934319996,
-   "y": 217.57711602390066,
+   "symbolSize": 9.620372225485184,
+   "x": 97.2691789641093,
+   "y": -212.55049188765628,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -269,9 +288,10 @@
   {
    "id": "n19",
    "name": "ossoff",
-   "symbolSize": 26.646240816132746,
-   "x": 430.56283921906925,
-   "y": -161.50841583135366,
+   "symbolSize": 20.5762795162425,
+   "x": -79.75456816887038,
+   "y": 492.18295344818864,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -283,9 +303,10 @@
   {
    "id": "n20",
    "name": "ReverendWarnock",
-   "symbolSize": 29.658434531617306,
-   "x": -337.2040112316842,
-   "y": 479.86287430011487,
+   "symbolSize": 22.329215422176876,
+   "x": -39.879676736839315,
+   "y": 194.90812142655477,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -297,9 +318,10 @@
   {
    "id": "n21",
    "name": "maziehirono",
-   "symbolSize": 18.73289766706649,
-   "x": -248.00618353723414,
-   "y": 372.43757344062533,
+   "symbolSize": 5.117903042379185,
+   "x": 197.06510597662088,
+   "y": 261.7551041723974,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -311,9 +333,10 @@
   {
    "id": "n22",
    "name": "brianschatz",
-   "symbolSize": 20.939331230873574,
-   "x": -271.2827509767639,
-   "y": 300.4008912001534,
+   "symbolSize": 17.7410257326851,
+   "x": -221.29304082020752,
+   "y": -276.77388901387,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -325,9 +348,10 @@
   {
    "id": "n23",
    "name": "MikeCrapo",
-   "symbolSize": 2.558173030445792,
-   "x": 405.32844362309834,
-   "y": 317.50496036441984,
+   "symbolSize": 15.392425908492676,
+   "x": -89.4100007439672,
+   "y": -95.55390725556714,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -339,9 +363,10 @@
   {
    "id": "n24",
    "name": "SenatorRisch",
-   "symbolSize": 18.77894331490673,
-   "x": 340.9436994272289,
-   "y": -351.82469019642315,
+   "symbolSize": 22.122317568752354,
+   "x": -168.08472596981107,
+   "y": -201.36731067013437,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -353,9 +378,10 @@
   {
    "id": "n25",
    "name": "SenDuckworth",
-   "symbolSize": 5.561351946313338,
-   "x": 31.466590416252416,
-   "y": -262.8618418385096,
+   "symbolSize": 25.013864529313658,
+   "x": 315.0060659823869,
+   "y": -121.29600810004825,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -367,9 +393,10 @@
   {
    "id": "n26",
    "name": "SenatorDurbin",
-   "symbolSize": 21.305488483749265,
-   "x": -271.8543123800324,
-   "y": 342.60671252538805,
+   "symbolSize": 23.152217902999958,
+   "x": 298.2789268409372,
+   "y": -336.59036002597645,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -381,9 +408,10 @@
   {
    "id": "n27",
    "name": "SenatorBraun",
-   "symbolSize": 14.065597250417696,
-   "x": -101.5057631184153,
-   "y": -150.816182650685,
+   "symbolSize": 26.743923801336084,
+   "x": -154.98370485900273,
+   "y": -401.871567143133,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -395,9 +423,10 @@
   {
    "id": "n28",
    "name": "SenToddYoung",
-   "symbolSize": 1.7243925110553155,
-   "x": 199.19533838391044,
-   "y": 13.492815248915917,
+   "symbolSize": 13.901289046103889,
+   "x": 131.56081852316788,
+   "y": 89.61838992077583,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -409,9 +438,10 @@
   {
    "id": "n29",
    "name": "SenJoniErnst",
-   "symbolSize": 6.0051103906160614,
-   "x": -259.0691361326649,
-   "y": -431.027364046673,
+   "symbolSize": 11.606078474089315,
+   "x": -264.44902243328085,
+   "y": -360.787218672314,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -423,9 +453,10 @@
   {
    "id": "n30",
    "name": "ChuckGrassley",
-   "symbolSize": 11.109485248270007,
-   "x": -25.215070505794415,
-   "y": 292.4538529405837,
+   "symbolSize": 5.81337101360436,
+   "x": 394.1506510252673,
+   "y": -85.48739884284453,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -437,9 +468,10 @@
   {
    "id": "n31",
    "name": "RogerMarshallMD",
-   "symbolSize": 30.66500478826135,
-   "x": 211.48376390328224,
-   "y": -491.86188254643804,
+   "symbolSize": 1.9765093069572743,
+   "x": 238.7659798101423,
+   "y": 397.6150326196745,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -451,9 +483,10 @@
   {
    "id": "n32",
    "name": "JerryMoran",
-   "symbolSize": 12.669333654471597,
-   "x": 277.80547423177325,
-   "y": 462.1646456713602,
+   "symbolSize": 23.686461849134233,
+   "x": -465.5597465550663,
+   "y": 80.0597555894675,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -465,9 +498,10 @@
   {
    "id": "n33",
    "name": "LeaderMcConnell",
-   "symbolSize": 2.3359128971232845,
-   "x": -99.11232941951641,
-   "y": -117.35572728736787,
+   "symbolSize": 12.479803895541252,
+   "x": -319.1200734260718,
+   "y": 26.54789584032312,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -479,9 +513,10 @@
   {
    "id": "n34",
    "name": "SenRandPaul",
-   "symbolSize": 30.107474722805417,
-   "x": -335.3495507680343,
-   "y": 489.95087175229366,
+   "symbolSize": 26.51751283960896,
+   "x": 187.03864359740396,
+   "y": 258.8929603968828,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -493,9 +528,10 @@
   {
    "id": "n35",
    "name": "BillCassidy",
-   "symbolSize": 11.525082205154556,
-   "x": -307.9882741275005,
-   "y": -239.07160109676028,
+   "symbolSize": 5.352580474735522,
+   "x": 303.6882058785691,
+   "y": 269.2172384855884,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -507,9 +543,10 @@
   {
    "id": "n36",
    "name": "SenJohnKennedy",
-   "symbolSize": 30.124740267314113,
-   "x": 328.6794585243164,
-   "y": -285.7243866979944,
+   "symbolSize": 3.508108397246816,
+   "x": -160.4483665646428,
+   "y": 155.5489473076899,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -521,9 +558,10 @@
   {
    "id": "n37",
    "name": "SenatorCollins",
-   "symbolSize": 21.127210170328294,
-   "x": 13.47132579711058,
-   "y": 278.2595014343085,
+   "symbolSize": 7.238167711196223,
+   "x": 173.46814343655137,
+   "y": -229.5997059072704,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -535,9 +573,10 @@
   {
    "id": "n38",
    "name": "SenAngusKing",
-   "symbolSize": 14.334472016954816,
-   "x": -476.20507892337736,
-   "y": 493.41774397160395,
+   "symbolSize": 2.1302727772446817,
+   "x": 108.12741041644551,
+   "y": -403.8248054208555,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -549,9 +588,10 @@
   {
    "id": "n39",
    "name": "SenatorCardin",
-   "symbolSize": 25.928828339564117,
-   "x": -68.73835936894193,
-   "y": -260.2794416402447,
+   "symbolSize": 12.030861199312127,
+   "x": 492.9365803788046,
+   "y": -198.06166897718867,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -563,9 +603,10 @@
   {
    "id": "n40",
    "name": "ChrisVanHollen",
-   "symbolSize": 3.1815710563408977,
-   "x": -217.56632264293773,
-   "y": 259.09624842901314,
+   "symbolSize": 29.54883594059399,
+   "x": -314.20219644864954,
+   "y": 480.9547154300885,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -577,9 +618,10 @@
   {
    "id": "n41",
    "name": "SenMarkey",
-   "symbolSize": 2.6273160480641673,
-   "x": -229.5752200783997,
-   "y": -374.4829678734328,
+   "symbolSize": 11.748309449088499,
+   "x": 61.97793265781854,
+   "y": 136.429851974205,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -591,9 +633,10 @@
   {
    "id": "n42",
    "name": "SenWarren",
-   "symbolSize": 22.57399455468683,
-   "x": 110.52985308759025,
-   "y": -478.90055788315044,
+   "symbolSize": 21.866382302734817,
+   "x": -20.619614338948338,
+   "y": 105.80834862063125,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -605,9 +648,10 @@
   {
    "id": "n43",
    "name": "SenGaryPeters",
-   "symbolSize": 18.412821569936884,
-   "x": 291.5726854333383,
-   "y": 252.5970332439482,
+   "symbolSize": 5.631373170431328,
+   "x": 432.1938518036087,
+   "y": -252.39902443258956,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -619,9 +663,10 @@
   {
    "id": "n44",
    "name": "SenStabenow",
-   "symbolSize": 20.324319861690928,
-   "x": 497.56677748195693,
-   "y": -177.34568486555202,
+   "symbolSize": 14.838992718757321,
+   "x": 313.7097446145235,
+   "y": -280.25336534274754,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -633,9 +678,10 @@
   {
    "id": "n45",
    "name": "SenAmyKlobuchar",
-   "symbolSize": 9.858303186876766,
-   "x": 96.0761901456309,
-   "y": 75.21301379458839,
+   "symbolSize": 8.782603550555288,
+   "x": 472.65060747742973,
+   "y": -384.7455181742958,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -647,9 +693,10 @@
   {
    "id": "n46",
    "name": "SenTinaSmith",
-   "symbolSize": 27.456230971797094,
-   "x": 480.34509210680676,
-   "y": 486.14782193077804,
+   "symbolSize": 14.86596805421111,
+   "x": -208.73367150827772,
+   "y": 163.53705296306828,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -661,9 +708,10 @@
   {
    "id": "n47",
    "name": "SenHydeSmith",
-   "symbolSize": 22.31995455703668,
-   "x": -421.5911961082979,
-   "y": 320.98205352193304,
+   "symbolSize": 10.081525977476746,
+   "x": 357.9037785546551,
+   "y": -489.16059156379754,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -675,9 +723,10 @@
   {
    "id": "n48",
    "name": "SenatorWicker",
-   "symbolSize": 25.275950270127186,
-   "x": 444.88249669356594,
-   "y": 491.417024297392,
+   "symbolSize": 8.208132031801199,
+   "x": 146.0433726493145,
+   "y": 143.18999791939495,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -689,9 +738,10 @@
   {
    "id": "n49",
    "name": "HawleyMO",
-   "symbolSize": 23.071446931561535,
-   "x": 138.22431100644542,
-   "y": 38.18899065799144,
+   "symbolSize": 8.100965622079404,
+   "x": 438.19623689974264,
+   "y": -430.5068197827099,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -703,9 +753,10 @@
   {
    "id": "n50",
    "name": "SenEricSchmitt",
-   "symbolSize": 3.7607368771319507,
-   "x": 477.0755893394346,
-   "y": -148.75199967866848,
+   "symbolSize": 15.142196980606084,
+   "x": 335.64241082972444,
+   "y": -121.16019157014091,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -717,9 +768,10 @@
   {
    "id": "n51",
    "name": "SteveDaines",
-   "symbolSize": 27.211428623907864,
-   "x": -286.0820572621632,
-   "y": -355.4340936687996,
+   "symbolSize": 22.47701889999061,
+   "x": -120.32392500323306,
+   "y": 183.86499090639484,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -731,9 +783,10 @@
   {
    "id": "n52",
    "name": "SenatorTester",
-   "symbolSize": 15.423866170765704,
-   "x": -397.07199828511,
-   "y": -256.10522299444835,
+   "symbolSize": 27.188816251353476,
+   "x": -489.2563750536849,
+   "y": 468.7984170217452,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -745,9 +798,10 @@
   {
    "id": "n53",
    "name": "SenatorFischer",
-   "symbolSize": 14.58558715803244,
-   "x": -83.1840570763319,
-   "y": -221.94253506683572,
+   "symbolSize": 9.867323733574747,
+   "x": 169.04542677316874,
+   "y": 66.34870105375933,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -759,9 +813,10 @@
   {
    "id": "n54",
    "name": "SenatorRicketts",
-   "symbolSize": 26.9505363206218,
-   "x": 443.7969257818203,
-   "y": -157.19454623592588,
+   "symbolSize": 29.676414705783998,
+   "x": -253.16498759862748,
+   "y": 50.61767612326207,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -773,9 +828,10 @@
   {
    "id": "n55",
    "name": "SenCortezMasto",
-   "symbolSize": 12.010462524288538,
-   "x": -99.24440024645554,
-   "y": -197.51344046437669,
+   "symbolSize": 3.545834375404477,
+   "x": 470.2941919757103,
+   "y": 435.6199928472373,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -787,9 +843,10 @@
   {
    "id": "n56",
    "name": "SenJackyRosen",
-   "symbolSize": 18.905699174848927,
-   "x": -371.2063025954754,
-   "y": -134.8051561101007,
+   "symbolSize": 13.763346817965399,
+   "x": -496.66362885032976,
+   "y": 83.56848087479977,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -801,9 +858,10 @@
   {
    "id": "n57",
    "name": "SenatorHassan",
-   "symbolSize": 16.728651254427838,
-   "x": 456.41468698142637,
-   "y": 163.72271579051926,
+   "symbolSize": 24.02066991845626,
+   "x": 479.6861468406622,
+   "y": 153.52222957272363,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -815,9 +873,10 @@
   {
    "id": "n58",
    "name": "SenatorShaheen",
-   "symbolSize": 9.549415039750869,
-   "x": 382.157237654184,
-   "y": 477.31072076766134,
+   "symbolSize": 13.621765456490973,
+   "x": 395.9574354463267,
+   "y": -62.312910198433315,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -829,9 +888,10 @@
   {
    "id": "n59",
    "name": "SenBooker",
-   "symbolSize": 7.720940512640067,
-   "x": 169.96794180662334,
-   "y": -56.746464050355314,
+   "symbolSize": 14.44122552249572,
+   "x": 341.0379615583279,
+   "y": -230.83206871322926,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -843,9 +903,10 @@
   {
    "id": "n60",
    "name": "SenatorMenendez",
-   "symbolSize": 10.446799405135618,
-   "x": -269.4851728426846,
-   "y": 315.16483588966696,
+   "symbolSize": 2.0736697291921113,
+   "x": 456.0633844983174,
+   "y": -67.88094520265065,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -857,9 +918,10 @@
   {
    "id": "n61",
    "name": "SenatorHeinrich",
-   "symbolSize": 17.871175399130408,
-   "x": 402.69271346078415,
-   "y": 345.97667763549066,
+   "symbolSize": 4.499489330732967,
+   "x": -51.981201545473596,
+   "y": 305.94963854855246,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -871,9 +933,10 @@
   {
    "id": "n62",
    "name": "SenatorLujan",
-   "symbolSize": 4.869983923616244,
-   "x": -154.612234406062,
-   "y": 220.92801668392883,
+   "symbolSize": 23.21262965319487,
+   "x": 275.715708187425,
+   "y": -105.60662511175269,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -885,9 +948,10 @@
   {
    "id": "n63",
    "name": "SenGillibrand",
-   "symbolSize": 10.701065619143296,
-   "x": -130.50859453364825,
-   "y": -329.52610551212376,
+   "symbolSize": 25.283011637450944,
+   "x": 60.26522198425198,
+   "y": -450.1236439412041,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -899,9 +963,10 @@
   {
    "id": "n64",
    "name": "SenSchumer",
-   "symbolSize": 24.510120875433863,
-   "x": 228.08481272485938,
-   "y": -403.2859653563765,
+   "symbolSize": 17.254665648224133,
+   "x": 440.77006492601356,
+   "y": 418.88598931597505,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -913,9 +978,10 @@
   {
    "id": "n65",
    "name": "SenTedBuddNC",
-   "symbolSize": 29.331606625964213,
-   "x": 484.02670562411583,
-   "y": 98.63007471618812,
+   "symbolSize": 3.0150071848130726,
+   "x": 37.93068355516857,
+   "y": 89.79260521319782,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -927,9 +993,10 @@
   {
    "id": "n66",
    "name": "SenThomTillis",
-   "symbolSize": 5.2855732739781995,
-   "x": 27.798854583145385,
-   "y": 94.71294382332246,
+   "symbolSize": 4.822380022631497,
+   "x": -27.887004237177507,
+   "y": 401.40932141996586,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -941,9 +1008,10 @@
   {
    "id": "n67",
    "name": "SenKevinCramer",
-   "symbolSize": 18.114114202202163,
-   "x": -92.00716859882021,
-   "y": 279.2878309613202,
+   "symbolSize": 14.953814877527037,
+   "x": -211.24287048750978,
+   "y": 52.01334718443036,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -955,9 +1023,10 @@
   {
    "id": "n68",
    "name": "SenJohnHoeven",
-   "symbolSize": 24.13384874781597,
-   "x": 353.25394054038986,
-   "y": 400.3772048557788,
+   "symbolSize": 19.37936890910338,
+   "x": 405.2294967229375,
+   "y": 25.871788161386917,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -969,9 +1038,10 @@
   {
    "id": "n69",
    "name": "SenSherrodBrown",
-   "symbolSize": 13.004583598796227,
-   "x": 448.05117667408535,
-   "y": -439.90864535685705,
+   "symbolSize": 20.533839621351316,
+   "x": -486.83146963436195,
+   "y": -195.08658630236596,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -983,9 +1053,10 @@
   {
    "id": "n70",
    "name": "SenVancePress",
-   "symbolSize": 26.744562485923858,
-   "x": 252.84685113481248,
-   "y": 320.29644379376487,
+   "symbolSize": 4.872226068485967,
+   "x": -103.59823986255446,
+   "y": -49.22159875032048,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -997,9 +1068,10 @@
   {
    "id": "n71",
    "name": "SenatorLankford",
-   "symbolSize": 4.172856282252528,
-   "x": 52.316635199886946,
-   "y": -439.1326580442416,
+   "symbolSize": 3.7859913865303785,
+   "x": 144.8904159268568,
+   "y": 252.5137299189887,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -1011,9 +1083,10 @@
   {
    "id": "n72",
    "name": "SenMullin",
-   "symbolSize": 5.404505691479896,
-   "x": 443.8571286284722,
-   "y": -174.7941911061347,
+   "symbolSize": 23.72435152328675,
+   "x": 481.8756788924586,
+   "y": -165.49087641165306,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -1025,9 +1098,10 @@
   {
    "id": "n73",
    "name": "SenJeffMerkley",
-   "symbolSize": 21.50655825722008,
-   "x": -429.12212954637994,
-   "y": 408.7579040664202,
+   "symbolSize": 11.287472527384,
+   "x": -353.48778768843306,
+   "y": -165.4953049675314,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -1039,9 +1113,10 @@
   {
    "id": "n74",
    "name": "RonWyden",
-   "symbolSize": 25.586074284556435,
-   "x": -158.2221019679755,
-   "y": 325.33923191158885,
+   "symbolSize": 4.013833232849631,
+   "x": -3.33644854045491,
+   "y": 36.588737956395335,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -1053,9 +1128,10 @@
   {
    "id": "n75",
    "name": "SenBobCasey",
-   "symbolSize": 15.721037127178102,
-   "x": 481.04444448792947,
-   "y": 268.4649913610356,
+   "symbolSize": 28.945521667593074,
+   "x": -13.832699840641851,
+   "y": -227.44609743207087,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -1067,9 +1143,10 @@
   {
    "id": "n76",
    "name": "SenFettermanPA",
-   "symbolSize": 11.424889371342214,
-   "x": -453.77079047720235,
-   "y": 340.8640738733825,
+   "symbolSize": 8.328383130322468,
+   "x": 296.57230416348,
+   "y": -420.87177425275536,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -1081,9 +1158,10 @@
   {
    "id": "n77",
    "name": "SenJackReed",
-   "symbolSize": 6.498024817677779,
-   "x": 427.66173502551703,
-   "y": 350.3925505505198,
+   "symbolSize": 9.647692779537081,
+   "x": 357.69594087061364,
+   "y": -126.01281719176961,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -1095,9 +1173,10 @@
   {
    "id": "n78",
    "name": "SenWhitehouse",
-   "symbolSize": 23.677114642562223,
-   "x": 133.12458714570755,
-   "y": 489.76591960605913,
+   "symbolSize": 21.561731329828053,
+   "x": -261.8153649878705,
+   "y": -360.4200128080313,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -1109,9 +1188,10 @@
   {
    "id": "n79",
    "name": "JeffMerkley",
-   "symbolSize": 7.25772164784957,
-   "x": 365.3106663192343,
-   "y": 355.43636681755663,
+   "symbolSize": 30.607096501121603,
+   "x": 335.1233599732319,
+   "y": 60.45702217598887,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -1123,9 +1203,10 @@
   {
    "id": "n80",
    "name": "SenatorTimScott",
-   "symbolSize": 17.259272876421804,
-   "x": 73.45780001429955,
-   "y": -278.90369516016847,
+   "symbolSize": 3.5163892186908217,
+   "x": -354.81895479319047,
+   "y": -471.4956406031686,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -1137,9 +1218,10 @@
   {
    "id": "n81",
    "name": "SenatorRounds",
-   "symbolSize": 20.41165905297827,
-   "x": 491.6011342710043,
-   "y": 228.89762222599597,
+   "symbolSize": 11.542318588362965,
+   "x": 319.4615067714684,
+   "y": 331.59071397869775,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -1151,9 +1233,10 @@
   {
    "id": "n82",
    "name": "SenJohnThune",
-   "symbolSize": 26.3067199706251,
-   "x": 251.01605070302344,
-   "y": -283.4414519252273,
+   "symbolSize": 24.071165605714906,
+   "x": -197.98390529298325,
+   "y": -384.14875536776594,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -1165,9 +1248,10 @@
   {
    "id": "n83",
    "name": "MarshaBlackburn",
-   "symbolSize": 21.081302675652644,
-   "x": 263.9655128793961,
-   "y": -475.7329950752223,
+   "symbolSize": 9.238045481715975,
+   "x": 473.17651800693886,
+   "y": -467.44699868324926,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -1179,9 +1263,10 @@
   {
    "id": "n84",
    "name": "SenatorHagerty",
-   "symbolSize": 18.59115408801368,
-   "x": 3.604341186583838,
-   "y": -199.69896810824616,
+   "symbolSize": 22.972096696753727,
+   "x": 130.26260166453233,
+   "y": -393.13609479490276,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -1193,9 +1278,10 @@
   {
    "id": "n85",
    "name": "JohnCornyn",
-   "symbolSize": 16.803934118999475,
-   "x": 278.22256464375573,
-   "y": 405.31290360319065,
+   "symbolSize": 12.516378256757676,
+   "x": -208.84703417381445,
+   "y": 492.51322231765505,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -1207,9 +1293,10 @@
   {
    "id": "n86",
    "name": "SenTedCruz",
-   "symbolSize": 5.367829018613234,
-   "x": 222.44588967581694,
-   "y": -400.6323586778797,
+   "symbolSize": 26.952280404304553,
+   "x": 151.28177065573277,
+   "y": -425.4334799422138,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -1221,9 +1308,10 @@
   {
    "id": "n87",
    "name": "SenMikeLee",
-   "symbolSize": 2.761875392538562,
-   "x": -216.61905712536134,
-   "y": -32.815177873868095,
+   "symbolSize": 26.417550550875365,
+   "x": -151.234199366273,
+   "y": -192.42989187383296,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -1235,9 +1323,10 @@
   {
    "id": "n88",
    "name": "SenatorRomney",
-   "symbolSize": 14.528329149855624,
-   "x": -162.1093322453102,
-   "y": 300.3827362349243,
+   "symbolSize": 13.382308114527468,
+   "x": 208.1740939736785,
+   "y": 0.8248480992095892,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -1249,9 +1338,10 @@
   {
    "id": "n89",
    "name": "SenSanders",
-   "symbolSize": 25.73819244616822,
-   "x": -368.57888373118664,
-   "y": -65.13822554847712,
+   "symbolSize": 16.79006093861058,
+   "x": -123.57131344070137,
+   "y": 36.55445573416603,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -1263,9 +1353,10 @@
   {
    "id": "n90",
    "name": "SenPeterWelch",
-   "symbolSize": 30.072789844360805,
-   "x": -87.20180710071656,
-   "y": 124.00967274604704,
+   "symbolSize": 8.911895272587131,
+   "x": 26.149817811358844,
+   "y": 83.36283337779639,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -1277,9 +1368,10 @@
   {
    "id": "n91",
    "name": "SenTimKaine",
-   "symbolSize": 9.993347738966872,
-   "x": -284.678883472545,
-   "y": 269.9310532915589,
+   "symbolSize": 29.56675210263704,
+   "x": -21.318406161350595,
+   "y": -90.37861312021545,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -1291,9 +1383,10 @@
   {
    "id": "n92",
    "name": "MarkWarner",
-   "symbolSize": 4.4113110363182315,
-   "x": 141.41381410201768,
-   "y": 475.39843163185003,
+   "symbolSize": 4.046394682915037,
+   "x": 14.178138709892892,
+   "y": 34.56996625429963,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -1305,9 +1398,10 @@
   {
    "id": "n93",
    "name": "SenatorCantwell",
-   "symbolSize": 17.690219074892298,
-   "x": 5.960108288154856,
-   "y": -282.89917907966776,
+   "symbolSize": 28.323799077966598,
+   "x": -252.0271848922192,
+   "y": 53.01314305714095,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -1319,9 +1413,10 @@
   {
    "id": "n94",
    "name": "PattyMurray",
-   "symbolSize": 12.624967625413943,
-   "x": 124.48246883991203,
-   "y": -349.4161566911179,
+   "symbolSize": 18.810458871466484,
+   "x": 168.17755096912163,
+   "y": 231.8427760151012,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -1333,9 +1428,10 @@
   {
    "id": "n95",
    "name": "SenCapito",
-   "symbolSize": 8.935405418196517,
-   "x": 444.2170242715049,
-   "y": 97.92602626434234,
+   "symbolSize": 2.5043858503014373,
+   "x": -383.8555210138625,
+   "y": 359.7730397184737,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -1347,9 +1443,10 @@
   {
    "id": "n96",
    "name": "JoeManchinIII",
-   "symbolSize": 17.793825000318723,
-   "x": -272.30570543729436,
-   "y": -307.0213475495706,
+   "symbolSize": 8.102856528777467,
+   "x": -234.52299441155964,
+   "y": 8.246691348699244,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -1361,9 +1458,10 @@
   {
    "id": "n97",
    "name": "SenatorBaldwin",
-   "symbolSize": 12.998783683337793,
-   "x": -102.12804061129953,
-   "y": 324.019281399904,
+   "symbolSize": 6.230334664099828,
+   "x": 426.526808721052,
+   "y": 338.49922238304885,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -1375,9 +1473,10 @@
   {
    "id": "n98",
    "name": "SenRonJohnson",
-   "symbolSize": 15.834133138232128,
-   "x": 22.59701332946281,
-   "y": 209.3167194770649,
+   "symbolSize": 29.30406126596088,
+   "x": -420.74658876140523,
+   "y": 204.23758731615874,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -1389,9 +1488,10 @@
   {
    "id": "n99",
    "name": "SenJohnBarrasso",
-   "symbolSize": 14.310693447865965,
-   "x": 476.3235998740457,
-   "y": 427.70215524271964,
+   "symbolSize": 5.350846528972623,
+   "x": -326.53762658534157,
+   "y": -281.2342634883813,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
@@ -1403,9 +1503,10 @@
   {
    "id": "n100",
    "name": "SenLummis",
-   "symbolSize": 15.581931979244114,
-   "x": 79.33692312569224,
-   "y": -466.48603139179266,
+   "symbolSize": 24.45312038321389,
+   "x": 477.7842319365566,
+   "y": -413.5793673637136,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
@@ -1417,9 +1518,10 @@
   {
    "id": "n101",
    "name": "SenKatieBritt",
-   "symbolSize": 4.336695409402999,
-   "x": -112.71029491065167,
-   "y": -241.99832251862853,
+   "symbolSize": 30.194615199887775,
+   "x": 379.1934846881235,
+   "y": -349.70253189269283,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -1431,9 +1533,10 @@
   {
    "id": "n102",
    "name": "SenTuberville",
-   "symbolSize": 23.25260822214395,
-   "x": -29.266302600409517,
-   "y": 251.96431781021465,
+   "symbolSize": 3.9900799454796436,
+   "x": -141.42139921004684,
+   "y": 185.95906336350072,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -1445,9 +1548,10 @@
   {
    "id": "n103",
    "name": "lisamurkowski",
-   "symbolSize": 26.63693707883636,
-   "x": 291.81202854669414,
-   "y": -28.776946818500164,
+   "symbolSize": 26.54170868112209,
+   "x": -380.35614492392153,
+   "y": -8.09455497127675,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -1459,9 +1563,10 @@
   {
    "id": "n104",
    "name": "SenDanSullivan",
-   "symbolSize": 28.4978278731383,
-   "x": 188.66978393213662,
-   "y": 206.95413075127965,
+   "symbolSize": 21.434730062356614,
+   "x": -399.62712310525546,
+   "y": -220.87961607567183,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -1473,9 +1578,10 @@
   {
    "id": "n105",
    "name": "SenMarkKelly",
-   "symbolSize": 3.498681354206856,
-   "x": 314.6561008221388,
-   "y": 374.63419339035124,
+   "symbolSize": 10.258017718749189,
+   "x": -41.26838000802712,
+   "y": -273.8930086541771,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -1487,9 +1593,10 @@
   {
    "id": "n106",
    "name": "SenatorSinema",
-   "symbolSize": 13.042325353551352,
-   "x": -206.69513476896992,
-   "y": 193.2575308170708,
+   "symbolSize": 26.431737022712863,
+   "x": -263.07102629836436,
+   "y": -49.41147908752498,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -1501,9 +1608,10 @@
   {
    "id": "n107",
    "name": "JohnBoozman",
-   "symbolSize": 4.114402467019345,
-   "x": -467.25496409377064,
-   "y": 199.41391991950763,
+   "symbolSize": 25.461366716573828,
+   "x": -445.69868963692363,
+   "y": 28.30001177599172,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -1515,9 +1623,10 @@
   {
    "id": "n108",
    "name": "SenTomCotton",
-   "symbolSize": 17.169547570806102,
-   "x": 228.92821577992288,
-   "y": 180.25516600075525,
+   "symbolSize": 19.165263227255966,
+   "x": 126.15504782205323,
+   "y": -404.38404945691144,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -1529,9 +1638,10 @@
   {
    "id": "n109",
    "name": "Senlaphonza",
-   "symbolSize": 20.788392568540146,
-   "x": -356.19560017299733,
-   "y": -307.83350748841383,
+   "symbolSize": 13.603404837760204,
+   "x": -415.63523883927064,
+   "y": -124.30806694631013,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -1543,9 +1653,10 @@
   {
    "id": "n110",
    "name": "SenAlexPadilla",
-   "symbolSize": 13.699126748203286,
-   "x": -3.9128534090712037,
-   "y": 411.7446486787743,
+   "symbolSize": 24.78073194070907,
+   "x": -475.09341352584124,
+   "y": 27.738440543053116,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -1557,9 +1668,10 @@
   {
    "id": "n111",
    "name": "SenatorBennet",
-   "symbolSize": 23.690374430968216,
-   "x": -15.250002525499667,
-   "y": -346.40047865722266,
+   "symbolSize": 13.941664304147722,
+   "x": 487.9715018239807,
+   "y": 345.0538241134491,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -1571,9 +1683,10 @@
   {
    "id": "n112",
    "name": "SenatorHick",
-   "symbolSize": 1.954422323357409,
-   "x": 368.5900344864849,
-   "y": -430.9533559446186,
+   "symbolSize": 5.291334460737039,
+   "x": -433.34077611294254,
+   "y": 179.9852489231688,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -1585,9 +1698,10 @@
   {
    "id": "n113",
    "name": "SenBlumenthal",
-   "symbolSize": 9.47630846165325,
-   "x": -498.75809018748,
-   "y": 60.781851371461585,
+   "symbolSize": 5.191669343359768,
+   "x": -224.00532991067445,
+   "y": 478.2704558713044,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -1599,9 +1713,10 @@
   {
    "id": "n114",
    "name": "ChrisMurphyCT",
-   "symbolSize": 19.63655831072956,
-   "x": -468.1004017445487,
-   "y": 250.97966015412192,
+   "symbolSize": 18.54113651751703,
+   "x": 458.85852411233236,
+   "y": 99.53976495781524,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -1613,9 +1728,10 @@
   {
    "id": "n115",
    "name": "SenatorCarper",
-   "symbolSize": 24.574725093851594,
-   "x": -301.63996877755403,
-   "y": -111.97335970858416,
+   "symbolSize": 25.840370521158043,
+   "x": -13.160212790627043,
+   "y": -180.5518022050765,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -1627,9 +1743,10 @@
   {
    "id": "n116",
    "name": "ChrisCoons",
-   "symbolSize": 27.43318455384633,
-   "x": -220.25234350277043,
-   "y": 70.82874944342325,
+   "symbolSize": 5.751958487916818,
+   "x": 56.440434765129226,
+   "y": -18.26968405096983,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -1641,9 +1758,10 @@
   {
    "id": "n117",
    "name": "marcorubio",
-   "symbolSize": 30.08081804787068,
-   "x": -406.38517601856574,
-   "y": 292.79956897858267,
+   "symbolSize": 10.28511844305529,
+   "x": 452.85280951198627,
+   "y": 478.5955552081127,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -1655,9 +1773,10 @@
   {
    "id": "n118",
    "name": "SenRickScott",
-   "symbolSize": 19.639529633217407,
-   "x": -475.34392047775964,
-   "y": 112.33341169027574,
+   "symbolSize": 4.158541396611559,
+   "x": -242.53377696782832,
+   "y": 416.7764944024128,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -1669,9 +1788,10 @@
   {
    "id": "n119",
    "name": "ossoff",
-   "symbolSize": 22.226126513123646,
-   "x": 20.882011798582994,
-   "y": 472.099418158484,
+   "symbolSize": 30.232667186424337,
+   "x": 21.744457882493407,
+   "y": 7.428720440233008,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -1683,9 +1803,10 @@
   {
    "id": "n120",
    "name": "ReverendWarnock",
-   "symbolSize": 1.5701363124680028,
-   "x": -154.8354909935735,
-   "y": 29.579907457548984,
+   "symbolSize": 7.7164680234835314,
+   "x": 294.96422552295235,
+   "y": 499.9756528398632,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -1697,9 +1818,10 @@
   {
    "id": "n121",
    "name": "maziehirono",
-   "symbolSize": 17.845552102255738,
-   "x": -229.51412143261473,
-   "y": 3.2971344204240154,
+   "symbolSize": 7.7366805217607935,
+   "x": -464.1240035961122,
+   "y": -161.01336384414031,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -1711,9 +1833,10 @@
   {
    "id": "n122",
    "name": "brianschatz",
-   "symbolSize": 6.781053558946688,
-   "x": 330.75655163102795,
-   "y": -345.15125137693025,
+   "symbolSize": 23.239056679017708,
+   "x": 73.12484897165393,
+   "y": 262.7982404280244,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -1725,9 +1848,10 @@
   {
    "id": "n123",
    "name": "MikeCrapo",
-   "symbolSize": 23.206492597035883,
-   "x": -18.06764178385214,
-   "y": 401.65312899847163,
+   "symbolSize": 15.375388143222931,
+   "x": -319.497848229911,
+   "y": 186.8354011785076,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -1739,9 +1863,10 @@
   {
    "id": "n124",
    "name": "SenatorRisch",
-   "symbolSize": 28.906648357760687,
-   "x": -58.63320342272783,
-   "y": 303.8107456225699,
+   "symbolSize": 26.29779449515632,
+   "x": 443.84200648360604,
+   "y": 203.20092821640128,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -1753,9 +1878,10 @@
   {
    "id": "n125",
    "name": "SenDuckworth",
-   "symbolSize": 16.23506486058004,
-   "x": 308.3055135326092,
-   "y": 315.24742555766716,
+   "symbolSize": 23.53411927213349,
+   "x": -180.1749382453416,
+   "y": -276.95636034196025,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -1767,9 +1893,10 @@
   {
    "id": "n126",
    "name": "SenatorDurbin",
-   "symbolSize": 15.713520843300499,
-   "x": -13.474863112516005,
-   "y": 469.8413056653337,
+   "symbolSize": 9.514059937719654,
+   "x": -469.68438418655114,
+   "y": -43.70435421747311,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -1781,9 +1908,10 @@
   {
    "id": "n127",
    "name": "SenatorBraun",
-   "symbolSize": 26.45235840949765,
-   "x": -317.1566557231855,
-   "y": 411.0243761517529,
+   "symbolSize": 7.253369293880437,
+   "x": 166.42225331786267,
+   "y": -125.8024079351008,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -1795,9 +1923,10 @@
   {
    "id": "n128",
    "name": "SenToddYoung",
-   "symbolSize": 19.37687023799665,
-   "x": -426.3514001370828,
-   "y": -430.10249147608636,
+   "symbolSize": 6.295725280145609,
+   "x": -319.5893006424254,
+   "y": -427.35058575083286,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -1809,9 +1938,10 @@
   {
    "id": "n129",
    "name": "SenJoniErnst",
-   "symbolSize": 2.224309964329956,
-   "x": 213.1591942402489,
-   "y": 332.25934343939116,
+   "symbolSize": 27.415976587145547,
+   "x": 331.2147161339291,
+   "y": -342.87064161254233,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -1823,9 +1953,10 @@
   {
    "id": "n130",
    "name": "ChuckGrassley",
-   "symbolSize": 18.181691365148684,
-   "x": -302.34723916097573,
-   "y": -412.96418828638826,
+   "symbolSize": 12.515928737568082,
+   "x": 219.78475836191444,
+   "y": 387.51320078225854,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -1837,9 +1968,10 @@
   {
    "id": "n131",
    "name": "RogerMarshallMD",
-   "symbolSize": 27.866945814580873,
-   "x": -341.07160233804046,
-   "y": -310.2445718493402,
+   "symbolSize": 2.098804602686199,
+   "x": -71.23948944223201,
+   "y": -392.8913411720677,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -1851,9 +1983,10 @@
   {
    "id": "n132",
    "name": "JerryMoran",
-   "symbolSize": 12.618066365810268,
-   "x": 354.53273326086276,
-   "y": 146.8536332664089,
+   "symbolSize": 19.471764028839555,
+   "x": 8.053066463989296,
+   "y": -355.8954006311112,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -1865,9 +1998,10 @@
   {
    "id": "n133",
    "name": "LeaderMcConnell",
-   "symbolSize": 17.765058983108414,
-   "x": -394.22059651731297,
-   "y": -348.95575688489043,
+   "symbolSize": 21.58499680269772,
+   "x": -463.21776370924994,
+   "y": -319.24484188071034,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -1879,9 +2013,10 @@
   {
    "id": "n134",
    "name": "SenRandPaul",
-   "symbolSize": 11.006951393076957,
-   "x": 330.5948888427728,
-   "y": 67.01977384449344,
+   "symbolSize": 12.966897082794578,
+   "x": -245.2961536929914,
+   "y": -381.08666694863456,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -1893,9 +2028,10 @@
   {
    "id": "n135",
    "name": "BillCassidy",
-   "symbolSize": 16.579476582083025,
-   "x": -141.58198266128971,
-   "y": -448.89054045766795,
+   "symbolSize": 24.351202010587627,
+   "x": 353.79186996895135,
+   "y": 146.9441686411942,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -1907,9 +2043,10 @@
   {
    "id": "n136",
    "name": "SenJohnKennedy",
-   "symbolSize": 7.01273011487766,
-   "x": 462.87360423894677,
-   "y": 479.03401280046114,
+   "symbolSize": 20.170670719909698,
+   "x": -161.94233549623027,
+   "y": 105.23003760454958,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -1921,9 +2058,10 @@
   {
    "id": "n137",
    "name": "SenatorCollins",
-   "symbolSize": 3.763562614720847,
-   "x": -346.9292973891316,
-   "y": -152.8668426263261,
+   "symbolSize": 28.272319679793355,
+   "x": 259.205482886613,
+   "y": -277.46557265160465,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -1935,9 +2073,10 @@
   {
    "id": "n138",
    "name": "SenAngusKing",
-   "symbolSize": 22.031770675241656,
-   "x": 123.622495157618,
-   "y": -317.3753327145283,
+   "symbolSize": 7.917873347305234,
+   "x": -490.56353199790505,
+   "y": -286.98249992505,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -1949,9 +2088,10 @@
   {
    "id": "n139",
    "name": "SenatorCardin",
-   "symbolSize": 11.67815975543374,
-   "x": -183.72687270111743,
-   "y": -263.60545118724065,
+   "symbolSize": 6.631486392701255,
+   "x": 6.684503706829275,
+   "y": -151.74225918915374,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -1963,9 +2103,10 @@
   {
    "id": "n140",
    "name": "ChrisVanHollen",
-   "symbolSize": 6.411976701178442,
-   "x": 7.268772102221078,
-   "y": -19.190144295875598,
+   "symbolSize": 7.414153260980887,
+   "x": -2.584428168391412,
+   "y": -380.0972449554853,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -1977,9 +2118,10 @@
   {
    "id": "n141",
    "name": "SenMarkey",
-   "symbolSize": 28.402427852637153,
-   "x": -130.1152787424532,
-   "y": -149.87532282409467,
+   "symbolSize": 19.903884387377634,
+   "x": 428.15493098240495,
+   "y": 337.72378925609746,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -1991,9 +2133,10 @@
   {
    "id": "n142",
    "name": "SenWarren",
-   "symbolSize": 6.575369273203753,
-   "x": -329.264747660889,
-   "y": -140.84577695951538,
+   "symbolSize": 7.943277396378561,
+   "x": -407.125860997351,
+   "y": 423.6072454482704,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -2005,9 +2148,10 @@
   {
    "id": "n143",
    "name": "SenGaryPeters",
-   "symbolSize": 13.1771516442571,
-   "x": 129.93891465745958,
-   "y": 410.36462665394413,
+   "symbolSize": 7.555589436556313,
+   "x": 143.0378845414573,
+   "y": -12.902959099284942,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -2019,9 +2163,10 @@
   {
    "id": "n144",
    "name": "SenStabenow",
-   "symbolSize": 6.140558208221045,
-   "x": 134.7882274428914,
-   "y": 357.86094889149274,
+   "symbolSize": 4.984747956506233,
+   "x": 309.7229120540577,
+   "y": 368.00975034899886,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -2033,9 +2178,10 @@
   {
    "id": "n145",
    "name": "SenAmyKlobuchar",
-   "symbolSize": 1.700038394627852,
-   "x": 275.603501554187,
-   "y": -15.810833923104212,
+   "symbolSize": 12.879148185281899,
+   "x": 100.92305386744908,
+   "y": 480.72236027506847,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -2047,9 +2193,10 @@
   {
    "id": "n146",
    "name": "SenTinaSmith",
-   "symbolSize": 24.069492673083374,
-   "x": 151.60583496100014,
-   "y": -41.89908704990188,
+   "symbolSize": 8.303198170637856,
+   "x": -105.20622779175369,
+   "y": 135.53357295616615,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -2061,9 +2208,10 @@
   {
    "id": "n147",
    "name": "SenHydeSmith",
-   "symbolSize": 17.03229462832129,
-   "x": 83.35204196351629,
-   "y": -30.353877470791303,
+   "symbolSize": 24.54078092673645,
+   "x": 424.3748028677559,
+   "y": -290.7849713099562,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -2075,9 +2223,10 @@
   {
    "id": "n148",
    "name": "SenatorWicker",
-   "symbolSize": 8.22280619302231,
-   "x": 358.01530313666797,
-   "y": -303.4630701714568,
+   "symbolSize": 17.214577293750487,
+   "x": 428.2979072967547,
+   "y": -131.33323726254542,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -2089,9 +2238,10 @@
   {
    "id": "n149",
    "name": "HawleyMO",
-   "symbolSize": 2.0917205861086963,
-   "x": 328.7432624264354,
-   "y": 46.501681702623955,
+   "symbolSize": 30.014726735564697,
+   "x": 90.05969931775985,
+   "y": 492.99692198141565,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -2103,9 +2253,10 @@
   {
    "id": "n150",
    "name": "SenEricSchmitt",
-   "symbolSize": 12.184951013916205,
-   "x": -1.9919163895619931,
-   "y": -176.68955198530546,
+   "symbolSize": 9.418544127457851,
+   "x": -327.4445374310648,
+   "y": 227.1805644389524,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -2117,9 +2268,10 @@
   {
    "id": "n151",
    "name": "SteveDaines",
-   "symbolSize": 30.324420937628837,
-   "x": 444.25195452062974,
-   "y": -297.95457463138086,
+   "symbolSize": 22.373547461975086,
+   "x": -489.95382857599134,
+   "y": 273.27889016006145,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -2131,9 +2283,10 @@
   {
    "id": "n152",
    "name": "SenatorTester",
-   "symbolSize": 1.86252492703111,
-   "x": 311.929496074541,
-   "y": -430.4104696741766,
+   "symbolSize": 9.596037203414188,
+   "x": 192.29548001847627,
+   "y": 374.0986445503098,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -2145,9 +2298,10 @@
   {
    "id": "n153",
    "name": "SenatorFischer",
-   "symbolSize": 27.612432030204438,
-   "x": -402.02759556402935,
-   "y": -126.49067303529148,
+   "symbolSize": 8.061477068406266,
+   "x": 17.99592986847938,
+   "y": 79.6912187963818,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -2159,9 +2313,10 @@
   {
    "id": "n154",
    "name": "SenatorRicketts",
-   "symbolSize": 14.677526175899233,
-   "x": 374.007784192735,
-   "y": 142.0067222597312,
+   "symbolSize": 10.916409240147006,
+   "x": -24.9921867060512,
+   "y": 353.9678731984046,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -2173,9 +2328,10 @@
   {
    "id": "n155",
    "name": "SenCortezMasto",
-   "symbolSize": 7.220246734524488,
-   "x": 326.09401600906415,
-   "y": -457.76152508404175,
+   "symbolSize": 14.326514098730446,
+   "x": 108.12929746104317,
+   "y": -339.6030301573311,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -2187,9 +2343,10 @@
   {
    "id": "n156",
    "name": "SenJackyRosen",
-   "symbolSize": 17.046882132770634,
-   "x": 244.48589913389708,
-   "y": 388.6555677941491,
+   "symbolSize": 18.739433672697547,
+   "x": 197.19216716471635,
+   "y": 341.108936532558,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -2201,9 +2358,10 @@
   {
    "id": "n157",
    "name": "SenatorHassan",
-   "symbolSize": 17.472184193368584,
-   "x": -308.71390782458184,
-   "y": 296.6231937312641,
+   "symbolSize": 22.777591900143612,
+   "x": -191.12746282597772,
+   "y": 432.81375682851683,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -2215,9 +2373,10 @@
   {
    "id": "n158",
    "name": "SenatorShaheen",
-   "symbolSize": 24.46298086216682,
-   "x": 167.74316245092803,
-   "y": 177.3138218346105,
+   "symbolSize": 12.654984663275131,
+   "x": -50.0493373290397,
+   "y": 339.41117541668154,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -2229,9 +2388,10 @@
   {
    "id": "n159",
    "name": "SenBooker",
-   "symbolSize": 22.88041566161435,
-   "x": -263.7818159332196,
-   "y": 25.92226455348009,
+   "symbolSize": 20.594679878070846,
+   "x": -373.33320577625096,
+   "y": -387.28584580656155,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -2243,9 +2403,10 @@
   {
    "id": "n160",
    "name": "SenatorMenendez",
-   "symbolSize": 26.0691725459881,
-   "x": -343.08524395064853,
-   "y": 2.4077204842760693,
+   "symbolSize": 12.486861755638412,
+   "x": -384.7419973438475,
+   "y": 446.3594298618084,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -2257,9 +2418,10 @@
   {
    "id": "n161",
    "name": "SenatorHeinrich",
-   "symbolSize": 10.671422154970886,
-   "x": -220.14583091811392,
-   "y": -371.4907307194784,
+   "symbolSize": 30.76256812150181,
+   "x": -257.01397955331174,
+   "y": 51.75466120046008,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -2271,9 +2433,10 @@
   {
    "id": "n162",
    "name": "SenatorLujan",
-   "symbolSize": 13.533689527562183,
-   "x": 343.80948577647575,
-   "y": 465.14623250774616,
+   "symbolSize": 13.09759108756542,
+   "x": -450.3556713844996,
+   "y": -164.1711990872222,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -2285,9 +2448,10 @@
   {
    "id": "n163",
    "name": "SenGillibrand",
-   "symbolSize": 29.60597125992954,
-   "x": -68.93993720582768,
-   "y": 351.0736442397098,
+   "symbolSize": 16.89796709496421,
+   "x": 335.0966110254873,
+   "y": 344.272307095311,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -2299,9 +2463,10 @@
   {
    "id": "n164",
    "name": "SenSchumer",
-   "symbolSize": 26.599053309023393,
-   "x": -303.8256260954532,
-   "y": 254.28751564417882,
+   "symbolSize": 28.61836032396781,
+   "x": -307.3330535671694,
+   "y": 470.20905080688703,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -2313,9 +2478,10 @@
   {
    "id": "n165",
    "name": "SenTedBuddNC",
-   "symbolSize": 12.178840181206732,
-   "x": -112.94845139135003,
-   "y": -454.00851785880735,
+   "symbolSize": 1.558537609759238,
+   "x": 119.1251015187687,
+   "y": -485.9503083892479,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -2327,9 +2493,10 @@
   {
    "id": "n166",
    "name": "SenThomTillis",
-   "symbolSize": 3.976520271236842,
-   "x": -479.15608671475087,
-   "y": -96.20407895495521,
+   "symbolSize": 9.014368733511105,
+   "x": -337.732856621629,
+   "y": -463.52570011161333,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -2341,9 +2508,10 @@
   {
    "id": "n167",
    "name": "SenKevinCramer",
-   "symbolSize": 22.252541876940136,
-   "x": 93.06017310739321,
-   "y": -30.464579821845575,
+   "symbolSize": 15.904353234986369,
+   "x": 152.42483954857255,
+   "y": -91.13195303665577,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -2355,9 +2523,10 @@
   {
    "id": "n168",
    "name": "SenJohnHoeven",
-   "symbolSize": 2.3679810673474613,
-   "x": -112.97143881847416,
-   "y": 372.71002339574113,
+   "symbolSize": 25.06054254951601,
+   "x": 277.8830262074965,
+   "y": -478.1023207638654,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -2369,9 +2538,10 @@
   {
    "id": "n169",
    "name": "SenSherrodBrown",
-   "symbolSize": 4.882601720310468,
-   "x": -104.07315252893022,
-   "y": 297.4952602103357,
+   "symbolSize": 25.198810338249874,
+   "x": 463.2395503185487,
+   "y": 168.57490438873674,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -2383,9 +2553,10 @@
   {
    "id": "n170",
    "name": "SenVancePress",
-   "symbolSize": 8.795125438881332,
-   "x": 444.99446130041076,
-   "y": -333.6411494424108,
+   "symbolSize": 29.235072832815955,
+   "x": -152.53774031022505,
+   "y": -275.49358834017335,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -2397,9 +2568,10 @@
   {
    "id": "n171",
    "name": "SenatorLankford",
-   "symbolSize": 8.969541044688873,
-   "x": 315.1728177950747,
-   "y": 404.3913035420235,
+   "symbolSize": 21.68820633723987,
+   "x": -319.702878244659,
+   "y": -448.9835619664879,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -2411,9 +2583,10 @@
   {
    "id": "n172",
    "name": "SenMullin",
-   "symbolSize": 21.477882969938786,
-   "x": -263.1399580777527,
-   "y": -365.0482017091383,
+   "symbolSize": 7.9505583024231585,
+   "x": 449.45063657477,
+   "y": -374.14351577803814,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -2425,9 +2598,10 @@
   {
    "id": "n173",
    "name": "SenJeffMerkley",
-   "symbolSize": 8.18414583801606,
-   "x": -293.9924663376522,
-   "y": 213.76064904893929,
+   "symbolSize": 16.549943141940233,
+   "x": -114.05802415276787,
+   "y": -22.302683266251847,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -2439,9 +2613,10 @@
   {
    "id": "n174",
    "name": "RonWyden",
-   "symbolSize": 18.00744075552391,
-   "x": -497.17381456578147,
-   "y": 308.77958569575526,
+   "symbolSize": 14.99931261193273,
+   "x": -118.74623747101532,
+   "y": 197.15966683482554,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -2453,9 +2628,10 @@
   {
    "id": "n175",
    "name": "SenBobCasey",
-   "symbolSize": 19.91451689962043,
-   "x": 84.00565597146465,
-   "y": -296.41132259060697,
+   "symbolSize": 17.608987318303047,
+   "x": 90.17854334129049,
+   "y": 139.17969306113048,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -2467,9 +2643,10 @@
   {
    "id": "n176",
    "name": "SenFettermanPA",
-   "symbolSize": 22.828851148569324,
-   "x": -135.385026995663,
-   "y": 127.89547947067331,
+   "symbolSize": 11.804349238972078,
+   "x": 180.5243608724021,
+   "y": -368.3020278375707,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -2481,9 +2658,10 @@
   {
    "id": "n177",
    "name": "SenJackReed",
-   "symbolSize": 1.9435941946216104,
-   "x": -408.0175150045128,
-   "y": 141.71708449302434,
+   "symbolSize": 17.151090245259173,
+   "x": -176.4433228369516,
+   "y": 379.55256891474437,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -2495,9 +2673,10 @@
   {
    "id": "n178",
    "name": "SenWhitehouse",
-   "symbolSize": 30.419883340984978,
-   "x": 399.3357241744063,
-   "y": 190.19158532373172,
+   "symbolSize": 29.068331657782846,
+   "x": 20.94537808325424,
+   "y": 37.28680975675036,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -2509,9 +2688,10 @@
   {
    "id": "n179",
    "name": "JeffMerkley",
-   "symbolSize": 25.079744053755313,
-   "x": 314.02288523928803,
-   "y": -391.6569762479315,
+   "symbolSize": 4.709697481568543,
+   "x": -303.91943290497926,
+   "y": -130.1610219231162,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -2523,9 +2703,10 @@
   {
    "id": "n180",
    "name": "SenatorTimScott",
-   "symbolSize": 15.392265199723788,
-   "x": 97.23184796318981,
-   "y": -32.1541445045691,
+   "symbolSize": 24.550425245873882,
+   "x": -327.57755329106317,
+   "y": 149.26258681169531,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -2537,9 +2718,10 @@
   {
    "id": "n181",
    "name": "SenatorRounds",
-   "symbolSize": 28.974539586477288,
-   "x": 74.48526185665332,
-   "y": 396.11010828935025,
+   "symbolSize": 3.2279079598420095,
+   "x": -229.68111828033125,
+   "y": -116.95306251028859,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -2551,9 +2733,10 @@
   {
    "id": "n182",
    "name": "SenJohnThune",
-   "symbolSize": 20.921386418776507,
-   "x": -205.80946042036294,
-   "y": -349.8660936541776,
+   "symbolSize": 22.108344097835833,
+   "x": 64.84482545322362,
+   "y": 254.35155757460177,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -2565,9 +2748,10 @@
   {
    "id": "n183",
    "name": "MarshaBlackburn",
-   "symbolSize": 7.988832931134664,
-   "x": -241.0165487253916,
-   "y": 416.3597475020116,
+   "symbolSize": 3.31710055636676,
+   "x": 372.9094318664688,
+   "y": 312.66507044459627,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -2579,9 +2763,10 @@
   {
    "id": "n184",
    "name": "SenatorHagerty",
-   "symbolSize": 8.471596275584972,
-   "x": -430.9175557243648,
-   "y": -341.97019528147854,
+   "symbolSize": 24.87817795987073,
+   "x": -466.4866957222491,
+   "y": 135.91207927357038,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -2593,9 +2778,10 @@
   {
    "id": "n185",
    "name": "JohnCornyn",
-   "symbolSize": 13.786996773490882,
-   "x": -88.90462551947451,
-   "y": 298.7892050837154,
+   "symbolSize": 19.473392812133728,
+   "x": -127.18745543254084,
+   "y": -360.9012845181049,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -2607,9 +2793,10 @@
   {
    "id": "n186",
    "name": "SenTedCruz",
-   "symbolSize": 13.648912915596483,
-   "x": -499.12016146900186,
-   "y": 118.59436436669023,
+   "symbolSize": 16.93423496181946,
+   "x": 96.06496829562536,
+   "y": -272.13220197398755,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -2621,9 +2808,10 @@
   {
    "id": "n187",
    "name": "SenMikeLee",
-   "symbolSize": 20.22211095013525,
-   "x": -84.21729281052683,
-   "y": -336.9275429840285,
+   "symbolSize": 22.064200926991532,
+   "x": 210.92898115517642,
+   "y": -233.83057965871592,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -2635,9 +2823,10 @@
   {
    "id": "n188",
    "name": "SenatorRomney",
-   "symbolSize": 12.570604800900096,
-   "x": -188.08880868061738,
-   "y": -49.508288590896484,
+   "symbolSize": 3.3495251446625103,
+   "x": 498.24776308687296,
+   "y": 291.6538613211874,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -2649,9 +2838,10 @@
   {
    "id": "n189",
    "name": "SenSanders",
-   "symbolSize": 21.941510265318325,
-   "x": 300.4379429437196,
-   "y": 421.59548086646964,
+   "symbolSize": 9.982821628883109,
+   "x": 162.55396771574453,
+   "y": -107.42394490609917,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -2663,9 +2853,10 @@
   {
    "id": "n190",
    "name": "SenPeterWelch",
-   "symbolSize": 28.440633025111058,
-   "x": 409.297496296349,
-   "y": 118.02872110504222,
+   "symbolSize": 16.566661556821003,
+   "x": 5.201507109561248,
+   "y": -137.83435225262343,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -2677,9 +2868,10 @@
   {
    "id": "n191",
    "name": "SenTimKaine",
-   "symbolSize": 14.662705530901833,
-   "x": -363.78211031701125,
-   "y": -175.7178375418431,
+   "symbolSize": 18.74595553836311,
+   "x": -108.68270810264204,
+   "y": 217.519431611193,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -2691,9 +2883,10 @@
   {
    "id": "n192",
    "name": "MarkWarner",
-   "symbolSize": 16.033417680569872,
-   "x": 183.91887170035284,
-   "y": -259.71799017743615,
+   "symbolSize": 8.847118790976168,
+   "x": 439.36070979445174,
+   "y": -100.96399171475758,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -2705,9 +2898,10 @@
   {
    "id": "n193",
    "name": "SenatorCantwell",
-   "symbolSize": 17.702252204557883,
-   "x": 24.368502669801387,
-   "y": 307.371424139724,
+   "symbolSize": 17.012164230051077,
+   "x": 386.1762785441824,
+   "y": 429.44664878835397,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -2719,9 +2913,10 @@
   {
    "id": "n194",
    "name": "PattyMurray",
-   "symbolSize": 14.562995954016795,
-   "x": -273.3774373737764,
-   "y": -301.96749035762514,
+   "symbolSize": 16.24640647396552,
+   "x": 183.0492295334975,
+   "y": 31.066149820207443,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -2733,9 +2928,10 @@
   {
    "id": "n195",
    "name": "SenCapito",
-   "symbolSize": 4.355235015400528,
-   "x": -415.9956775833131,
-   "y": -61.40607786984799,
+   "symbolSize": 12.904834606394914,
+   "x": 335.16525196553346,
+   "y": 67.25632797317166,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -2747,9 +2943,10 @@
   {
    "id": "n196",
    "name": "JoeManchinIII",
-   "symbolSize": 4.9333320353620636,
-   "x": 302.44134457503515,
-   "y": 418.4581756340401,
+   "symbolSize": 20.19965149904467,
+   "x": -79.52737102152196,
+   "y": 480.378598398853,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -2761,9 +2958,10 @@
   {
    "id": "n197",
    "name": "SenatorBaldwin",
-   "symbolSize": 3.950593442557245,
-   "x": -136.9835393650011,
-   "y": -345.1766077875134,
+   "symbolSize": 23.586106329358994,
+   "x": 87.59848918085265,
+   "y": -141.4180857120345,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -2775,9 +2973,10 @@
   {
    "id": "n198",
    "name": "SenRonJohnson",
-   "symbolSize": 25.82736955373742,
-   "x": -161.53331566605857,
-   "y": -159.56008020380273,
+   "symbolSize": 23.695836815100023,
+   "x": 319.34772720302897,
+   "y": -77.63612650738071,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -2789,9 +2988,10 @@
   {
    "id": "n199",
    "name": "SenJohnBarrasso",
-   "symbolSize": 26.933033627244896,
-   "x": -57.021754697170195,
-   "y": -383.53836282189724,
+   "symbolSize": 16.818645185400378,
+   "x": -310.04996639696355,
+   "y": 391.12185414118505,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
@@ -2803,9 +3003,10 @@
   {
    "id": "n200",
    "name": "SenLummis",
-   "symbolSize": 18.622334672688115,
-   "x": -465.10680672205854,
-   "y": 35.91767707969154,
+   "symbolSize": 24.805129149117693,
+   "x": 12.685893049936112,
+   "y": 254.26136502034296,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
@@ -2817,9 +3018,10 @@
   {
    "id": "n201",
    "name": "SenKatieBritt",
-   "symbolSize": 29.164173629576364,
-   "x": -425.7273707415995,
-   "y": 307.85284867393887,
+   "symbolSize": 24.46598484502946,
+   "x": -167.62942623498157,
+   "y": -482.95356738857475,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -2831,9 +3033,10 @@
   {
    "id": "n202",
    "name": "SenTuberville",
-   "symbolSize": 19.003541616321264,
-   "x": 230.77837680784535,
-   "y": -381.80438612844813,
+   "symbolSize": 13.866858427386402,
+   "x": -225.69577410963484,
+   "y": 210.4087649226118,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -2845,9 +3048,10 @@
   {
    "id": "n203",
    "name": "lisamurkowski",
-   "symbolSize": 2.364763164248613,
-   "x": -235.3134546933896,
-   "y": -198.71989536074028,
+   "symbolSize": 30.761664740058794,
+   "x": -433.89436513538385,
+   "y": -93.92190273699475,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -2859,9 +3063,10 @@
   {
    "id": "n204",
    "name": "SenDanSullivan",
-   "symbolSize": 26.138895461997162,
-   "x": -436.80287962868914,
-   "y": 398.9130007647999,
+   "symbolSize": 28.024214489062707,
+   "x": -209.8982467027294,
+   "y": 442.1953054175142,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -2873,9 +3078,10 @@
   {
    "id": "n205",
    "name": "SenMarkKelly",
-   "symbolSize": 22.274457419129426,
-   "x": -399.43578897097984,
-   "y": 262.6372119416818,
+   "symbolSize": 2.4676758085684165,
+   "x": 268.3899543704089,
+   "y": 133.97121516017978,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -2887,9 +3093,10 @@
   {
    "id": "n206",
    "name": "SenatorSinema",
-   "symbolSize": 24.255322720894306,
-   "x": -153.8398617859744,
-   "y": -53.418743317440146,
+   "symbolSize": 19.37312395201859,
+   "x": 196.74248400068814,
+   "y": 466.8764328464846,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -2901,9 +3108,10 @@
   {
    "id": "n207",
    "name": "JohnBoozman",
-   "symbolSize": 2.090651347154985,
-   "x": 130.82903756033625,
-   "y": -328.52585480338644,
+   "symbolSize": 10.926074460643536,
+   "x": -107.47133246734654,
+   "y": 52.20740562412186,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -2915,9 +3123,10 @@
   {
    "id": "n208",
    "name": "SenTomCotton",
-   "symbolSize": 19.584628077379225,
-   "x": -209.31082287068358,
-   "y": 202.31650861908952,
+   "symbolSize": 5.321213031296476,
+   "x": -130.89188903225067,
+   "y": 419.14856927396534,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -2929,9 +3138,10 @@
   {
    "id": "n209",
    "name": "Senlaphonza",
-   "symbolSize": 18.448823533467458,
-   "x": -408.46400661751636,
-   "y": 378.5156531424392,
+   "symbolSize": 7.753604093843336,
+   "x": -417.74292295803764,
+   "y": -499.26546428514695,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -2943,9 +3153,10 @@
   {
    "id": "n210",
    "name": "SenAlexPadilla",
-   "symbolSize": 14.266364148847485,
-   "x": -356.05353607709134,
-   "y": -138.19835448917775,
+   "symbolSize": 6.337396021548553,
+   "x": -8.853347138597996,
+   "y": -427.60043701943925,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -2957,9 +3168,10 @@
   {
    "id": "n211",
    "name": "SenatorBennet",
-   "symbolSize": 27.950702735119126,
-   "x": 159.82009376302642,
-   "y": -303.0638855986425,
+   "symbolSize": 4.33436063449717,
+   "x": -440.95646520760704,
+   "y": 167.39713068504977,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -2971,9 +3183,10 @@
   {
    "id": "n212",
    "name": "SenatorHick",
-   "symbolSize": 11.216173102460115,
-   "x": 178.48269945560537,
-   "y": -268.603734770988,
+   "symbolSize": 5.654186984749426,
+   "x": 494.3746445595111,
+   "y": -90.49857685412809,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -2985,9 +3198,10 @@
   {
    "id": "n213",
    "name": "SenBlumenthal",
-   "symbolSize": 9.161200335906322,
-   "x": 283.49718518613076,
-   "y": -219.6620331886361,
+   "symbolSize": 3.2554573047303355,
+   "x": -311.0648064975795,
+   "y": -337.36360476597997,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -2999,9 +3213,10 @@
   {
    "id": "n214",
    "name": "ChrisMurphyCT",
-   "symbolSize": 14.023086586994777,
-   "x": 62.301510157586904,
-   "y": -3.2370831724362006,
+   "symbolSize": 12.411124584685924,
+   "x": -463.98091302139176,
+   "y": -198.540772067881,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -3013,9 +3228,10 @@
   {
    "id": "n215",
    "name": "SenatorCarper",
-   "symbolSize": 14.975723164128206,
-   "x": 379.6248344019434,
-   "y": -188.29557274134226,
+   "symbolSize": 30.278403154926767,
+   "x": 396.0877126632065,
+   "y": -275.98840362312905,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -3027,9 +3243,10 @@
   {
    "id": "n216",
    "name": "ChrisCoons",
-   "symbolSize": 29.025655043640253,
-   "x": -234.01033687036465,
-   "y": -352.2122814103674,
+   "symbolSize": 3.2630179585673114,
+   "x": 32.268960300859476,
+   "y": 233.85037008057736,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -3041,9 +3258,10 @@
   {
    "id": "n217",
    "name": "marcorubio",
-   "symbolSize": 3.8370387005876183,
-   "x": -283.1392067078476,
-   "y": -377.7472709741769,
+   "symbolSize": 24.282415073700474,
+   "x": -487.5658536198939,
+   "y": 467.0255230925833,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -3055,9 +3273,10 @@
   {
    "id": "n218",
    "name": "SenRickScott",
-   "symbolSize": 9.509134727308522,
-   "x": 362.50550097815267,
-   "y": -22.25117215624641,
+   "symbolSize": 28.437553558472576,
+   "x": -310.2664899766404,
+   "y": 35.14704864926341,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -3069,9 +3288,10 @@
   {
    "id": "n219",
    "name": "ossoff",
-   "symbolSize": 21.352503811163416,
-   "x": -63.68771232867289,
-   "y": 392.3242723339647,
+   "symbolSize": 28.63785019593655,
+   "x": 412.93446290214183,
+   "y": 298.7922447134391,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -3083,9 +3303,10 @@
   {
    "id": "n220",
    "name": "ReverendWarnock",
-   "symbolSize": 4.504610856972774,
-   "x": 188.54725565126068,
-   "y": -178.48865194431585,
+   "symbolSize": 26.77348118875035,
+   "x": -372.7962098838683,
+   "y": 238.09412517713974,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -3097,9 +3318,10 @@
   {
    "id": "n221",
    "name": "maziehirono",
-   "symbolSize": 4.731614216814679,
-   "x": 129.86311179899144,
-   "y": -177.5517313926369,
+   "symbolSize": 1.9426494569145514,
+   "x": -173.71764867404193,
+   "y": 141.30734186552024,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -3111,9 +3333,10 @@
   {
    "id": "n222",
    "name": "brianschatz",
-   "symbolSize": 6.127035108707415,
-   "x": -245.17721134721583,
-   "y": -252.3345266212389,
+   "symbolSize": 15.228616153684868,
+   "x": -315.4469612844142,
+   "y": 260.39621133621824,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -3125,9 +3348,10 @@
   {
    "id": "n223",
    "name": "MikeCrapo",
-   "symbolSize": 18.143635670073643,
-   "x": -60.13192915727262,
-   "y": 138.5316609990282,
+   "symbolSize": 5.317325749702004,
+   "x": -130.4938385040698,
+   "y": 434.95823337267177,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -3139,9 +3363,10 @@
   {
    "id": "n224",
    "name": "SenatorRisch",
-   "symbolSize": 11.444130280572978,
-   "x": -92.82418251657208,
-   "y": -219.3006981672205,
+   "symbolSize": 1.8849187113974117,
+   "x": 434.31238227529843,
+   "y": 486.0293761269962,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -3153,9 +3378,10 @@
   {
    "id": "n225",
    "name": "SenDuckworth",
-   "symbolSize": 29.97396022583068,
-   "x": 190.79227091934524,
-   "y": 117.178135206599,
+   "symbolSize": 9.03671772371553,
+   "x": 86.90942357636175,
+   "y": 112.69607043281815,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -3167,9 +3393,10 @@
   {
    "id": "n226",
    "name": "SenatorDurbin",
-   "symbolSize": 10.577202386331333,
-   "x": -205.42663663161153,
-   "y": 288.36599454562975,
+   "symbolSize": 11.736254052947904,
+   "x": 107.06358396846679,
+   "y": 28.11929273863882,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -3181,9 +3408,10 @@
   {
    "id": "n227",
    "name": "SenatorBraun",
-   "symbolSize": 28.520046868419858,
-   "x": 415.07840762936576,
-   "y": 445.6141336426854,
+   "symbolSize": 19.511433341987512,
+   "x": 12.800623175421833,
+   "y": -244.51028346262228,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -3195,9 +3423,10 @@
   {
    "id": "n228",
    "name": "SenToddYoung",
-   "symbolSize": 13.710283109785653,
-   "x": 90.34632821042203,
-   "y": 57.54161939721553,
+   "symbolSize": 4.946662690171341,
+   "x": -428.0389971207119,
+   "y": -445.8209868508667,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -3209,9 +3438,10 @@
   {
    "id": "n229",
    "name": "SenJoniErnst",
-   "symbolSize": 12.485967505178825,
-   "x": 111.68113579366388,
-   "y": 184.7550943375628,
+   "symbolSize": 26.41528781897312,
+   "x": 312.47961284481096,
+   "y": -149.91958477522496,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -3223,9 +3453,10 @@
   {
    "id": "n230",
    "name": "ChuckGrassley",
-   "symbolSize": 24.001627134793583,
-   "x": 445.6336070003782,
-   "y": 185.09686819871808,
+   "symbolSize": 28.162055087265205,
+   "x": 279.25722348462887,
+   "y": 304.0444132030965,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -3237,9 +3468,10 @@
   {
    "id": "n231",
    "name": "RogerMarshallMD",
-   "symbolSize": 6.203930904519563,
-   "x": 470.6268624051463,
-   "y": 3.880354936499316,
+   "symbolSize": 25.693555731861334,
+   "x": -139.28333626839327,
+   "y": 183.5368126053271,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -3251,9 +3483,10 @@
   {
    "id": "n232",
    "name": "JerryMoran",
-   "symbolSize": 11.915154596874723,
-   "x": -258.92440236637674,
-   "y": -187.39768200463016,
+   "symbolSize": 2.5762911887298143,
+   "x": -333.2922088892921,
+   "y": 423.36363155526,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -3265,9 +3498,10 @@
   {
    "id": "n233",
    "name": "LeaderMcConnell",
-   "symbolSize": 25.991882654578408,
-   "x": -275.5959554671695,
-   "y": 487.0990939953888,
+   "symbolSize": 8.509610573920195,
+   "x": -84.54287292704186,
+   "y": -446.8824872088958,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -3279,9 +3513,10 @@
   {
    "id": "n234",
    "name": "SenRandPaul",
-   "symbolSize": 2.0715636655951615,
-   "x": 231.45670045727024,
-   "y": -148.93325625170093,
+   "symbolSize": 22.587257141752715,
+   "x": 309.6993711867301,
+   "y": -387.9800547677309,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -3293,9 +3528,10 @@
   {
    "id": "n235",
    "name": "BillCassidy",
-   "symbolSize": 14.886505058498106,
-   "x": -137.34467446295173,
-   "y": -465.9439465367117,
+   "symbolSize": 19.975302469007747,
+   "x": 44.38037129161364,
+   "y": 69.81229798142283,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -3307,9 +3543,10 @@
   {
    "id": "n236",
    "name": "SenJohnKennedy",
-   "symbolSize": 30.5709351574403,
-   "x": -355.9994917385185,
-   "y": -12.018482130112488,
+   "symbolSize": 18.113257251353932,
+   "x": 246.86842005465132,
+   "y": 475.2675515629933,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -3321,9 +3558,10 @@
   {
    "id": "n237",
    "name": "SenatorCollins",
-   "symbolSize": 4.027789841684147,
-   "x": 490.99125588361676,
-   "y": 420.4333964950283,
+   "symbolSize": 7.058723255878389,
+   "x": -305.345328494348,
+   "y": 376.01170597920293,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -3335,9 +3573,10 @@
   {
    "id": "n238",
    "name": "SenAngusKing",
-   "symbolSize": 21.383345142270116,
-   "x": 469.4101444672898,
-   "y": 455.6315126026692,
+   "symbolSize": 20.957839147358094,
+   "x": -316.52161103881963,
+   "y": 243.0348266696078,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -3349,9 +3588,10 @@
   {
    "id": "n239",
    "name": "SenatorCardin",
-   "symbolSize": 12.061906023247616,
-   "x": 249.32304448556158,
-   "y": 127.51117443933049,
+   "symbolSize": 28.004958994937873,
+   "x": -275.96600920363494,
+   "y": -150.5728624100189,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -3363,9 +3603,10 @@
   {
    "id": "n240",
    "name": "ChrisVanHollen",
-   "symbolSize": 12.756930580388659,
-   "x": -182.44156604309933,
-   "y": 40.158324199804156,
+   "symbolSize": 24.81175134570043,
+   "x": -42.85322113378123,
+   "y": 34.11748694676976,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -3377,9 +3618,10 @@
   {
    "id": "n241",
    "name": "SenMarkey",
-   "symbolSize": 17.233504518111076,
-   "x": -255.58504480866472,
-   "y": 253.27220966291998,
+   "symbolSize": 19.060480650090454,
+   "x": -190.3010481174149,
+   "y": -226.82107262005644,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -3391,9 +3633,10 @@
   {
    "id": "n242",
    "name": "SenWarren",
-   "symbolSize": 18.22741323156608,
-   "x": -490.59371541510586,
-   "y": 306.77253107485944,
+   "symbolSize": 13.745766569105209,
+   "x": -261.8664791527625,
+   "y": -118.7934115078678,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -3405,9 +3648,10 @@
   {
    "id": "n243",
    "name": "SenGaryPeters",
-   "symbolSize": 3.22791240318577,
-   "x": 27.03870385976029,
-   "y": 286.99056912060803,
+   "symbolSize": 18.45984726915345,
+   "x": 341.1201476809608,
+   "y": -359.82703502470383,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -3419,9 +3663,10 @@
   {
    "id": "n244",
    "name": "SenStabenow",
-   "symbolSize": 26.294719242940445,
-   "x": 22.473556208155628,
-   "y": -196.47033764873333,
+   "symbolSize": 24.573010197203615,
+   "x": 171.85107903950245,
+   "y": -241.0663896137748,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -3433,9 +3678,10 @@
   {
    "id": "n245",
    "name": "SenAmyKlobuchar",
-   "symbolSize": 15.852850320968649,
-   "x": -256.6139154714675,
-   "y": -398.81680642340956,
+   "symbolSize": 14.00117275960476,
+   "x": 225.16051988217532,
+   "y": -313.4584096965224,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -3447,9 +3693,10 @@
   {
    "id": "n246",
    "name": "SenTinaSmith",
-   "symbolSize": 23.819093213017723,
-   "x": 178.45041060385017,
-   "y": -319.5170480794841,
+   "symbolSize": 10.19343885602121,
+   "x": 15.22631690236119,
+   "y": -149.92635563840304,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -3461,9 +3708,10 @@
   {
    "id": "n247",
    "name": "SenHydeSmith",
-   "symbolSize": 20.18364130928225,
-   "x": -331.5153855516037,
-   "y": -254.20075016196364,
+   "symbolSize": 11.979901695970923,
+   "x": -256.69735881436605,
+   "y": -64.71870489083386,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -3475,9 +3723,10 @@
   {
    "id": "n248",
    "name": "SenatorWicker",
-   "symbolSize": 9.496385564343356,
-   "x": -445.449842306013,
-   "y": 79.02853236016938,
+   "symbolSize": 21.755814733572816,
+   "x": -440.97722132519226,
+   "y": 265.4990132887598,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -3489,9 +3738,10 @@
   {
    "id": "n249",
    "name": "HawleyMO",
-   "symbolSize": 17.89669709883107,
-   "x": 330.6071241978084,
-   "y": 396.23841073872006,
+   "symbolSize": 5.450530112839256,
+   "x": 285.9064797153294,
+   "y": 418.3680167876686,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -3503,9 +3753,10 @@
   {
    "id": "n250",
    "name": "SenEricSchmitt",
-   "symbolSize": 26.624311022493625,
-   "x": 123.05521033388254,
-   "y": -57.08671131573004,
+   "symbolSize": 13.717147447189499,
+   "x": 97.68355222138541,
+   "y": 326.15102064449354,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -3517,9 +3768,10 @@
   {
    "id": "n251",
    "name": "SteveDaines",
-   "symbolSize": 11.516088049591614,
-   "x": 94.86111261362191,
-   "y": 81.87196038037973,
+   "symbolSize": 1.7442717234027998,
+   "x": -346.4262788605621,
+   "y": -170.3972373658803,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -3531,9 +3783,10 @@
   {
    "id": "n252",
    "name": "SenatorTester",
-   "symbolSize": 17.681032540186322,
-   "x": -374.20339862500987,
-   "y": -388.40876407247504,
+   "symbolSize": 24.889031048741266,
+   "x": 291.44061071563965,
+   "y": 424.84992774348996,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -3545,9 +3798,10 @@
   {
    "id": "n253",
    "name": "SenatorFischer",
-   "symbolSize": 25.351450242833522,
-   "x": -407.15489585660845,
-   "y": 349.47536839317047,
+   "symbolSize": 18.674818914942023,
+   "x": 464.0362153094709,
+   "y": -322.8957802039287,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -3559,9 +3813,10 @@
   {
    "id": "n254",
    "name": "SenatorRicketts",
-   "symbolSize": 21.122065645894935,
-   "x": 1.0523539175185874,
-   "y": -445.4203573163418,
+   "symbolSize": 9.85869976557374,
+   "x": 301.1836087772813,
+   "y": -158.7478964149277,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -3573,9 +3828,10 @@
   {
    "id": "n255",
    "name": "SenCortezMasto",
-   "symbolSize": 30.45461231379035,
-   "x": 234.84500596012117,
-   "y": -367.7420874035597,
+   "symbolSize": 5.641981718521477,
+   "x": 247.72893081509528,
+   "y": -434.95864123681486,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -3587,9 +3843,10 @@
   {
    "id": "n256",
    "name": "SenJackyRosen",
-   "symbolSize": 17.490185232832374,
-   "x": 467.74667135152254,
-   "y": 443.6296879744119,
+   "symbolSize": 15.112078252547935,
+   "x": -449.2572201295322,
+   "y": -66.83081105935173,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -3601,9 +3858,10 @@
   {
    "id": "n257",
    "name": "SenatorHassan",
-   "symbolSize": 12.617374715911845,
-   "x": -95.96292823277997,
-   "y": -394.5646393038717,
+   "symbolSize": 27.329089740835634,
+   "x": -124.38420141321404,
+   "y": -332.4524919482499,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -3615,9 +3873,10 @@
   {
    "id": "n258",
    "name": "SenatorShaheen",
-   "symbolSize": 11.566466219397226,
-   "x": 312.638051315404,
-   "y": -91.20293029268669,
+   "symbolSize": 7.837020715033941,
+   "x": 261.44049736374916,
+   "y": -41.3029741851978,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -3629,9 +3888,10 @@
   {
    "id": "n259",
    "name": "SenBooker",
-   "symbolSize": 24.95094325514514,
-   "x": -366.41748714996015,
-   "y": 316.1557860967973,
+   "symbolSize": 20.525801209690673,
+   "x": 281.1147199211889,
+   "y": 446.9559867379239,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -3643,9 +3903,10 @@
   {
    "id": "n260",
    "name": "SenatorMenendez",
-   "symbolSize": 20.371163667781044,
-   "x": -197.6159244849872,
-   "y": -307.25658229361574,
+   "symbolSize": 27.458567905002408,
+   "x": 388.0763173678383,
+   "y": -181.26793750979942,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -3657,9 +3918,10 @@
   {
    "id": "n261",
    "name": "SenatorHeinrich",
-   "symbolSize": 26.696117518389112,
-   "x": -306.41974658001743,
-   "y": 377.3550183692661,
+   "symbolSize": 5.617461204025115,
+   "x": 111.41650253604428,
+   "y": 180.99098525896318,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -3671,9 +3933,10 @@
   {
    "id": "n262",
    "name": "SenatorLujan",
-   "symbolSize": 6.630417479114898,
-   "x": -355.81536989189567,
-   "y": 40.04082198074764,
+   "symbolSize": 23.759373734446747,
+   "x": 166.30872226633278,
+   "y": 88.12029940505136,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -3685,9 +3948,10 @@
   {
    "id": "n263",
    "name": "SenGillibrand",
-   "symbolSize": 23.842948506428908,
-   "x": 32.616452182330136,
-   "y": 398.734312130925,
+   "symbolSize": 7.814963612935772,
+   "x": -69.65112300600549,
+   "y": -468.9247089370052,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -3699,9 +3963,10 @@
   {
    "id": "n264",
    "name": "SenSchumer",
-   "symbolSize": 21.1156218233802,
-   "x": 468.5788505622081,
-   "y": -389.10439851191427,
+   "symbolSize": 2.0939034917048804,
+   "x": -261.06616951036943,
+   "y": -287.3833369694626,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -3713,9 +3978,10 @@
   {
    "id": "n265",
    "name": "SenTedBuddNC",
-   "symbolSize": 14.61964931734725,
-   "x": 110.29893955543128,
-   "y": 251.29152823324125,
+   "symbolSize": 17.696242948241245,
+   "x": -140.7378005140024,
+   "y": 27.75409304547634,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -3727,9 +3993,10 @@
   {
    "id": "n266",
    "name": "SenThomTillis",
-   "symbolSize": 12.806869967495063,
-   "x": -496.16817041279324,
-   "y": 112.31742339500795,
+   "symbolSize": 24.986229864654575,
+   "x": -338.84886814365075,
+   "y": 0.31335743065727684,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -3741,9 +4008,10 @@
   {
    "id": "n267",
    "name": "SenKevinCramer",
-   "symbolSize": 5.496547117768706,
-   "x": -0.9630155171860224,
-   "y": -251.03211029558125,
+   "symbolSize": 26.72046949068765,
+   "x": -114.13582533870749,
+   "y": -175.51987080231936,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -3755,9 +4023,10 @@
   {
    "id": "n268",
    "name": "SenJohnHoeven",
-   "symbolSize": 23.081027114216145,
-   "x": -497.1548058922436,
-   "y": 327.1080990267085,
+   "symbolSize": 13.457961294950616,
+   "x": -374.1804328126267,
+   "y": -142.73816636284175,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -3769,9 +4038,10 @@
   {
    "id": "n269",
    "name": "SenSherrodBrown",
-   "symbolSize": 20.085999198529926,
-   "x": 309.67815640791787,
-   "y": -90.04678577060378,
+   "symbolSize": 16.73953575495502,
+   "x": -195.47289017556858,
+   "y": -72.78038936174937,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -3783,9 +4053,10 @@
   {
    "id": "n270",
    "name": "SenVancePress",
-   "symbolSize": 18.524364689467006,
-   "x": 33.08923590747065,
-   "y": -66.9157164051104,
+   "symbolSize": 3.7196209637855784,
+   "x": -446.48499645654505,
+   "y": -76.41018589097979,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -3797,9 +4068,10 @@
   {
    "id": "n271",
    "name": "SenatorLankford",
-   "symbolSize": 10.420471672085851,
-   "x": -172.02126771091622,
-   "y": -104.7556382586522,
+   "symbolSize": 8.231699247640096,
+   "x": -166.61220386384082,
+   "y": 33.02573992328337,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -3811,9 +4083,10 @@
   {
    "id": "n272",
    "name": "SenMullin",
-   "symbolSize": 14.724419704725669,
-   "x": 83.74814796375551,
-   "y": -305.2722229647545,
+   "symbolSize": 23.440903302679608,
+   "x": -151.3179860806224,
+   "y": 424.4381226700166,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -3825,9 +4098,10 @@
   {
    "id": "n273",
    "name": "SenJeffMerkley",
-   "symbolSize": 27.740504009121306,
-   "x": 214.074739924867,
-   "y": -12.200486462790025,
+   "symbolSize": 15.816158671300327,
+   "x": 188.89267683388744,
+   "y": 18.298627369942892,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -3839,9 +4113,10 @@
   {
    "id": "n274",
    "name": "RonWyden",
-   "symbolSize": 25.56826005581178,
-   "x": -55.0536191194023,
-   "y": -351.8356944498138,
+   "symbolSize": 13.924629889744025,
+   "x": -199.80401568584938,
+   "y": 454.1027856907309,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -3853,9 +4128,10 @@
   {
    "id": "n275",
    "name": "SenBobCasey",
-   "symbolSize": 23.07877069356809,
-   "x": 252.62090643436966,
-   "y": -126.88165757484825,
+   "symbolSize": 30.409064116254758,
+   "x": -386.3974003784111,
+   "y": 340.3811839189582,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -3867,9 +4143,10 @@
   {
    "id": "n276",
    "name": "SenFettermanPA",
-   "symbolSize": 17.114058044146013,
-   "x": 441.88307649360377,
-   "y": 440.024936773779,
+   "symbolSize": 26.873225876469327,
+   "x": 218.10780613239137,
+   "y": 302.022931319555,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -3881,9 +4158,10 @@
   {
    "id": "n277",
    "name": "SenJackReed",
-   "symbolSize": 5.314624032028365,
-   "x": 16.10426555743595,
-   "y": 138.0059850718219,
+   "symbolSize": 16.532829348653486,
+   "x": -132.13316410990763,
+   "y": -70.70815659602493,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -3895,9 +4173,10 @@
   {
    "id": "n278",
    "name": "SenWhitehouse",
-   "symbolSize": 13.426521701386038,
-   "x": 160.29876039451221,
-   "y": -386.7278774536146,
+   "symbolSize": 6.192002856450311,
+   "x": 371.0331662135003,
+   "y": 362.35067520786777,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -3909,9 +4188,10 @@
   {
    "id": "n279",
    "name": "JeffMerkley",
-   "symbolSize": 16.880165503326694,
-   "x": -452.5417556108636,
-   "y": -139.12838521852723,
+   "symbolSize": 30.386925810010744,
+   "x": -241.34332445838078,
+   "y": 152.17578093748148,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -3923,9 +4203,10 @@
   {
    "id": "n280",
    "name": "SenatorTimScott",
-   "symbolSize": 22.99404143666096,
-   "x": 14.909491029958417,
-   "y": 473.18133060605476,
+   "symbolSize": 9.963310892535183,
+   "x": -264.5935475469289,
+   "y": 128.611464788308,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -3937,9 +4218,10 @@
   {
    "id": "n281",
    "name": "SenatorRounds",
-   "symbolSize": 20.400410343824987,
-   "x": 65.1587557205853,
-   "y": -258.2695276685936,
+   "symbolSize": 17.548396692089586,
+   "x": -192.0917746995151,
+   "y": 245.1797460504048,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -3951,9 +4233,10 @@
   {
    "id": "n282",
    "name": "SenJohnThune",
-   "symbolSize": 26.208457792492197,
-   "x": 329.06797406549026,
-   "y": -350.2401894142676,
+   "symbolSize": 22.45046989887316,
+   "x": -125.23711419480077,
+   "y": -149.0772506638922,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -3965,9 +4248,10 @@
   {
    "id": "n283",
    "name": "MarshaBlackburn",
-   "symbolSize": 13.71654941801471,
-   "x": 74.63884406321768,
-   "y": 258.6900225255464,
+   "symbolSize": 20.129590358344227,
+   "x": -91.04447747080849,
+   "y": 354.66509038712456,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -3979,9 +4263,10 @@
   {
    "id": "n284",
    "name": "SenatorHagerty",
-   "symbolSize": 8.644024254505279,
-   "x": -486.1555236594697,
-   "y": 34.94311554344051,
+   "symbolSize": 12.341437173716047,
+   "x": 421.99997883506876,
+   "y": 82.6325729744533,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -3993,9 +4278,10 @@
   {
    "id": "n285",
    "name": "JohnCornyn",
-   "symbolSize": 1.8997901133292647,
-   "x": -94.05411394372129,
-   "y": -75.53360020743384,
+   "symbolSize": 2.8839334054160592,
+   "x": -171.48122015119174,
+   "y": -125.06805607095606,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -4007,9 +4293,10 @@
   {
    "id": "n286",
    "name": "SenTedCruz",
-   "symbolSize": 27.613137099635566,
-   "x": -461.85554789305684,
-   "y": -310.3168054564936,
+   "symbolSize": 4.251740473276146,
+   "x": 429.42197032033766,
+   "y": 415.0230500966288,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -4021,9 +4308,10 @@
   {
    "id": "n287",
    "name": "SenMikeLee",
-   "symbolSize": 18.852959254938163,
-   "x": -443.9998966151966,
-   "y": 292.9124226033615,
+   "symbolSize": 3.167113335012819,
+   "x": 91.83988687834847,
+   "y": -242.63304200768988,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -4035,9 +4323,10 @@
   {
    "id": "n288",
    "name": "SenatorRomney",
-   "symbolSize": 2.482338502367066,
-   "x": 161.77054884478082,
-   "y": 285.7454362222128,
+   "symbolSize": 25.30767157178525,
+   "x": 254.5036036529948,
+   "y": -94.61540193491612,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -4049,9 +4338,10 @@
   {
    "id": "n289",
    "name": "SenSanders",
-   "symbolSize": 26.07176532139296,
-   "x": -397.2450267159659,
-   "y": 140.4144854005291,
+   "symbolSize": 10.836004462612578,
+   "x": 478.7019241830749,
+   "y": 177.13720073449724,
+   "color": "#FFF88C",
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -4063,9 +4353,10 @@
   {
    "id": "n290",
    "name": "SenPeterWelch",
-   "symbolSize": 24.81536260365208,
-   "x": 260.26886055546834,
-   "y": 134.4854770834943,
+   "symbolSize": 23.563789772555552,
+   "x": 141.0995823663834,
+   "y": 393.7183947800413,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -4077,9 +4368,10 @@
   {
    "id": "n291",
    "name": "SenTimKaine",
-   "symbolSize": 21.625025112064236,
-   "x": 27.73989912450179,
-   "y": 91.30129036671542,
+   "symbolSize": 21.4019061617849,
+   "x": -405.9853096232832,
+   "y": 424.57283533184125,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -4091,9 +4383,10 @@
   {
    "id": "n292",
    "name": "MarkWarner",
-   "symbolSize": 28.373132330727888,
-   "x": -393.9435516341828,
-   "y": 326.3300320521415,
+   "symbolSize": 19.450803586634173,
+   "x": -53.03261997334596,
+   "y": 382.774946421971,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -4105,9 +4398,10 @@
   {
    "id": "n293",
    "name": "SenatorCantwell",
-   "symbolSize": 17.27685526713224,
-   "x": 428.6868937995856,
-   "y": 175.778101961257,
+   "symbolSize": 11.534389384976906,
+   "x": -357.5498659920717,
+   "y": 411.0794056984182,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -4119,9 +4413,10 @@
   {
    "id": "n294",
    "name": "PattyMurray",
-   "symbolSize": 9.039729387172805,
-   "x": 32.36175058955166,
-   "y": -337.414257219811,
+   "symbolSize": 23.342026974301717,
+   "x": 3.053222326166349,
+   "y": 261.4515785998526,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -4133,9 +4428,10 @@
   {
    "id": "n295",
    "name": "SenCapito",
-   "symbolSize": 4.032982440206522,
-   "x": -372.13516516297364,
-   "y": 258.4069996029216,
+   "symbolSize": 3.040449715920845,
+   "x": -233.6658582489132,
+   "y": -261.68597910863105,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -4147,9 +4443,10 @@
   {
    "id": "n296",
    "name": "JoeManchinIII",
-   "symbolSize": 16.693946601950202,
-   "x": 275.4906714945498,
-   "y": 456.56371841872476,
+   "symbolSize": 16.43842712104032,
+   "x": 338.897015356491,
+   "y": 300.8464370968826,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -4161,9 +4458,10 @@
   {
    "id": "n297",
    "name": "SenatorBaldwin",
-   "symbolSize": 4.20748001855574,
-   "x": 361.4629455628369,
-   "y": 188.9955816625419,
+   "symbolSize": 23.643520860171385,
+   "x": -1.6832787624272214,
+   "y": 229.65217935015608,
+   "color": "#77CBFA",
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -4175,9 +4473,10 @@
   {
    "id": "n298",
    "name": "SenRonJohnson",
-   "symbolSize": 17.350946805876163,
-   "x": -10.188500144465365,
-   "y": 488.1931882992179,
+   "symbolSize": 8.646933946874872,
+   "x": -388.80159066222654,
+   "y": -465.9327894614551,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -4189,9 +4488,10 @@
   {
    "id": "n299",
    "name": "SenJohnBarrasso",
-   "symbolSize": 10.776174412682915,
-   "x": 348.6677568571788,
-   "y": -177.20441912430095,
+   "symbolSize": 29.73827028749142,
+   "x": 376.762609362249,
+   "y": 479.57197113494203,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
@@ -4203,9 +4503,10 @@
   {
    "id": "n300",
    "name": "SenLummis",
-   "symbolSize": 9.668798857977487,
-   "x": 102.80219242549026,
-   "y": -308.20845802419916,
+   "symbolSize": 11.169493032742,
+   "x": -88.6821200477479,
+   "y": 364.0212566981652,
+   "color": "#F08784",
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",

@@ -47,6 +47,8 @@ def network_dump(mat, senator_info, json_file):
 
 def relation_dump(senator_name, senator_info, json_file, mats):
     relation_dict = {"nodes" : [], "links": [], "categories": [],}
+    color_dict = {"Republican" : "#F08784", "Democratic" : "#77CBFA", "Independent" : "#FFF88C"}
+    # Republican:red, Democratic:green, Independent:blue
     senator_node_vocab = list(senator_info.keys())
     num_senator = len(senator_node_vocab)
     center_id = senator_node_vocab.index(senator_name)
@@ -54,7 +56,7 @@ def relation_dump(senator_name, senator_info, json_file, mats):
     category_list = list(category_dict.keys())
     categories = [{"name" : "Center"}, {"name" : "Following"}, {"name" : "Co@"}, {"name" : "Coexist"}, ]
     relation_dict["categories"] = categories
-    center_node = {"id":f"n{center_id}", "name":senator_name, "symbolSize":30.8, "x":0, "y":0, "value":senator_info[senator_name], "category":0}
+    center_node = {"id":f"n{center_id}", "name":senator_name, "symbolSize":30.8, "x":0, "y":0, "color":"#0023F5", "value":senator_info[senator_name], "category":0}
     relation_dict["nodes"].append(center_node)
     cnt = 0
     for i in range(3):
@@ -70,11 +72,14 @@ def relation_dump(senator_name, senator_info, json_file, mats):
             x = random.uniform(-500, 500)
             y = random.uniform(-500, 500)
             value = senator_info[name]
+            party = value["party"]
+            color = color_dict[party]
             tmp["id"] = f"n{id}"
             tmp["name"] = name
             tmp["symbolSize"] = symbolSize
             tmp["x"] = x
             tmp["y"] = y
+            tmp["color"] = color
             tmp["value"] = value
             tmp["category"] = category_dict[category]
             relation_dict["nodes"].append(tmp)
