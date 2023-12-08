@@ -56,6 +56,8 @@ def search(request):
     msg["error"] = None
     msg["Senator"] = None
     msg["filename"] = None
+    msg["office"] = None
+    msg["party"] = None
     print("Entering...............")
     if request.method == "GET":
         dic = request.GET
@@ -69,6 +71,8 @@ def search(request):
             Senator = submit_name
         msg["Senator"] = Senator
         msg["filename"] = filename
+        msg["office"] = senator_info[filename]["office"]
+        msg["party"] = senator_info[filename]["party"]
         if filename == "":
             msg["error"] = f"{submit_name} was not found!"
             return render(request, "./graph-of-one.html", context=msg)
