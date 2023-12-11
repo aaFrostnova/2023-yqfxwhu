@@ -4,11 +4,11 @@ import os
 import csv
 
 # 0. 读取第二张CSV表格中的twitter_name列表
-csv2_path = 'following.csv'
+csv2_path = '../following.csv'
 df2 = pd.read_csv(csv2_path)
 twitter_names = set(df2['twitter_name'])
 # 1. 读取第一张CSV表格
-folder_path = 'outputs同时@'
+folder_path = '../outputs同时@'
 for filename in os.listdir(folder_path):
     if filename.endswith('.csv'):
         # 读取第一个CSV文件
@@ -30,7 +30,7 @@ for filename in os.listdir(folder_path):
             found_names.update(set(mentions) & twitter_names)
 
         # 4. 将记录的名字写入新的CSV文件
-        output_folder = 'mentions'
+        output_folder = '../mention'
         output_csv_path = os.path.join(output_folder, 'mention_results.csv')
         with open(output_csv_path, mode='a', newline='') as csvfile:
             csv_writer = csv.writer(csvfile)

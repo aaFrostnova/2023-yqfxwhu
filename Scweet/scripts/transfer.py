@@ -1,7 +1,7 @@
 import csv
 
 # 读取CSV文件，提取第一列的元素作为list1
-with open('following.csv', 'r') as file:
+with open('../follows/following.csv', 'r') as file:
     reader = csv.reader(file)
     data = list(reader)
 
@@ -18,6 +18,6 @@ for row in data:
     result_data.append(result_row)
 
 # 保存结果为新的CSV文件
-with open('result.csv', 'w', newline='') as result_file:
+with open('../follows/result.csv', 'w', newline='') as result_file:
     writer = csv.writer(result_file)
     writer.writerows(result_data)

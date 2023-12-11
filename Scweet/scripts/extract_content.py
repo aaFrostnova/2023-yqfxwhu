@@ -3,14 +3,14 @@ import os
 import csv
 
 # 0. 读取第二张 CSV 表格中的 twitter_name 列表
-csv2_path = os.path.join('美国国会', '美国参议院名单.csv')
+csv2_path = os.path.join('../美国国会', '美国参议院名单.csv')
 df2 = pd.read_csv(csv2_path, encoding='latin-1')
 twitter_names = set(df2['Name'])
 twitter_mapping = dict(zip(df2['Name'], df2['twitter_name']))
 
 # 1. 读取第一张 CSV 表格
-folder_path = 'outputs内容'
-output_folder = 'contents'
+folder_path = '../outputs内容'
+output_folder = '../content'
 output_csv_path = os.path.join(output_folder, 'content_results.csv')
 
 # 使用 'w' 模式而不是 'a' 模式，以确保在每次运行时都创建一个新的输出文件
