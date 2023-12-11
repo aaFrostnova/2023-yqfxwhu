@@ -1,0 +1,183 @@
+<!--
+	此示例下载自 https://echarts.apache.org/examples/zh/editor.html?c=graph-label-overlap
+-->
+<!DOCTYPE html>
+<html lang="zh-CN" style="height: 100%">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../../static/css/bootstrap.css">
+
+</head>
+<body style="height: 100%; margin: 0">
+  <div id="container" style="width: 80%; height: 100%; float: right;"></div>
+  {% load static %}
+  <script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/echarts.min.js' %}"></script>
+  <!-- Uncomment this line if you want to dataTool extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5.4.3/dist/extension/dataTool.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use gl extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts-gl@2/dist/echarts-gl.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to echarts-stat extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts-stat@latest/dist/ecStat.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use map
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/china.js"></script>
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+  -->
+  <!-- Uncomment these two lines if you want to use bmap extension
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=YOUR_API_KEY"></script>
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5.4.3/dist/extension/bmap.min.js"></script>
+  -->
+
+  <script type="text/javascript">
+    var dom = document.getElementById('container');
+    var myChart = echarts.init(dom, null, {
+      renderer: 'canvas',
+      useDirtyRect: false
+    });
+    var app = {};
+    //var ROOT_PATH = 'https://echarts.apache.org/examples';
+    var ROOT_PATH = '/static/data/';
+    var option;
+    myChart.showLoading();
+$.getJSON(ROOT_PATH + '{{filename}}', function (graph) {
+  myChart.hideLoading();
+  option = {
+    title: {
+      text: "{{Senator}}'s Network",
+      subtext: 'Default layout',
+      top: 'bottom',
+      left: 'right'
+    },
+    tooltip: {
+      formatter: function(params) {
+        //console.log(params);
+        var content = "";
+        if (params.dataType === 'node') {
+          const value = params.data.value;
+          content = `
+            <div style="font-weight:bold;">Real Name: <span style="color: gray">${value.name}</span></div>
+            <div style="font-weight:bold;">Office: <span style="color: gray">${value.office}</span></div>
+            <div style="font-weight:bold;">Party: <span style="color: gray">${value.party}</span></div>
+          `;
+        }
+        else if (params.dataType == 'edge') {
+          const value = params.data
+          const nodes = myChart.getOption().series[0].data;
+          source_id = value.source;
+          target_id = value.target;
+          let source_obj = nodes.find(item => item.id === source_id);
+          let target_obj = nodes.find(item => item.id == target_id);
+          const sourceNode = source_obj.name;
+          const targetNode = target_obj.name;
+          content = `${sourceNode} -> ${targetNode}`;
+        }
+
+        return content;
+      }
+    },
+    legend: [
+      {
+        data: graph.categories.map(function (a) {
+          return a.name;
+        })
+      }
+    ],
+    animationDuration: 1500,
+    animationEasingUpdate: 'quarticInOut',
+    series: [
+      {
+        name: "{{Senator}}'s Network",
+        type: 'graph',
+        layout: 'none',
+        data: graph.nodes,
+        links: graph.links,
+        categories: graph.categories,
+        roam: true,
+        label: {
+          show: true,
+          position: 'right',
+          formatter: '{b}'
+        },
+        labelLayout: {
+          hideOverlap: true
+        },
+        scaleLimit: {
+          min: 0.4,
+          max: 2
+        },
+        lineStyle: {
+          color: 'source',
+          curveness: 0.3
+        },
+        emphasis: {
+          focus: 'adjacency',
+          lineStyle: {
+            width: 10
+          }
+        }
+      }
+    ]
+  };
+  myChart.setOption(option);
+  //console.log(option);
+});
+
+    if (option && typeof option === 'object') {
+      myChart.setOption(option);
+    }
+    myChart.on('click', function (params) {
+      if (params.dataType === 'node')
+      {
+        var clickedNode = params.data;
+        //var infomation = params.data.value;
+        displayInfomation(clickedNode);
+      }
+
+});
+function displayInfomation(information) {
+  var infoElement = document.getElementById('info-container');
+  var twitter_name = information.name;
+  var office = information.value.office;
+  var real_name = information.value.name;
+  var party = information.value.party;
+  var imgSrc = `/static/img/Senators/${twitter_name}.jpg`;
+  var _name = real_name.replace(/ /g, "_");
+  var wiki_url = `https://en.wikipedia.org/wiki/${_name}`;
+  var HTMLcontent = `
+
+  <div class="row" >
+  <div class="col-sm-6 col-md-4" style="width:280px" >
+    <div class="thumbnail" >
+      <img alt="Senator Image Here" style="width:150px; height: 150px;" src=${imgSrc}/>
+      <div class="caption" >
+        <h3>${real_name}</h3>
+        <p>
+          Name: ${real_name}<br>
+          Office: ${office}<br>
+          Party: ${party}<br>
+          TwitterID: <a href="https://twitter.com/${twitter_name}">@${twitter_name}</a><br>
+        </p>
+        <p><a href="https://twitter.com/${twitter_name}" class="btn btn-primary" role="button">推特主页</a> <a href="${wiki_url}" class="btn btn-default" role="button">维基百科</a></p>
+      </div>
+    </div>
+  </div>
+  </div>
+
+   
+  `;
+  infoElement.innerHTML = HTMLcontent;
+}
+    window.addEventListener('resize', myChart.resize);
+
+  </script>
+
+<div id="info-container" style="width: 20%; height: 100%; float: left"></div>
+
+
+<script src="../../static/js/jquery.min.js"></script>
+<script src="../../static/js/bootstrap.js"></script>
+</body>
+</html>
