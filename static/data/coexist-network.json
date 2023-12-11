@@ -3,9 +3,9 @@
   {
    "id": "n0",
    "name": "SenKatieBritt",
-   "symbolSize": 30.652543410377653,
-   "x": -431.7688019119578,
-   "y": 310.6502251180724,
+   "symbolSize": 18.001264310499238,
+   "x": -372.56448952467133,
+   "y": 83.98662489389847,
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -17,9 +17,9 @@
   {
    "id": "n1",
    "name": "SenTuberville",
-   "symbolSize": 22.446464423351188,
-   "x": -114.28856329313874,
-   "y": -158.2641260085361,
+   "symbolSize": 23.94907718815664,
+   "x": -21.47618905080327,
+   "y": 190.7178126424069,
    "value": {
     "office": "U.S. Senate Alabama",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alabama",
@@ -31,9 +31,9 @@
   {
    "id": "n2",
    "name": "lisamurkowski",
-   "symbolSize": 21.50608741426875,
-   "x": 351.4720908603754,
-   "y": 114.95697503131453,
+   "symbolSize": 2.302169370129944,
+   "x": -211.42210535019154,
+   "y": -95.62733518412392,
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -45,9 +45,9 @@
   {
    "id": "n3",
    "name": "SenDanSullivan",
-   "symbolSize": 6.295620632416424,
-   "x": 271.1914900044226,
-   "y": -28.248046539209554,
+   "symbolSize": 28.0647969618463,
+   "x": -8.946938423513814,
+   "y": -118.3179155200117,
    "value": {
     "office": "U.S. Senate Alaska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Alaska",
@@ -59,9 +59,9 @@
   {
    "id": "n4",
    "name": "SenMarkKelly",
-   "symbolSize": 26.39735053455819,
-   "x": 310.0833725862037,
-   "y": 27.95783767116461,
+   "symbolSize": 10.29215785933305,
+   "x": -43.19926194035338,
+   "y": -419.0548923479721,
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -73,9 +73,9 @@
   {
    "id": "n5",
    "name": "SenatorSinema",
-   "symbolSize": 28.66497184655488,
-   "x": 294.89493109116154,
-   "y": 467.80804629620513,
+   "symbolSize": 1.527537519319264,
+   "x": 211.3248435897009,
+   "y": -464.8617517855067,
    "value": {
     "office": "U.S. Senate Arizona",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arizona",
@@ -87,9 +87,9 @@
   {
    "id": "n6",
    "name": "JohnBoozman",
-   "symbolSize": 22.40436660204877,
-   "x": 400.27261137094104,
-   "y": -37.897958154544085,
+   "symbolSize": 23.88181020646124,
+   "x": -103.43173635608525,
+   "y": 255.24818645379594,
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -101,9 +101,9 @@
   {
    "id": "n7",
    "name": "SenTomCotton",
-   "symbolSize": 22.70726505047734,
-   "x": -117.95608021000925,
-   "y": -242.58063696726316,
+   "symbolSize": 29.19983122737278,
+   "x": 50.60017364930252,
+   "y": -239.72562216095918,
    "value": {
     "office": "U.S. Senate Arkansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Arkansas",
@@ -115,9 +115,9 @@
   {
    "id": "n8",
    "name": "Senlaphonza",
-   "symbolSize": 14.818739705510191,
-   "x": 396.0709119776602,
-   "y": -285.5608254090938,
+   "symbolSize": 17.548214737476336,
+   "x": -277.66198810320134,
+   "y": 335.02984730975754,
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -129,9 +129,9 @@
   {
    "id": "n9",
    "name": "SenAlexPadilla",
-   "symbolSize": 11.75595488055614,
-   "x": 71.52188719046796,
-   "y": -70.38188113815323,
+   "symbolSize": 22.73354484820811,
+   "x": -475.76992314553746,
+   "y": 43.38716986856366,
    "value": {
     "office": "U.S. Senate California",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_California",
@@ -143,9 +143,9 @@
   {
    "id": "n10",
    "name": "SenatorBennet",
-   "symbolSize": 21.732633855812125,
-   "x": 333.3041100927146,
-   "y": -332.26717191104126,
+   "symbolSize": 21.823746104679934,
+   "x": -464.04544700975623,
+   "y": -287.51340037444817,
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -157,9 +157,9 @@
   {
    "id": "n11",
    "name": "SenatorHick",
-   "symbolSize": 14.264045615981534,
-   "x": -26.78542071061463,
-   "y": -293.7602641407532,
+   "symbolSize": 11.532064739250945,
+   "x": 432.97313749651823,
+   "y": -15.205586343171376,
    "value": {
     "office": "U.S. Senate Colorado",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Colorado",
@@ -171,9 +171,9 @@
   {
    "id": "n12",
    "name": "SenBlumenthal",
-   "symbolSize": 20.86347238366451,
-   "x": 325.05392471808386,
-   "y": -371.92996120197773,
+   "symbolSize": 19.99308850677193,
+   "x": -128.5846345757048,
+   "y": -478.89731115747793,
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -185,9 +185,9 @@
   {
    "id": "n13",
    "name": "ChrisMurphyCT",
-   "symbolSize": 24.672117832034367,
-   "x": 44.873601017908754,
-   "y": 242.20925279647815,
+   "symbolSize": 15.16449273323718,
+   "x": 182.60509999736337,
+   "y": 108.57979406324444,
    "value": {
     "office": "U.S. Senate Connecticut",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Connecticut",
@@ -199,9 +199,9 @@
   {
    "id": "n14",
    "name": "SenatorCarper",
-   "symbolSize": 4.795896824129132,
-   "x": 360.3218815788216,
-   "y": -163.19996627360302,
+   "symbolSize": 5.1784030399130465,
+   "x": 496.9049168221237,
+   "y": 145.31613773777906,
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -213,9 +213,9 @@
   {
    "id": "n15",
    "name": "ChrisCoons",
-   "symbolSize": 25.595388545774632,
-   "x": 489.9764877545274,
-   "y": -147.6186314370339,
+   "symbolSize": 7.068235157417303,
+   "x": 122.62446258924945,
+   "y": -400.00988849786455,
    "value": {
     "office": "U.S. Senate Delaware",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Delaware",
@@ -227,9 +227,9 @@
   {
    "id": "n16",
    "name": "marcorubio",
-   "symbolSize": 6.581310206070389,
-   "x": 7.0277901298034635,
-   "y": -158.81511630639886,
+   "symbolSize": 9.59956114867535,
+   "x": 96.95186652837117,
+   "y": -199.50869005533502,
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -241,9 +241,9 @@
   {
    "id": "n17",
    "name": "SenRickScott",
-   "symbolSize": 11.800282528748832,
-   "x": -361.09490879625696,
-   "y": 365.87829334106823,
+   "symbolSize": 22.88994457973734,
+   "x": -281.4561805771583,
+   "y": -458.54837474515034,
    "value": {
     "office": "U.S. Senate Florida",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Florida",
@@ -255,9 +255,9 @@
   {
    "id": "n18",
    "name": "ossoff",
-   "symbolSize": 5.079148427111342,
-   "x": -152.51243906498615,
-   "y": 288.1293131777976,
+   "symbolSize": 26.134022327103946,
+   "x": 100.58641853768086,
+   "y": -59.23713419582532,
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -269,9 +269,9 @@
   {
    "id": "n19",
    "name": "ReverendWarnock",
-   "symbolSize": 13.431758742153212,
-   "x": 356.59766735196115,
-   "y": 464.8393404411487,
+   "symbolSize": 24.67495574977548,
+   "x": 472.90141730688526,
+   "y": 193.0141469213729,
    "value": {
     "office": "U.S. Senate Georgia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Georgia",
@@ -283,9 +283,9 @@
   {
    "id": "n20",
    "name": "maziehirono",
-   "symbolSize": 29.289844284312903,
-   "x": -34.37130656969447,
-   "y": -8.520646225718224,
+   "symbolSize": 23.241351948101237,
+   "x": 433.9132322926588,
+   "y": -305.57914178589033,
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -297,9 +297,9 @@
   {
    "id": "n21",
    "name": "brianschatz",
-   "symbolSize": 26.00005654883776,
-   "x": 174.8123329909671,
-   "y": 163.32417791618593,
+   "symbolSize": 18.657259973796858,
+   "x": 174.32629735142052,
+   "y": -28.026123697906826,
    "value": {
     "office": "U.S. Senate Hawaii",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Hawaii",
@@ -311,9 +311,9 @@
   {
    "id": "n22",
    "name": "MikeCrapo",
-   "symbolSize": 9.207969603779471,
-   "x": -490.1997576416017,
-   "y": -342.5709726904231,
+   "symbolSize": 2.484264066364339,
+   "x": -404.09533299268054,
+   "y": -101.35393549103054,
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -325,9 +325,9 @@
   {
    "id": "n23",
    "name": "SenatorRisch",
-   "symbolSize": 29.241284147877373,
-   "x": -352.77905226886475,
-   "y": 420.6723330803545,
+   "symbolSize": 11.679358972174224,
+   "x": -372.1947005205052,
+   "y": -354.0670213798852,
    "value": {
     "office": "U.S. Senate Idaho",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Idaho",
@@ -339,9 +339,9 @@
   {
    "id": "n24",
    "name": "SenDuckworth",
-   "symbolSize": 26.11345265031602,
-   "x": 92.77347786024802,
-   "y": -208.41231465867628,
+   "symbolSize": 4.512127811525692,
+   "x": 125.24550531212572,
+   "y": 33.61462130163682,
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -353,9 +353,9 @@
   {
    "id": "n25",
    "name": "SenatorDurbin",
-   "symbolSize": 15.352595817018816,
-   "x": 84.68279812347714,
-   "y": -313.3102555668622,
+   "symbolSize": 14.752188634741866,
+   "x": -224.68671277490273,
+   "y": 355.2124004949319,
    "value": {
     "office": "U.S. Senate Illinois",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Illinois",
@@ -367,9 +367,9 @@
   {
    "id": "n26",
    "name": "SenatorBraun",
-   "symbolSize": 25.411809428971114,
-   "x": -83.48018206702955,
-   "y": -170.97523514665602,
+   "symbolSize": 1.6747455585074569,
+   "x": 198.54217318888266,
+   "y": -406.1284369285687,
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -381,9 +381,9 @@
   {
    "id": "n27",
    "name": "SenToddYoung",
-   "symbolSize": 11.585323557239612,
-   "x": -439.2346659640938,
-   "y": -363.13692783891224,
+   "symbolSize": 21.88710587239144,
+   "x": -471.6444613189366,
+   "y": -481.8357304173169,
    "value": {
     "office": "U.S. Senate Indiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Indiana",
@@ -395,9 +395,9 @@
   {
    "id": "n28",
    "name": "SenJoniErnst",
-   "symbolSize": 20.399059088974717,
-   "x": -352.60583449943226,
-   "y": -52.894734752038744,
+   "symbolSize": 21.266577846680505,
+   "x": -5.495448616988142,
+   "y": 90.48603268251134,
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -409,9 +409,9 @@
   {
    "id": "n29",
    "name": "ChuckGrassley",
-   "symbolSize": 9.394632569701887,
-   "x": 429.6522824392682,
-   "y": 318.78092284384536,
+   "symbolSize": 21.15811068954909,
+   "x": 185.6571035141651,
+   "y": 268.7668959668308,
    "value": {
     "office": "U.S. Senate Iowa",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Iowa",
@@ -423,9 +423,9 @@
   {
    "id": "n30",
    "name": "RogerMarshallMD",
-   "symbolSize": 29.406966464529177,
-   "x": -64.20944495433054,
-   "y": -480.0729831729561,
+   "symbolSize": 8.354559816158979,
+   "x": -414.03416965379006,
+   "y": 115.12237706694384,
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -437,9 +437,9 @@
   {
    "id": "n31",
    "name": "JerryMoran",
-   "symbolSize": 15.563772617463155,
-   "x": 51.853366715974516,
-   "y": -264.1345456980292,
+   "symbolSize": 14.213906906482363,
+   "x": -149.7506256284932,
+   "y": 127.86094680351687,
    "value": {
     "office": "U.S. Senate Kansas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kansas",
@@ -451,9 +451,9 @@
   {
    "id": "n32",
    "name": "LeaderMcConnell",
-   "symbolSize": 2.629396907637278,
-   "x": 317.23709982472303,
-   "y": -127.02111181180118,
+   "symbolSize": 17.839253541754996,
+   "x": 25.91442613871459,
+   "y": 318.05960775319943,
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -465,9 +465,9 @@
   {
    "id": "n33",
    "name": "SenRandPaul",
-   "symbolSize": 23.64999460967077,
-   "x": 178.44025673271244,
-   "y": -455.49355490977683,
+   "symbolSize": 3.7147530670912063,
+   "x": -472.80365911265153,
+   "y": -21.08638802690234,
    "value": {
     "office": "U.S. Senate Kentucky",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Kentucky",
@@ -479,9 +479,9 @@
   {
    "id": "n34",
    "name": "BillCassidy",
-   "symbolSize": 3.0201826992919867,
-   "x": -141.32830752441504,
-   "y": -374.19040286752283,
+   "symbolSize": 14.379746202365551,
+   "x": 484.5915718128392,
+   "y": -452.10071570191633,
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -493,9 +493,9 @@
   {
    "id": "n35",
    "name": "SenJohnKennedy",
-   "symbolSize": 2.5174584024751914,
-   "x": -119.34457421784327,
-   "y": 195.94575121249557,
+   "symbolSize": 2.8399440808137237,
+   "x": -83.1248627893454,
+   "y": -194.79992056516096,
    "value": {
     "office": "U.S. Senate Louisiana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Louisiana",
@@ -507,9 +507,9 @@
   {
    "id": "n36",
    "name": "SenatorCollins",
-   "symbolSize": 17.325445634957894,
-   "x": 332.97432332557514,
-   "y": 391.17687141414694,
+   "symbolSize": 9.935603900130623,
+   "x": -382.8447115271929,
+   "y": -441.81687946487324,
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -521,9 +521,9 @@
   {
    "id": "n37",
    "name": "SenAngusKing",
-   "symbolSize": 29.436563639374825,
-   "x": 211.96267697157487,
-   "y": -420.2448873005036,
+   "symbolSize": 20.09409399702127,
+   "x": 214.4577629826457,
+   "y": 98.10220740529519,
    "value": {
     "office": "U.S. Senate Maine",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maine",
@@ -535,9 +535,9 @@
   {
    "id": "n38",
    "name": "SenatorCardin",
-   "symbolSize": 26.976907763492555,
-   "x": -369.460166795648,
-   "y": -140.99231514038655,
+   "symbolSize": 11.788808903457973,
+   "x": -475.0123231206751,
+   "y": 289.41159970254864,
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -549,9 +549,9 @@
   {
    "id": "n39",
    "name": "ChrisVanHollen",
-   "symbolSize": 14.325957728186554,
-   "x": 61.6997201331078,
-   "y": -326.3463769641609,
+   "symbolSize": 6.164292165965563,
+   "x": -288.9103470179182,
+   "y": -452.9336954415817,
    "value": {
     "office": "U.S. Senate Maryland",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Maryland",
@@ -563,9 +563,9 @@
   {
    "id": "n40",
    "name": "SenMarkey",
-   "symbolSize": 3.6052603428229135,
-   "x": 169.31075113175018,
-   "y": 426.07582013136175,
+   "symbolSize": 10.361522228337995,
+   "x": 187.571137499732,
+   "y": 156.66930596127304,
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -577,9 +577,9 @@
   {
    "id": "n41",
    "name": "SenWarren",
-   "symbolSize": 17.51401246880658,
-   "x": -350.42046400606955,
-   "y": -246.86534785266988,
+   "symbolSize": 3.144913198758883,
+   "x": 101.51451573266002,
+   "y": -434.9155341472832,
    "value": {
     "office": "U.S. Senate Massachusetts",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Massachusetts",
@@ -591,9 +591,9 @@
   {
    "id": "n42",
    "name": "SenGaryPeters",
-   "symbolSize": 18.6988918112661,
-   "x": -26.72635443331029,
-   "y": 313.6694189655641,
+   "symbolSize": 5.569642586806498,
+   "x": 478.7730865837,
+   "y": -351.5122889334539,
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -605,9 +605,9 @@
   {
    "id": "n43",
    "name": "SenStabenow",
-   "symbolSize": 16.046487240589148,
-   "x": -159.7260257311761,
-   "y": 479.7927801626696,
+   "symbolSize": 29.790695170945575,
+   "x": -160.0451101533945,
+   "y": -128.24476615607637,
    "value": {
     "office": "U.S. Senate Michigan",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Michigan",
@@ -619,9 +619,9 @@
   {
    "id": "n44",
    "name": "SenAmyKlobuchar",
-   "symbolSize": 15.755009413571624,
-   "x": -225.89838061959398,
-   "y": -109.522689159918,
+   "symbolSize": 19.550340653718013,
+   "x": -376.8845200732759,
+   "y": 215.8669672836022,
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -633,9 +633,9 @@
   {
    "id": "n45",
    "name": "SenTinaSmith",
-   "symbolSize": 12.190491101023511,
-   "x": 196.3274552420869,
-   "y": -281.91995957145696,
+   "symbolSize": 16.275799868199336,
+   "x": -274.337393375758,
+   "y": 166.48579043181599,
    "value": {
     "office": "U.S. Senate Minnesota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Minnesota",
@@ -647,9 +647,9 @@
   {
    "id": "n46",
    "name": "SenHydeSmith",
-   "symbolSize": 19.533430775594613,
-   "x": -424.8807674725406,
-   "y": 66.20025383947348,
+   "symbolSize": 25.403132424701344,
+   "x": -88.30324846765126,
+   "y": 110.10768682738592,
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -661,9 +661,9 @@
   {
    "id": "n47",
    "name": "SenatorWicker",
-   "symbolSize": 13.815267573251928,
-   "x": -188.92320184987676,
-   "y": 90.56394892408787,
+   "symbolSize": 10.674072710528495,
+   "x": 403.07022231489316,
+   "y": 185.28620815866987,
    "value": {
     "office": "U.S. Senate Mississippi",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Mississippi",
@@ -675,9 +675,9 @@
   {
    "id": "n48",
    "name": "HawleyMO",
-   "symbolSize": 18.06026194933259,
-   "x": 221.49355542112698,
-   "y": 431.5268766700742,
+   "symbolSize": 16.182280206088556,
+   "x": -459.03159625478884,
+   "y": -350.6499827110635,
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -689,9 +689,9 @@
   {
    "id": "n49",
    "name": "SenEricSchmitt",
-   "symbolSize": 26.701808489132866,
-   "x": 358.2951504459918,
-   "y": -495.8126820967138,
+   "symbolSize": 19.88750530645625,
+   "x": -340.238164609187,
+   "y": -23.981205181011205,
    "value": {
     "office": "U.S. Senate Missouri",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Missouri",
@@ -703,9 +703,9 @@
   {
    "id": "n50",
    "name": "SteveDaines",
-   "symbolSize": 13.607582284777553,
-   "x": 7.669036051068076,
-   "y": -237.96441109771905,
+   "symbolSize": 13.23272848947219,
+   "x": -120.54019390505175,
+   "y": 227.4605174003458,
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -717,9 +717,9 @@
   {
    "id": "n51",
    "name": "SenatorTester",
-   "symbolSize": 25.61208979117346,
-   "x": -111.17893011925241,
-   "y": 58.601941311427936,
+   "symbolSize": 23.813401389224477,
+   "x": -358.74715283559476,
+   "y": 299.7159136378174,
    "value": {
     "office": "U.S. Senate Montana",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Montana",
@@ -731,9 +731,9 @@
   {
    "id": "n52",
    "name": "SenatorFischer",
-   "symbolSize": 26.652945358204846,
-   "x": 88.36267716896998,
-   "y": -389.02780519213087,
+   "symbolSize": 19.61742164920625,
+   "x": 107.23855077735914,
+   "y": 434.8348828963618,
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -745,9 +745,9 @@
   {
    "id": "n53",
    "name": "SenatorRicketts",
-   "symbolSize": 20.067427449850694,
-   "x": 226.77245839066745,
-   "y": -236.29904632982237,
+   "symbolSize": 23.329172891410398,
+   "x": -159.4305888667268,
+   "y": -394.0497401951254,
    "value": {
     "office": "U.S. Senate Nebraska",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nebraska",
@@ -759,9 +759,9 @@
   {
    "id": "n54",
    "name": "SenCortezMasto",
-   "symbolSize": 24.421226509439403,
-   "x": -189.6402756363974,
-   "y": -24.50612632221481,
+   "symbolSize": 25.904902171261416,
+   "x": -176.83321787234217,
+   "y": -284.4144147475256,
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -773,9 +773,9 @@
   {
    "id": "n55",
    "name": "SenJackyRosen",
-   "symbolSize": 13.202576937824388,
-   "x": -261.79410333812336,
-   "y": -359.93984524927623,
+   "symbolSize": 4.650992849350899,
+   "x": 205.4912417105794,
+   "y": 304.34437400891477,
    "value": {
     "office": "U.S. Senate Nevada",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Nevada",
@@ -787,9 +787,9 @@
   {
    "id": "n56",
    "name": "SenatorHassan",
-   "symbolSize": 30.432377692509345,
-   "x": 266.8312152973374,
-   "y": -325.2386624460544,
+   "symbolSize": 2.063527722432554,
+   "x": -297.0600779399549,
+   "y": -356.3473709771988,
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -801,9 +801,9 @@
   {
    "id": "n57",
    "name": "SenatorShaheen",
-   "symbolSize": 6.728648365262908,
-   "x": -362.5840541274631,
-   "y": -374.38912456457365,
+   "symbolSize": 21.48928807044607,
+   "x": 491.3659174292153,
+   "y": 362.9029443864787,
    "value": {
     "office": "U.S. Senate New Hampshire",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Hampshire",
@@ -815,9 +815,9 @@
   {
    "id": "n58",
    "name": "SenBooker",
-   "symbolSize": 22.579330343271547,
-   "x": -292.9406659669495,
-   "y": -297.77160809826154,
+   "symbolSize": 4.979091869817658,
+   "x": 346.0907413806767,
+   "y": -464.29043370940127,
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -829,9 +829,9 @@
   {
    "id": "n59",
    "name": "SenatorMenendez",
-   "symbolSize": 13.036019898772828,
-   "x": 170.5461357285194,
-   "y": -146.63639232055112,
+   "symbolSize": 4.200064365364671,
+   "x": -142.91497308794777,
+   "y": 370.50962336909276,
    "value": {
     "office": "U.S. Senate New Jersey",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Jersey",
@@ -843,9 +843,9 @@
   {
    "id": "n60",
    "name": "SenatorHeinrich",
-   "symbolSize": 12.961310038656267,
-   "x": 58.899984259256485,
-   "y": 135.6474145542046,
+   "symbolSize": 30.538849390189046,
+   "x": -355.97017567515024,
+   "y": 468.82196258285717,
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -857,9 +857,9 @@
   {
    "id": "n61",
    "name": "SenatorLujan",
-   "symbolSize": 3.704457995708982,
-   "x": -498.2976561294055,
-   "y": 456.4284173331398,
+   "symbolSize": 14.222438126013305,
+   "x": -363.9832569262633,
+   "y": 65.7384501637514,
    "value": {
     "office": "U.S. Senate New Mexico",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_Mexico",
@@ -871,9 +871,9 @@
   {
    "id": "n62",
    "name": "SenGillibrand",
-   "symbolSize": 24.520392548288104,
-   "x": 386.88239752061895,
-   "y": 356.76362730722053,
+   "symbolSize": 23.827400110654438,
+   "x": -75.35323520007495,
+   "y": -362.5970216135125,
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -885,9 +885,9 @@
   {
    "id": "n63",
    "name": "SenSchumer",
-   "symbolSize": 30.118577355721236,
-   "x": 374.27783248686023,
-   "y": 385.44601351421386,
+   "symbolSize": 24.45464433232731,
+   "x": -240.98458037672907,
+   "y": -317.5307056125757,
    "value": {
     "office": "U.S. Senate New York",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_New_York",
@@ -899,9 +899,9 @@
   {
    "id": "n64",
    "name": "SenTedBuddNC",
-   "symbolSize": 24.224354209129462,
-   "x": -426.0026477016702,
-   "y": 418.6637937336367,
+   "symbolSize": 14.622397320224469,
+   "x": 461.703316814913,
+   "y": 462.3399787238661,
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -913,9 +913,9 @@
   {
    "id": "n65",
    "name": "SenThomTillis",
-   "symbolSize": 30.175812857147932,
-   "x": 407.96893894234483,
-   "y": 34.292052921167624,
+   "symbolSize": 20.75684310964046,
+   "x": -30.874835709837384,
+   "y": 188.71510101171395,
    "value": {
     "office": "U.S. Senate North Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_North_Carolina",
@@ -927,9 +927,9 @@
   {
    "id": "n66",
    "name": "SenKevinCramer",
-   "symbolSize": 3.999398229134167,
-   "x": 494.91930085280376,
-   "y": -280.75209050139694,
+   "symbolSize": 17.919770978926685,
+   "x": 483.716671252506,
+   "y": 5.8996948830339875,
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -941,9 +941,9 @@
   {
    "id": "n67",
    "name": "SenJohnHoeven",
-   "symbolSize": 17.12600578103671,
-   "x": -229.50189401656593,
-   "y": -460.001265936006,
+   "symbolSize": 24.640855376941243,
+   "x": -110.19784965187262,
+   "y": 191.87744295910818,
    "value": {
     "office": "U.S. Senate North Dakota",
     "offfice_url": "https://ballotpedia.org/United_States_congressional_delegations_from_North_Dakota",
@@ -955,9 +955,9 @@
   {
    "id": "n68",
    "name": "SenSherrodBrown",
-   "symbolSize": 18.073505480286915,
-   "x": -123.8572505186387,
-   "y": -176.51250727258292,
+   "symbolSize": 19.444773385861264,
+   "x": 417.6350863733453,
+   "y": -346.66774051884363,
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -969,9 +969,9 @@
   {
    "id": "n69",
    "name": "SenVancePress",
-   "symbolSize": 13.918442635541592,
-   "x": 306.4024616426526,
-   "y": 457.3314679217581,
+   "symbolSize": 12.1239055875256,
+   "x": 268.3093701443644,
+   "y": -176.26612641602122,
    "value": {
     "office": "U.S. Senate Ohio",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Ohio",
@@ -983,9 +983,9 @@
   {
    "id": "n70",
    "name": "SenatorLankford",
-   "symbolSize": 18.89415186949658,
-   "x": -24.821576497559874,
-   "y": -491.8907569693669,
+   "symbolSize": 12.043649077794258,
+   "x": 360.14858212169884,
+   "y": 180.00837045824562,
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -997,9 +997,9 @@
   {
    "id": "n71",
    "name": "SenMullin",
-   "symbolSize": 5.442840919498128,
-   "x": 218.5980864667838,
-   "y": -480.5791821251485,
+   "symbolSize": 17.863290832686697,
+   "x": 88.31886369233257,
+   "y": 154.85307062324193,
    "value": {
     "office": "U.S. Senate Oklahoma",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oklahoma",
@@ -1011,9 +1011,9 @@
   {
    "id": "n72",
    "name": "SenJeffMerkley",
-   "symbolSize": 13.952437229049961,
-   "x": -258.6724149002308,
-   "y": -365.1878650486649,
+   "symbolSize": 23.95739814073025,
+   "x": 149.61831960379664,
+   "y": 326.9874704670274,
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -1025,9 +1025,9 @@
   {
    "id": "n73",
    "name": "RonWyden",
-   "symbolSize": 11.63818234658013,
-   "x": 455.02421675587595,
-   "y": 220.47689145785682,
+   "symbolSize": 21.00022830566195,
+   "x": 402.0078015273866,
+   "y": 56.694565430554576,
    "value": {
     "office": "U.S. Senate Oregon",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Oregon",
@@ -1039,9 +1039,9 @@
   {
    "id": "n74",
    "name": "SenBobCasey",
-   "symbolSize": 9.438058294510057,
-   "x": -85.65321927982848,
-   "y": 470.39182487878384,
+   "symbolSize": 9.778222867562366,
+   "x": -199.0588925873107,
+   "y": -464.83292105598383,
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -1053,9 +1053,9 @@
   {
    "id": "n75",
    "name": "SenFettermanPA",
-   "symbolSize": 14.996463527361007,
-   "x": -392.26624833550295,
-   "y": -157.02581106616952,
+   "symbolSize": 5.185358716200049,
+   "x": 367.3908946118378,
+   "y": 87.66373511237805,
    "value": {
     "office": "U.S. Senate Pennsylvania",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Pennsylvania",
@@ -1067,9 +1067,9 @@
   {
    "id": "n76",
    "name": "SenJackReed",
-   "symbolSize": 29.623831634352612,
-   "x": 174.45422455845198,
-   "y": -203.16929303854135,
+   "symbolSize": 2.5809456170814764,
+   "x": -468.47367634581514,
+   "y": -49.95169003207013,
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -1081,9 +1081,9 @@
   {
    "id": "n77",
    "name": "SenWhitehouse",
-   "symbolSize": 30.630087852604515,
-   "x": -174.3649125585365,
-   "y": 242.36715125277158,
+   "symbolSize": 29.84001207123188,
+   "x": -165.3391266505547,
+   "y": 411.3313829778192,
    "value": {
     "office": "U.S. Senate Rhode Island",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Rhode_Island",
@@ -1095,9 +1095,9 @@
   {
    "id": "n78",
    "name": "JeffMerkley",
-   "symbolSize": 4.945149748863416,
-   "x": 316.36986476150014,
-   "y": 387.198870574064,
+   "symbolSize": 27.768840234413627,
+   "x": 225.36582221942683,
+   "y": 115.98812815365602,
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -1109,9 +1109,9 @@
   {
    "id": "n79",
    "name": "SenatorTimScott",
-   "symbolSize": 6.883288396354281,
-   "x": 170.94555510976397,
-   "y": -105.23207780810526,
+   "symbolSize": 5.1314199962791065,
+   "x": -485.91547425712025,
+   "y": 261.406830307163,
    "value": {
     "office": "U.S. Senate South Carolina",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Carolina",
@@ -1123,9 +1123,9 @@
   {
    "id": "n80",
    "name": "SenatorRounds",
-   "symbolSize": 23.674345050167215,
-   "x": -417.2025108258957,
-   "y": -207.67564841270223,
+   "symbolSize": 11.366497466281135,
+   "x": 487.78502342971217,
+   "y": 454.1927061219154,
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -1137,9 +1137,9 @@
   {
    "id": "n81",
    "name": "SenJohnThune",
-   "symbolSize": 22.8435370671696,
-   "x": 228.58400921721955,
-   "y": -297.60369111247553,
+   "symbolSize": 16.546613011114523,
+   "x": -21.3128356338417,
+   "y": -397.3743544592467,
    "value": {
     "office": "U.S. Senate South Dakota",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_South_Dakota",
@@ -1151,9 +1151,9 @@
   {
    "id": "n82",
    "name": "MarshaBlackburn",
-   "symbolSize": 25.27723809889414,
-   "x": -186.27617187452086,
-   "y": 195.46219503846896,
+   "symbolSize": 17.399983460544718,
+   "x": -324.5105754712861,
+   "y": -399.82158672188416,
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -1165,9 +1165,9 @@
   {
    "id": "n83",
    "name": "SenatorHagerty",
-   "symbolSize": 19.45446703629499,
-   "x": 53.39723982323051,
-   "y": -389.0948560238685,
+   "symbolSize": 16.607386432264498,
+   "x": 342.6213773959537,
+   "y": -103.08670113789151,
    "value": {
     "office": "U.S. Senate Tennessee",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Tennessee",
@@ -1179,9 +1179,9 @@
   {
    "id": "n84",
    "name": "JohnCornyn",
-   "symbolSize": 10.290379199698215,
-   "x": 155.91066191799132,
-   "y": -72.39298477967657,
+   "symbolSize": 4.0208550691820655,
+   "x": -460.7413462165689,
+   "y": -78.25616408449275,
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -1193,9 +1193,9 @@
   {
    "id": "n85",
    "name": "SenTedCruz",
-   "symbolSize": 21.55798506707534,
-   "x": 277.9857452748938,
-   "y": 208.26357072467442,
+   "symbolSize": 14.85583066713256,
+   "x": 172.13984097847197,
+   "y": 298.80833670773904,
    "value": {
     "office": "U.S. Senate Texas",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Texas",
@@ -1207,9 +1207,9 @@
   {
    "id": "n86",
    "name": "SenMikeLee",
-   "symbolSize": 16.042597956268516,
-   "x": -160.67081937371074,
-   "y": -76.04372106792277,
+   "symbolSize": 22.484750397803815,
+   "x": -470.892009198708,
+   "y": 428.1529659716232,
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -1221,9 +1221,9 @@
   {
    "id": "n87",
    "name": "SenatorRomney",
-   "symbolSize": 14.48078743496512,
-   "x": -455.4741035131632,
-   "y": -279.61602587572463,
+   "symbolSize": 10.591358231220164,
+   "x": 156.81618563477173,
+   "y": 428.72665657250207,
    "value": {
     "office": "U.S. Senate Utah",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Utah",
@@ -1235,9 +1235,9 @@
   {
    "id": "n88",
    "name": "SenSanders",
-   "symbolSize": 21.336842743709393,
-   "x": 113.93045362615123,
-   "y": 52.88615145315407,
+   "symbolSize": 13.214651759977414,
+   "x": -336.06900957351013,
+   "y": -495.91393559736287,
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -1249,9 +1249,9 @@
   {
    "id": "n89",
    "name": "SenPeterWelch",
-   "symbolSize": 16.74118474204664,
-   "x": 144.65108380013953,
-   "y": -230.24787353171558,
+   "symbolSize": 6.859783156456426,
+   "x": -374.87707264863525,
+   "y": 231.4983242080956,
    "value": {
     "office": "U.S. Senate Vermont",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Vermont",
@@ -1263,9 +1263,9 @@
   {
    "id": "n90",
    "name": "SenTimKaine",
-   "symbolSize": 9.163942368871227,
-   "x": -451.543086660824,
-   "y": -18.343729147568013,
+   "symbolSize": 24.763367609800742,
+   "x": -438.38049625374344,
+   "y": -364.24181009614585,
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -1277,9 +1277,9 @@
   {
    "id": "n91",
    "name": "MarkWarner",
-   "symbolSize": 26.717010407844384,
-   "x": 448.1943859933102,
-   "y": -286.84553202130144,
+   "symbolSize": 1.89465430439557,
+   "x": -17.017482793629142,
+   "y": 398.62257200375643,
    "value": {
     "office": "U.S. Senate Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Virginia",
@@ -1291,9 +1291,9 @@
   {
    "id": "n92",
    "name": "SenatorCantwell",
-   "symbolSize": 25.78156459605104,
-   "x": -498.2292842732191,
-   "y": -7.891024424875525,
+   "symbolSize": 7.253110240372701,
+   "x": 457.52480028367063,
+   "y": 116.19749165384712,
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -1305,9 +1305,9 @@
   {
    "id": "n93",
    "name": "PattyMurray",
-   "symbolSize": 2.88345395455171,
-   "x": -109.26108087917817,
-   "y": -1.6776921997955014,
+   "symbolSize": 29.217114132319526,
+   "x": 242.5124537604829,
+   "y": 314.2513648278069,
    "value": {
     "office": "U.S. Senate Washington",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Washington",
@@ -1319,9 +1319,9 @@
   {
    "id": "n94",
    "name": "SenCapito",
-   "symbolSize": 24.765872715023345,
-   "x": 82.3539720855855,
-   "y": -40.11353620050562,
+   "symbolSize": 9.057586372268938,
+   "x": -50.87536356840462,
+   "y": 35.27226614955782,
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -1333,9 +1333,9 @@
   {
    "id": "n95",
    "name": "JoeManchinIII",
-   "symbolSize": 9.527952131072768,
-   "x": 108.77539681006124,
-   "y": 100.56737387386124,
+   "symbolSize": 12.313012890114418,
+   "x": 188.34716404169603,
+   "y": -199.02363530107004,
    "value": {
     "office": "U.S. Senate West Virginia",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_West_Virginia",
@@ -1347,9 +1347,9 @@
   {
    "id": "n96",
    "name": "SenatorBaldwin",
-   "symbolSize": 23.56314379078989,
-   "x": 192.47225049906808,
-   "y": 164.03161973566478,
+   "symbolSize": 12.457051920694596,
+   "x": 190.7938214231084,
+   "y": -239.22721853678462,
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -1361,9 +1361,9 @@
   {
    "id": "n97",
    "name": "SenRonJohnson",
-   "symbolSize": 10.361057791548635,
-   "x": 342.0397468030619,
-   "y": -15.818915867008684,
+   "symbolSize": 16.845852498098598,
+   "x": 114.34545915679996,
+   "y": -499.0755775041069,
    "value": {
     "office": "U.S. Senate Wisconsin",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wisconsin",
@@ -1375,9 +1375,9 @@
   {
    "id": "n98",
    "name": "SenJohnBarrasso",
-   "symbolSize": 29.949261687002462,
-   "x": -0.8316790385230775,
-   "y": -410.8670617531969,
+   "symbolSize": 3.600463838708126,
+   "x": -322.31642522155676,
+   "y": -127.93678535840189,
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
@@ -1389,9 +1389,9 @@
   {
    "id": "n99",
    "name": "SenLummis",
-   "symbolSize": 26.40332205997235,
-   "x": 129.763075234089,
-   "y": -378.32372996956343,
+   "symbolSize": 23.29606317294737,
+   "x": 457.72623612192604,
+   "y": -204.825352673512,
    "value": {
     "office": "U.S. Senate Wyoming",
     "offfice_url": "https://ballotpedia.org/List_of_United_States_Senators_from_Wyoming",
@@ -1401,7 +1401,2976 @@
    "category": 0
   }
  ],
- "links": [],
+ "links": [
+  {
+   "source": "n0",
+   "target": "n1"
+  },
+  {
+   "source": "n0",
+   "target": "n2"
+  },
+  {
+   "source": "n0",
+   "target": "n16"
+  },
+  {
+   "source": "n0",
+   "target": "n23"
+  },
+  {
+   "source": "n0",
+   "target": "n28"
+  },
+  {
+   "source": "n0",
+   "target": "n34"
+  },
+  {
+   "source": "n0",
+   "target": "n36"
+  },
+  {
+   "source": "n0",
+   "target": "n46"
+  },
+  {
+   "source": "n0",
+   "target": "n67"
+  },
+  {
+   "source": "n0",
+   "target": "n70"
+  },
+  {
+   "source": "n0",
+   "target": "n79"
+  },
+  {
+   "source": "n0",
+   "target": "n82"
+  },
+  {
+   "source": "n0",
+   "target": "n84"
+  },
+  {
+   "source": "n0",
+   "target": "n87"
+  },
+  {
+   "source": "n1",
+   "target": "n28"
+  },
+  {
+   "source": "n1",
+   "target": "n44"
+  },
+  {
+   "source": "n1",
+   "target": "n49"
+  },
+  {
+   "source": "n1",
+   "target": "n71"
+  },
+  {
+   "source": "n2",
+   "target": "n0"
+  },
+  {
+   "source": "n2",
+   "target": "n5"
+  },
+  {
+   "source": "n2",
+   "target": "n16"
+  },
+  {
+   "source": "n2",
+   "target": "n23"
+  },
+  {
+   "source": "n2",
+   "target": "n34"
+  },
+  {
+   "source": "n2",
+   "target": "n36"
+  },
+  {
+   "source": "n2",
+   "target": "n67"
+  },
+  {
+   "source": "n2",
+   "target": "n79"
+  },
+  {
+   "source": "n2",
+   "target": "n87"
+  },
+  {
+   "source": "n4",
+   "target": "n1"
+  },
+  {
+   "source": "n4",
+   "target": "n5"
+  },
+  {
+   "source": "n4",
+   "target": "n16"
+  },
+  {
+   "source": "n4",
+   "target": "n17"
+  },
+  {
+   "source": "n4",
+   "target": "n18"
+  },
+  {
+   "source": "n4",
+   "target": "n19"
+  },
+  {
+   "source": "n4",
+   "target": "n24"
+  },
+  {
+   "source": "n4",
+   "target": "n28"
+  },
+  {
+   "source": "n4",
+   "target": "n33"
+  },
+  {
+   "source": "n4",
+   "target": "n44"
+  },
+  {
+   "source": "n4",
+   "target": "n58"
+  },
+  {
+   "source": "n4",
+   "target": "n68"
+  },
+  {
+   "source": "n4",
+   "target": "n75"
+  },
+  {
+   "source": "n4",
+   "target": "n79"
+  },
+  {
+   "source": "n4",
+   "target": "n85"
+  },
+  {
+   "source": "n4",
+   "target": "n88"
+  },
+  {
+   "source": "n5",
+   "target": "n1"
+  },
+  {
+   "source": "n5",
+   "target": "n4"
+  },
+  {
+   "source": "n5",
+   "target": "n22"
+  },
+  {
+   "source": "n5",
+   "target": "n63"
+  },
+  {
+   "source": "n5",
+   "target": "n86"
+  },
+  {
+   "source": "n5",
+   "target": "n87"
+  },
+  {
+   "source": "n5",
+   "target": "n96"
+  },
+  {
+   "source": "n6",
+   "target": "n22"
+  },
+  {
+   "source": "n6",
+   "target": "n26"
+  },
+  {
+   "source": "n6",
+   "target": "n43"
+  },
+  {
+   "source": "n6",
+   "target": "n81"
+  },
+  {
+   "source": "n6",
+   "target": "n82"
+  },
+  {
+   "source": "n6",
+   "target": "n83"
+  },
+  {
+   "source": "n6",
+   "target": "n85"
+  },
+  {
+   "source": "n7",
+   "target": "n1"
+  },
+  {
+   "source": "n7",
+   "target": "n36"
+  },
+  {
+   "source": "n7",
+   "target": "n78"
+  },
+  {
+   "source": "n7",
+   "target": "n81"
+  },
+  {
+   "source": "n7",
+   "target": "n84"
+  },
+  {
+   "source": "n7",
+   "target": "n85"
+  },
+  {
+   "source": "n9",
+   "target": "n8"
+  },
+  {
+   "source": "n9",
+   "target": "n60"
+  },
+  {
+   "source": "n10",
+   "target": "n2"
+  },
+  {
+   "source": "n10",
+   "target": "n5"
+  },
+  {
+   "source": "n10",
+   "target": "n32"
+  },
+  {
+   "source": "n10",
+   "target": "n33"
+  },
+  {
+   "source": "n10",
+   "target": "n41"
+  },
+  {
+   "source": "n10",
+   "target": "n44"
+  },
+  {
+   "source": "n10",
+   "target": "n58"
+  },
+  {
+   "source": "n10",
+   "target": "n65"
+  },
+  {
+   "source": "n10",
+   "target": "n70"
+  },
+  {
+   "source": "n10",
+   "target": "n78"
+  },
+  {
+   "source": "n10",
+   "target": "n87"
+  },
+  {
+   "source": "n10",
+   "target": "n88"
+  },
+  {
+   "source": "n10",
+   "target": "n89"
+  },
+  {
+   "source": "n10",
+   "target": "n90"
+  },
+  {
+   "source": "n10",
+   "target": "n99"
+  },
+  {
+   "source": "n11",
+   "target": "n5"
+  },
+  {
+   "source": "n11",
+   "target": "n51"
+  },
+  {
+   "source": "n12",
+   "target": "n0"
+  },
+  {
+   "source": "n12",
+   "target": "n15"
+  },
+  {
+   "source": "n12",
+   "target": "n24"
+  },
+  {
+   "source": "n12",
+   "target": "n28"
+  },
+  {
+   "source": "n12",
+   "target": "n36"
+  },
+  {
+   "source": "n12",
+   "target": "n38"
+  },
+  {
+   "source": "n12",
+   "target": "n39"
+  },
+  {
+   "source": "n12",
+   "target": "n41"
+  },
+  {
+   "source": "n12",
+   "target": "n44"
+  },
+  {
+   "source": "n12",
+   "target": "n58"
+  },
+  {
+   "source": "n12",
+   "target": "n63"
+  },
+  {
+   "source": "n12",
+   "target": "n75"
+  },
+  {
+   "source": "n12",
+   "target": "n76"
+  },
+  {
+   "source": "n12",
+   "target": "n78"
+  },
+  {
+   "source": "n12",
+   "target": "n88"
+  },
+  {
+   "source": "n12",
+   "target": "n89"
+  },
+  {
+   "source": "n12",
+   "target": "n90"
+  },
+  {
+   "source": "n14",
+   "target": "n8"
+  },
+  {
+   "source": "n14",
+   "target": "n15"
+  },
+  {
+   "source": "n14",
+   "target": "n26"
+  },
+  {
+   "source": "n14",
+   "target": "n38"
+  },
+  {
+   "source": "n14",
+   "target": "n43"
+  },
+  {
+   "source": "n14",
+   "target": "n53"
+  },
+  {
+   "source": "n14",
+   "target": "n87"
+  },
+  {
+   "source": "n16",
+   "target": "n0"
+  },
+  {
+   "source": "n16",
+   "target": "n1"
+  },
+  {
+   "source": "n16",
+   "target": "n2"
+  },
+  {
+   "source": "n16",
+   "target": "n17"
+  },
+  {
+   "source": "n16",
+   "target": "n23"
+  },
+  {
+   "source": "n16",
+   "target": "n34"
+  },
+  {
+   "source": "n16",
+   "target": "n36"
+  },
+  {
+   "source": "n16",
+   "target": "n67"
+  },
+  {
+   "source": "n16",
+   "target": "n79"
+  },
+  {
+   "source": "n16",
+   "target": "n87"
+  },
+  {
+   "source": "n17",
+   "target": "n1"
+  },
+  {
+   "source": "n17",
+   "target": "n16"
+  },
+  {
+   "source": "n17",
+   "target": "n25"
+  },
+  {
+   "source": "n17",
+   "target": "n32"
+  },
+  {
+   "source": "n17",
+   "target": "n48"
+  },
+  {
+   "source": "n17",
+   "target": "n64"
+  },
+  {
+   "source": "n17",
+   "target": "n82"
+  },
+  {
+   "source": "n17",
+   "target": "n85"
+  },
+  {
+   "source": "n17",
+   "target": "n86"
+  },
+  {
+   "source": "n17",
+   "target": "n98"
+  },
+  {
+   "source": "n18",
+   "target": "n4"
+  },
+  {
+   "source": "n18",
+   "target": "n7"
+  },
+  {
+   "source": "n18",
+   "target": "n16"
+  },
+  {
+   "source": "n18",
+   "target": "n17"
+  },
+  {
+   "source": "n18",
+   "target": "n19"
+  },
+  {
+   "source": "n18",
+   "target": "n24"
+  },
+  {
+   "source": "n18",
+   "target": "n44"
+  },
+  {
+   "source": "n18",
+   "target": "n65"
+  },
+  {
+   "source": "n18",
+   "target": "n68"
+  },
+  {
+   "source": "n18",
+   "target": "n75"
+  },
+  {
+   "source": "n18",
+   "target": "n88"
+  },
+  {
+   "source": "n19",
+   "target": "n4"
+  },
+  {
+   "source": "n19",
+   "target": "n16"
+  },
+  {
+   "source": "n19",
+   "target": "n17"
+  },
+  {
+   "source": "n19",
+   "target": "n18"
+  },
+  {
+   "source": "n19",
+   "target": "n24"
+  },
+  {
+   "source": "n19",
+   "target": "n44"
+  },
+  {
+   "source": "n19",
+   "target": "n58"
+  },
+  {
+   "source": "n19",
+   "target": "n68"
+  },
+  {
+   "source": "n19",
+   "target": "n75"
+  },
+  {
+   "source": "n19",
+   "target": "n79"
+  },
+  {
+   "source": "n19",
+   "target": "n88"
+  },
+  {
+   "source": "n21",
+   "target": "n9"
+  },
+  {
+   "source": "n21",
+   "target": "n41"
+  },
+  {
+   "source": "n21",
+   "target": "n88"
+  },
+  {
+   "source": "n22",
+   "target": "n6"
+  },
+  {
+   "source": "n22",
+   "target": "n23"
+  },
+  {
+   "source": "n22",
+   "target": "n26"
+  },
+  {
+   "source": "n22",
+   "target": "n42"
+  },
+  {
+   "source": "n22",
+   "target": "n47"
+  },
+  {
+   "source": "n22",
+   "target": "n67"
+  },
+  {
+   "source": "n22",
+   "target": "n73"
+  },
+  {
+   "source": "n22",
+   "target": "n79"
+  },
+  {
+   "source": "n22",
+   "target": "n81"
+  },
+  {
+   "source": "n22",
+   "target": "n82"
+  },
+  {
+   "source": "n22",
+   "target": "n83"
+  },
+  {
+   "source": "n22",
+   "target": "n84"
+  },
+  {
+   "source": "n22",
+   "target": "n85"
+  },
+  {
+   "source": "n22",
+   "target": "n86"
+  },
+  {
+   "source": "n22",
+   "target": "n87"
+  },
+  {
+   "source": "n23",
+   "target": "n2"
+  },
+  {
+   "source": "n23",
+   "target": "n16"
+  },
+  {
+   "source": "n23",
+   "target": "n22"
+  },
+  {
+   "source": "n23",
+   "target": "n34"
+  },
+  {
+   "source": "n23",
+   "target": "n36"
+  },
+  {
+   "source": "n23",
+   "target": "n47"
+  },
+  {
+   "source": "n23",
+   "target": "n58"
+  },
+  {
+   "source": "n23",
+   "target": "n59"
+  },
+  {
+   "source": "n23",
+   "target": "n67"
+  },
+  {
+   "source": "n23",
+   "target": "n72"
+  },
+  {
+   "source": "n23",
+   "target": "n79"
+  },
+  {
+   "source": "n23",
+   "target": "n81"
+  },
+  {
+   "source": "n23",
+   "target": "n87"
+  },
+  {
+   "source": "n24",
+   "target": "n4"
+  },
+  {
+   "source": "n24",
+   "target": "n12"
+  },
+  {
+   "source": "n24",
+   "target": "n18"
+  },
+  {
+   "source": "n24",
+   "target": "n19"
+  },
+  {
+   "source": "n24",
+   "target": "n25"
+  },
+  {
+   "source": "n24",
+   "target": "n39"
+  },
+  {
+   "source": "n24",
+   "target": "n41"
+  },
+  {
+   "source": "n24",
+   "target": "n44"
+  },
+  {
+   "source": "n24",
+   "target": "n45"
+  },
+  {
+   "source": "n24",
+   "target": "n57"
+  },
+  {
+   "source": "n24",
+   "target": "n58"
+  },
+  {
+   "source": "n24",
+   "target": "n63"
+  },
+  {
+   "source": "n24",
+   "target": "n68"
+  },
+  {
+   "source": "n24",
+   "target": "n72"
+  },
+  {
+   "source": "n24",
+   "target": "n75"
+  },
+  {
+   "source": "n24",
+   "target": "n88"
+  },
+  {
+   "source": "n24",
+   "target": "n89"
+  },
+  {
+   "source": "n24",
+   "target": "n90"
+  },
+  {
+   "source": "n24",
+   "target": "n91"
+  },
+  {
+   "source": "n25",
+   "target": "n32"
+  },
+  {
+   "source": "n25",
+   "target": "n59"
+  },
+  {
+   "source": "n25",
+   "target": "n82"
+  },
+  {
+   "source": "n25",
+   "target": "n88"
+  },
+  {
+   "source": "n26",
+   "target": "n6"
+  },
+  {
+   "source": "n26",
+   "target": "n7"
+  },
+  {
+   "source": "n26",
+   "target": "n8"
+  },
+  {
+   "source": "n26",
+   "target": "n14"
+  },
+  {
+   "source": "n26",
+   "target": "n17"
+  },
+  {
+   "source": "n26",
+   "target": "n22"
+  },
+  {
+   "source": "n26",
+   "target": "n34"
+  },
+  {
+   "source": "n26",
+   "target": "n36"
+  },
+  {
+   "source": "n26",
+   "target": "n38"
+  },
+  {
+   "source": "n26",
+   "target": "n43"
+  },
+  {
+   "source": "n26",
+   "target": "n81"
+  },
+  {
+   "source": "n26",
+   "target": "n82"
+  },
+  {
+   "source": "n26",
+   "target": "n83"
+  },
+  {
+   "source": "n26",
+   "target": "n84"
+  },
+  {
+   "source": "n26",
+   "target": "n85"
+  },
+  {
+   "source": "n26",
+   "target": "n87"
+  },
+  {
+   "source": "n27",
+   "target": "n28"
+  },
+  {
+   "source": "n27",
+   "target": "n78"
+  },
+  {
+   "source": "n28",
+   "target": "n1"
+  },
+  {
+   "source": "n28",
+   "target": "n12"
+  },
+  {
+   "source": "n28",
+   "target": "n27"
+  },
+  {
+   "source": "n28",
+   "target": "n33"
+  },
+  {
+   "source": "n28",
+   "target": "n63"
+  },
+  {
+   "source": "n28",
+   "target": "n78"
+  },
+  {
+   "source": "n28",
+   "target": "n87"
+  },
+  {
+   "source": "n30",
+   "target": "n1"
+  },
+  {
+   "source": "n30",
+   "target": "n16"
+  },
+  {
+   "source": "n30",
+   "target": "n17"
+  },
+  {
+   "source": "n30",
+   "target": "n25"
+  },
+  {
+   "source": "n30",
+   "target": "n31"
+  },
+  {
+   "source": "n30",
+   "target": "n33"
+  },
+  {
+   "source": "n30",
+   "target": "n48"
+  },
+  {
+   "source": "n30",
+   "target": "n65"
+  },
+  {
+   "source": "n30",
+   "target": "n66"
+  },
+  {
+   "source": "n30",
+   "target": "n69"
+  },
+  {
+   "source": "n30",
+   "target": "n79"
+  },
+  {
+   "source": "n30",
+   "target": "n86"
+  },
+  {
+   "source": "n30",
+   "target": "n99"
+  },
+  {
+   "source": "n31",
+   "target": "n6"
+  },
+  {
+   "source": "n31",
+   "target": "n30"
+  },
+  {
+   "source": "n31",
+   "target": "n44"
+  },
+  {
+   "source": "n31",
+   "target": "n50"
+  },
+  {
+   "source": "n31",
+   "target": "n51"
+  },
+  {
+   "source": "n31",
+   "target": "n67"
+  },
+  {
+   "source": "n31",
+   "target": "n81"
+  },
+  {
+   "source": "n31",
+   "target": "n93"
+  },
+  {
+   "source": "n31",
+   "target": "n96"
+  },
+  {
+   "source": "n32",
+   "target": "n1"
+  },
+  {
+   "source": "n32",
+   "target": "n33"
+  },
+  {
+   "source": "n32",
+   "target": "n38"
+  },
+  {
+   "source": "n32",
+   "target": "n41"
+  },
+  {
+   "source": "n32",
+   "target": "n47"
+  },
+  {
+   "source": "n32",
+   "target": "n48"
+  },
+  {
+   "source": "n32",
+   "target": "n63"
+  },
+  {
+   "source": "n32",
+   "target": "n78"
+  },
+  {
+   "source": "n32",
+   "target": "n85"
+  },
+  {
+   "source": "n32",
+   "target": "n87"
+  },
+  {
+   "source": "n32",
+   "target": "n88"
+  },
+  {
+   "source": "n33",
+   "target": "n7"
+  },
+  {
+   "source": "n33",
+   "target": "n32"
+  },
+  {
+   "source": "n33",
+   "target": "n48"
+  },
+  {
+   "source": "n33",
+   "target": "n85"
+  },
+  {
+   "source": "n34",
+   "target": "n0"
+  },
+  {
+   "source": "n34",
+   "target": "n2"
+  },
+  {
+   "source": "n34",
+   "target": "n5"
+  },
+  {
+   "source": "n34",
+   "target": "n16"
+  },
+  {
+   "source": "n34",
+   "target": "n23"
+  },
+  {
+   "source": "n34",
+   "target": "n26"
+  },
+  {
+   "source": "n34",
+   "target": "n36"
+  },
+  {
+   "source": "n34",
+   "target": "n67"
+  },
+  {
+   "source": "n34",
+   "target": "n78"
+  },
+  {
+   "source": "n34",
+   "target": "n79"
+  },
+  {
+   "source": "n34",
+   "target": "n81"
+  },
+  {
+   "source": "n34",
+   "target": "n84"
+  },
+  {
+   "source": "n34",
+   "target": "n87"
+  },
+  {
+   "source": "n35",
+   "target": "n78"
+  },
+  {
+   "source": "n35",
+   "target": "n85"
+  },
+  {
+   "source": "n36",
+   "target": "n0"
+  },
+  {
+   "source": "n36",
+   "target": "n1"
+  },
+  {
+   "source": "n36",
+   "target": "n2"
+  },
+  {
+   "source": "n36",
+   "target": "n7"
+  },
+  {
+   "source": "n36",
+   "target": "n16"
+  },
+  {
+   "source": "n36",
+   "target": "n17"
+  },
+  {
+   "source": "n36",
+   "target": "n23"
+  },
+  {
+   "source": "n36",
+   "target": "n26"
+  },
+  {
+   "source": "n36",
+   "target": "n28"
+  },
+  {
+   "source": "n36",
+   "target": "n29"
+  },
+  {
+   "source": "n36",
+   "target": "n32"
+  },
+  {
+   "source": "n36",
+   "target": "n33"
+  },
+  {
+   "source": "n36",
+   "target": "n34"
+  },
+  {
+   "source": "n36",
+   "target": "n37"
+  },
+  {
+   "source": "n36",
+   "target": "n44"
+  },
+  {
+   "source": "n36",
+   "target": "n48"
+  },
+  {
+   "source": "n36",
+   "target": "n67"
+  },
+  {
+   "source": "n36",
+   "target": "n71"
+  },
+  {
+   "source": "n36",
+   "target": "n79"
+  },
+  {
+   "source": "n36",
+   "target": "n81"
+  },
+  {
+   "source": "n36",
+   "target": "n82"
+  },
+  {
+   "source": "n36",
+   "target": "n84"
+  },
+  {
+   "source": "n36",
+   "target": "n85"
+  },
+  {
+   "source": "n36",
+   "target": "n86"
+  },
+  {
+   "source": "n36",
+   "target": "n87"
+  },
+  {
+   "source": "n36",
+   "target": "n93"
+  },
+  {
+   "source": "n37",
+   "target": "n36"
+  },
+  {
+   "source": "n38",
+   "target": "n8"
+  },
+  {
+   "source": "n38",
+   "target": "n14"
+  },
+  {
+   "source": "n38",
+   "target": "n26"
+  },
+  {
+   "source": "n38",
+   "target": "n32"
+  },
+  {
+   "source": "n38",
+   "target": "n39"
+  },
+  {
+   "source": "n38",
+   "target": "n43"
+  },
+  {
+   "source": "n38",
+   "target": "n47"
+  },
+  {
+   "source": "n38",
+   "target": "n59"
+  },
+  {
+   "source": "n38",
+   "target": "n78"
+  },
+  {
+   "source": "n38",
+   "target": "n87"
+  },
+  {
+   "source": "n38",
+   "target": "n90"
+  },
+  {
+   "source": "n39",
+   "target": "n12"
+  },
+  {
+   "source": "n39",
+   "target": "n24"
+  },
+  {
+   "source": "n39",
+   "target": "n25"
+  },
+  {
+   "source": "n39",
+   "target": "n38"
+  },
+  {
+   "source": "n39",
+   "target": "n41"
+  },
+  {
+   "source": "n39",
+   "target": "n45"
+  },
+  {
+   "source": "n39",
+   "target": "n48"
+  },
+  {
+   "source": "n39",
+   "target": "n57"
+  },
+  {
+   "source": "n39",
+   "target": "n58"
+  },
+  {
+   "source": "n39",
+   "target": "n59"
+  },
+  {
+   "source": "n39",
+   "target": "n72"
+  },
+  {
+   "source": "n39",
+   "target": "n89"
+  },
+  {
+   "source": "n39",
+   "target": "n90"
+  },
+  {
+   "source": "n39",
+   "target": "n91"
+  },
+  {
+   "source": "n42",
+   "target": "n33"
+  },
+  {
+   "source": "n42",
+   "target": "n43"
+  },
+  {
+   "source": "n43",
+   "target": "n6"
+  },
+  {
+   "source": "n43",
+   "target": "n8"
+  },
+  {
+   "source": "n43",
+   "target": "n14"
+  },
+  {
+   "source": "n43",
+   "target": "n26"
+  },
+  {
+   "source": "n43",
+   "target": "n38"
+  },
+  {
+   "source": "n43",
+   "target": "n42"
+  },
+  {
+   "source": "n43",
+   "target": "n87"
+  },
+  {
+   "source": "n44",
+   "target": "n1"
+  },
+  {
+   "source": "n44",
+   "target": "n10"
+  },
+  {
+   "source": "n44",
+   "target": "n12"
+  },
+  {
+   "source": "n44",
+   "target": "n41"
+  },
+  {
+   "source": "n44",
+   "target": "n48"
+  },
+  {
+   "source": "n44",
+   "target": "n52"
+  },
+  {
+   "source": "n44",
+   "target": "n63"
+  },
+  {
+   "source": "n44",
+   "target": "n75"
+  },
+  {
+   "source": "n44",
+   "target": "n76"
+  },
+  {
+   "source": "n44",
+   "target": "n85"
+  },
+  {
+   "source": "n44",
+   "target": "n88"
+  },
+  {
+   "source": "n45",
+   "target": "n24"
+  },
+  {
+   "source": "n45",
+   "target": "n25"
+  },
+  {
+   "source": "n45",
+   "target": "n39"
+  },
+  {
+   "source": "n45",
+   "target": "n41"
+  },
+  {
+   "source": "n45",
+   "target": "n44"
+  },
+  {
+   "source": "n45",
+   "target": "n57"
+  },
+  {
+   "source": "n45",
+   "target": "n58"
+  },
+  {
+   "source": "n45",
+   "target": "n72"
+  },
+  {
+   "source": "n45",
+   "target": "n80"
+  },
+  {
+   "source": "n45",
+   "target": "n88"
+  },
+  {
+   "source": "n45",
+   "target": "n89"
+  },
+  {
+   "source": "n45",
+   "target": "n90"
+  },
+  {
+   "source": "n45",
+   "target": "n91"
+  },
+  {
+   "source": "n46",
+   "target": "n0"
+  },
+  {
+   "source": "n46",
+   "target": "n28"
+  },
+  {
+   "source": "n46",
+   "target": "n36"
+  },
+  {
+   "source": "n46",
+   "target": "n47"
+  },
+  {
+   "source": "n46",
+   "target": "n70"
+  },
+  {
+   "source": "n46",
+   "target": "n79"
+  },
+  {
+   "source": "n46",
+   "target": "n82"
+  },
+  {
+   "source": "n46",
+   "target": "n84"
+  },
+  {
+   "source": "n46",
+   "target": "n93"
+  },
+  {
+   "source": "n47",
+   "target": "n6"
+  },
+  {
+   "source": "n47",
+   "target": "n16"
+  },
+  {
+   "source": "n47",
+   "target": "n22"
+  },
+  {
+   "source": "n47",
+   "target": "n23"
+  },
+  {
+   "source": "n47",
+   "target": "n32"
+  },
+  {
+   "source": "n47",
+   "target": "n38"
+  },
+  {
+   "source": "n47",
+   "target": "n46"
+  },
+  {
+   "source": "n47",
+   "target": "n76"
+  },
+  {
+   "source": "n47",
+   "target": "n78"
+  },
+  {
+   "source": "n47",
+   "target": "n79"
+  },
+  {
+   "source": "n47",
+   "target": "n85"
+  },
+  {
+   "source": "n48",
+   "target": "n16"
+  },
+  {
+   "source": "n48",
+   "target": "n32"
+  },
+  {
+   "source": "n48",
+   "target": "n33"
+  },
+  {
+   "source": "n48",
+   "target": "n78"
+  },
+  {
+   "source": "n48",
+   "target": "n79"
+  },
+  {
+   "source": "n48",
+   "target": "n85"
+  },
+  {
+   "source": "n49",
+   "target": "n1"
+  },
+  {
+   "source": "n49",
+   "target": "n48"
+  },
+  {
+   "source": "n49",
+   "target": "n63"
+  },
+  {
+   "source": "n50",
+   "target": "n1"
+  },
+  {
+   "source": "n50",
+   "target": "n31"
+  },
+  {
+   "source": "n50",
+   "target": "n48"
+  },
+  {
+   "source": "n50",
+   "target": "n67"
+  },
+  {
+   "source": "n50",
+   "target": "n81"
+  },
+  {
+   "source": "n51",
+   "target": "n32"
+  },
+  {
+   "source": "n51",
+   "target": "n55"
+  },
+  {
+   "source": "n51",
+   "target": "n68"
+  },
+  {
+   "source": "n52",
+   "target": "n44"
+  },
+  {
+   "source": "n52",
+   "target": "n72"
+  },
+  {
+   "source": "n52",
+   "target": "n76"
+  },
+  {
+   "source": "n53",
+   "target": "n14"
+  },
+  {
+   "source": "n53",
+   "target": "n30"
+  },
+  {
+   "source": "n53",
+   "target": "n63"
+  },
+  {
+   "source": "n53",
+   "target": "n79"
+  },
+  {
+   "source": "n53",
+   "target": "n80"
+  },
+  {
+   "source": "n53",
+   "target": "n84"
+  },
+  {
+   "source": "n53",
+   "target": "n85"
+  },
+  {
+   "source": "n53",
+   "target": "n87"
+  },
+  {
+   "source": "n53",
+   "target": "n98"
+  },
+  {
+   "source": "n54",
+   "target": "n6"
+  },
+  {
+   "source": "n54",
+   "target": "n8"
+  },
+  {
+   "source": "n54",
+   "target": "n55"
+  },
+  {
+   "source": "n55",
+   "target": "n28"
+  },
+  {
+   "source": "n55",
+   "target": "n51"
+  },
+  {
+   "source": "n55",
+   "target": "n54"
+  },
+  {
+   "source": "n55",
+   "target": "n63"
+  },
+  {
+   "source": "n55",
+   "target": "n68"
+  },
+  {
+   "source": "n55",
+   "target": "n70"
+  },
+  {
+   "source": "n55",
+   "target": "n82"
+  },
+  {
+   "source": "n55",
+   "target": "n96"
+  },
+  {
+   "source": "n56",
+   "target": "n28"
+  },
+  {
+   "source": "n56",
+   "target": "n57"
+  },
+  {
+   "source": "n57",
+   "target": "n24"
+  },
+  {
+   "source": "n57",
+   "target": "n25"
+  },
+  {
+   "source": "n57",
+   "target": "n39"
+  },
+  {
+   "source": "n57",
+   "target": "n41"
+  },
+  {
+   "source": "n57",
+   "target": "n45"
+  },
+  {
+   "source": "n57",
+   "target": "n56"
+  },
+  {
+   "source": "n57",
+   "target": "n58"
+  },
+  {
+   "source": "n57",
+   "target": "n72"
+  },
+  {
+   "source": "n57",
+   "target": "n78"
+  },
+  {
+   "source": "n57",
+   "target": "n87"
+  },
+  {
+   "source": "n57",
+   "target": "n89"
+  },
+  {
+   "source": "n57",
+   "target": "n90"
+  },
+  {
+   "source": "n57",
+   "target": "n91"
+  },
+  {
+   "source": "n58",
+   "target": "n12"
+  },
+  {
+   "source": "n58",
+   "target": "n19"
+  },
+  {
+   "source": "n58",
+   "target": "n44"
+  },
+  {
+   "source": "n58",
+   "target": "n63"
+  },
+  {
+   "source": "n58",
+   "target": "n75"
+  },
+  {
+   "source": "n58",
+   "target": "n79"
+  },
+  {
+   "source": "n59",
+   "target": "n32"
+  },
+  {
+   "source": "n59",
+   "target": "n38"
+  },
+  {
+   "source": "n59",
+   "target": "n73"
+  },
+  {
+   "source": "n59",
+   "target": "n75"
+  },
+  {
+   "source": "n59",
+   "target": "n85"
+  },
+  {
+   "source": "n59",
+   "target": "n87"
+  },
+  {
+   "source": "n60",
+   "target": "n63"
+  },
+  {
+   "source": "n60",
+   "target": "n80"
+  },
+  {
+   "source": "n62",
+   "target": "n41"
+  },
+  {
+   "source": "n62",
+   "target": "n63"
+  },
+  {
+   "source": "n62",
+   "target": "n72"
+  },
+  {
+   "source": "n62",
+   "target": "n88"
+  },
+  {
+   "source": "n62",
+   "target": "n96"
+  },
+  {
+   "source": "n62",
+   "target": "n99"
+  },
+  {
+   "source": "n63",
+   "target": "n1"
+  },
+  {
+   "source": "n63",
+   "target": "n5"
+  },
+  {
+   "source": "n63",
+   "target": "n12"
+  },
+  {
+   "source": "n63",
+   "target": "n32"
+  },
+  {
+   "source": "n63",
+   "target": "n41"
+  },
+  {
+   "source": "n63",
+   "target": "n44"
+  },
+  {
+   "source": "n63",
+   "target": "n75"
+  },
+  {
+   "source": "n63",
+   "target": "n78"
+  },
+  {
+   "source": "n63",
+   "target": "n88"
+  },
+  {
+   "source": "n64",
+   "target": "n17"
+  },
+  {
+   "source": "n64",
+   "target": "n65"
+  },
+  {
+   "source": "n65",
+   "target": "n5"
+  },
+  {
+   "source": "n65",
+   "target": "n7"
+  },
+  {
+   "source": "n65",
+   "target": "n10"
+  },
+  {
+   "source": "n65",
+   "target": "n11"
+  },
+  {
+   "source": "n65",
+   "target": "n17"
+  },
+  {
+   "source": "n65",
+   "target": "n18"
+  },
+  {
+   "source": "n65",
+   "target": "n30"
+  },
+  {
+   "source": "n65",
+   "target": "n32"
+  },
+  {
+   "source": "n65",
+   "target": "n33"
+  },
+  {
+   "source": "n65",
+   "target": "n36"
+  },
+  {
+   "source": "n65",
+   "target": "n44"
+  },
+  {
+   "source": "n65",
+   "target": "n64"
+  },
+  {
+   "source": "n65",
+   "target": "n67"
+  },
+  {
+   "source": "n65",
+   "target": "n70"
+  },
+  {
+   "source": "n65",
+   "target": "n78"
+  },
+  {
+   "source": "n65",
+   "target": "n79"
+  },
+  {
+   "source": "n65",
+   "target": "n84"
+  },
+  {
+   "source": "n65",
+   "target": "n86"
+  },
+  {
+   "source": "n65",
+   "target": "n87"
+  },
+  {
+   "source": "n66",
+   "target": "n16"
+  },
+  {
+   "source": "n66",
+   "target": "n17"
+  },
+  {
+   "source": "n66",
+   "target": "n26"
+  },
+  {
+   "source": "n66",
+   "target": "n28"
+  },
+  {
+   "source": "n66",
+   "target": "n30"
+  },
+  {
+   "source": "n66",
+   "target": "n48"
+  },
+  {
+   "source": "n66",
+   "target": "n67"
+  },
+  {
+   "source": "n66",
+   "target": "n82"
+  },
+  {
+   "source": "n67",
+   "target": "n0"
+  },
+  {
+   "source": "n67",
+   "target": "n2"
+  },
+  {
+   "source": "n67",
+   "target": "n16"
+  },
+  {
+   "source": "n67",
+   "target": "n23"
+  },
+  {
+   "source": "n67",
+   "target": "n31"
+  },
+  {
+   "source": "n67",
+   "target": "n34"
+  },
+  {
+   "source": "n67",
+   "target": "n36"
+  },
+  {
+   "source": "n67",
+   "target": "n44"
+  },
+  {
+   "source": "n67",
+   "target": "n50"
+  },
+  {
+   "source": "n67",
+   "target": "n65"
+  },
+  {
+   "source": "n67",
+   "target": "n66"
+  },
+  {
+   "source": "n67",
+   "target": "n79"
+  },
+  {
+   "source": "n67",
+   "target": "n81"
+  },
+  {
+   "source": "n67",
+   "target": "n87"
+  },
+  {
+   "source": "n68",
+   "target": "n33"
+  },
+  {
+   "source": "n68",
+   "target": "n41"
+  },
+  {
+   "source": "n68",
+   "target": "n51"
+  },
+  {
+   "source": "n68",
+   "target": "n55"
+  },
+  {
+   "source": "n68",
+   "target": "n69"
+  },
+  {
+   "source": "n68",
+   "target": "n72"
+  },
+  {
+   "source": "n68",
+   "target": "n75"
+  },
+  {
+   "source": "n68",
+   "target": "n87"
+  },
+  {
+   "source": "n68",
+   "target": "n88"
+  },
+  {
+   "source": "n69",
+   "target": "n16"
+  },
+  {
+   "source": "n69",
+   "target": "n17"
+  },
+  {
+   "source": "n69",
+   "target": "n30"
+  },
+  {
+   "source": "n69",
+   "target": "n33"
+  },
+  {
+   "source": "n69",
+   "target": "n44"
+  },
+  {
+   "source": "n69",
+   "target": "n78"
+  },
+  {
+   "source": "n69",
+   "target": "n79"
+  },
+  {
+   "source": "n70",
+   "target": "n0"
+  },
+  {
+   "source": "n70",
+   "target": "n5"
+  },
+  {
+   "source": "n70",
+   "target": "n7"
+  },
+  {
+   "source": "n70",
+   "target": "n10"
+  },
+  {
+   "source": "n70",
+   "target": "n28"
+  },
+  {
+   "source": "n70",
+   "target": "n32"
+  },
+  {
+   "source": "n70",
+   "target": "n46"
+  },
+  {
+   "source": "n70",
+   "target": "n55"
+  },
+  {
+   "source": "n70",
+   "target": "n65"
+  },
+  {
+   "source": "n70",
+   "target": "n71"
+  },
+  {
+   "source": "n70",
+   "target": "n78"
+  },
+  {
+   "source": "n70",
+   "target": "n79"
+  },
+  {
+   "source": "n70",
+   "target": "n82"
+  },
+  {
+   "source": "n70",
+   "target": "n84"
+  },
+  {
+   "source": "n71",
+   "target": "n70"
+  },
+  {
+   "source": "n71",
+   "target": "n84"
+  },
+  {
+   "source": "n71",
+   "target": "n88"
+  },
+  {
+   "source": "n72",
+   "target": "n24"
+  },
+  {
+   "source": "n72",
+   "target": "n25"
+  },
+  {
+   "source": "n72",
+   "target": "n39"
+  },
+  {
+   "source": "n72",
+   "target": "n41"
+  },
+  {
+   "source": "n72",
+   "target": "n45"
+  },
+  {
+   "source": "n72",
+   "target": "n57"
+  },
+  {
+   "source": "n72",
+   "target": "n58"
+  },
+  {
+   "source": "n72",
+   "target": "n62"
+  },
+  {
+   "source": "n72",
+   "target": "n73"
+  },
+  {
+   "source": "n72",
+   "target": "n88"
+  },
+  {
+   "source": "n72",
+   "target": "n89"
+  },
+  {
+   "source": "n72",
+   "target": "n90"
+  },
+  {
+   "source": "n72",
+   "target": "n91"
+  },
+  {
+   "source": "n74",
+   "target": "n63"
+  },
+  {
+   "source": "n74",
+   "target": "n68"
+  },
+  {
+   "source": "n74",
+   "target": "n89"
+  },
+  {
+   "source": "n74",
+   "target": "n96"
+  },
+  {
+   "source": "n75",
+   "target": "n1"
+  },
+  {
+   "source": "n75",
+   "target": "n41"
+  },
+  {
+   "source": "n75",
+   "target": "n63"
+  },
+  {
+   "source": "n76",
+   "target": "n0"
+  },
+  {
+   "source": "n76",
+   "target": "n1"
+  },
+  {
+   "source": "n76",
+   "target": "n5"
+  },
+  {
+   "source": "n76",
+   "target": "n12"
+  },
+  {
+   "source": "n76",
+   "target": "n15"
+  },
+  {
+   "source": "n76",
+   "target": "n36"
+  },
+  {
+   "source": "n76",
+   "target": "n38"
+  },
+  {
+   "source": "n76",
+   "target": "n41"
+  },
+  {
+   "source": "n76",
+   "target": "n44"
+  },
+  {
+   "source": "n76",
+   "target": "n47"
+  },
+  {
+   "source": "n76",
+   "target": "n52"
+  },
+  {
+   "source": "n76",
+   "target": "n58"
+  },
+  {
+   "source": "n76",
+   "target": "n75"
+  },
+  {
+   "source": "n76",
+   "target": "n77"
+  },
+  {
+   "source": "n76",
+   "target": "n78"
+  },
+  {
+   "source": "n77",
+   "target": "n25"
+  },
+  {
+   "source": "n77",
+   "target": "n76"
+  },
+  {
+   "source": "n78",
+   "target": "n7"
+  },
+  {
+   "source": "n78",
+   "target": "n12"
+  },
+  {
+   "source": "n78",
+   "target": "n41"
+  },
+  {
+   "source": "n78",
+   "target": "n48"
+  },
+  {
+   "source": "n78",
+   "target": "n79"
+  },
+  {
+   "source": "n78",
+   "target": "n85"
+  },
+  {
+   "source": "n78",
+   "target": "n87"
+  },
+  {
+   "source": "n78",
+   "target": "n88"
+  },
+  {
+   "source": "n79",
+   "target": "n0"
+  },
+  {
+   "source": "n79",
+   "target": "n4"
+  },
+  {
+   "source": "n79",
+   "target": "n7"
+  },
+  {
+   "source": "n79",
+   "target": "n16"
+  },
+  {
+   "source": "n79",
+   "target": "n17"
+  },
+  {
+   "source": "n79",
+   "target": "n19"
+  },
+  {
+   "source": "n79",
+   "target": "n28"
+  },
+  {
+   "source": "n79",
+   "target": "n33"
+  },
+  {
+   "source": "n79",
+   "target": "n46"
+  },
+  {
+   "source": "n79",
+   "target": "n48"
+  },
+  {
+   "source": "n79",
+   "target": "n58"
+  },
+  {
+   "source": "n79",
+   "target": "n70"
+  },
+  {
+   "source": "n79",
+   "target": "n78"
+  },
+  {
+   "source": "n79",
+   "target": "n80"
+  },
+  {
+   "source": "n79",
+   "target": "n82"
+  },
+  {
+   "source": "n79",
+   "target": "n84"
+  },
+  {
+   "source": "n79",
+   "target": "n85"
+  },
+  {
+   "source": "n80",
+   "target": "n45"
+  },
+  {
+   "source": "n80",
+   "target": "n53"
+  },
+  {
+   "source": "n80",
+   "target": "n60"
+  },
+  {
+   "source": "n80",
+   "target": "n63"
+  },
+  {
+   "source": "n80",
+   "target": "n79"
+  },
+  {
+   "source": "n80",
+   "target": "n81"
+  },
+  {
+   "source": "n80",
+   "target": "n87"
+  },
+  {
+   "source": "n81",
+   "target": "n6"
+  },
+  {
+   "source": "n81",
+   "target": "n7"
+  },
+  {
+   "source": "n81",
+   "target": "n22"
+  },
+  {
+   "source": "n81",
+   "target": "n23"
+  },
+  {
+   "source": "n81",
+   "target": "n26"
+  },
+  {
+   "source": "n81",
+   "target": "n28"
+  },
+  {
+   "source": "n81",
+   "target": "n31"
+  },
+  {
+   "source": "n81",
+   "target": "n32"
+  },
+  {
+   "source": "n81",
+   "target": "n34"
+  },
+  {
+   "source": "n81",
+   "target": "n36"
+  },
+  {
+   "source": "n81",
+   "target": "n50"
+  },
+  {
+   "source": "n81",
+   "target": "n58"
+  },
+  {
+   "source": "n81",
+   "target": "n59"
+  },
+  {
+   "source": "n81",
+   "target": "n67"
+  },
+  {
+   "source": "n81",
+   "target": "n72"
+  },
+  {
+   "source": "n81",
+   "target": "n78"
+  },
+  {
+   "source": "n81",
+   "target": "n79"
+  },
+  {
+   "source": "n81",
+   "target": "n80"
+  },
+  {
+   "source": "n81",
+   "target": "n82"
+  },
+  {
+   "source": "n81",
+   "target": "n84"
+  },
+  {
+   "source": "n81",
+   "target": "n85"
+  },
+  {
+   "source": "n81",
+   "target": "n98"
+  },
+  {
+   "source": "n82",
+   "target": "n25"
+  },
+  {
+   "source": "n83",
+   "target": "n6"
+  },
+  {
+   "source": "n83",
+   "target": "n22"
+  },
+  {
+   "source": "n83",
+   "target": "n26"
+  },
+  {
+   "source": "n83",
+   "target": "n48"
+  },
+  {
+   "source": "n83",
+   "target": "n82"
+  },
+  {
+   "source": "n84",
+   "target": "n7"
+  },
+  {
+   "source": "n84",
+   "target": "n26"
+  },
+  {
+   "source": "n84",
+   "target": "n32"
+  },
+  {
+   "source": "n84",
+   "target": "n34"
+  },
+  {
+   "source": "n84",
+   "target": "n36"
+  },
+  {
+   "source": "n84",
+   "target": "n81"
+  },
+  {
+   "source": "n84",
+   "target": "n85"
+  },
+  {
+   "source": "n85",
+   "target": "n87"
+  },
+  {
+   "source": "n86",
+   "target": "n1"
+  },
+  {
+   "source": "n86",
+   "target": "n5"
+  },
+  {
+   "source": "n86",
+   "target": "n16"
+  },
+  {
+   "source": "n86",
+   "target": "n17"
+  },
+  {
+   "source": "n86",
+   "target": "n22"
+  },
+  {
+   "source": "n86",
+   "target": "n29"
+  },
+  {
+   "source": "n86",
+   "target": "n30"
+  },
+  {
+   "source": "n86",
+   "target": "n33"
+  },
+  {
+   "source": "n86",
+   "target": "n36"
+  },
+  {
+   "source": "n86",
+   "target": "n48"
+  },
+  {
+   "source": "n86",
+   "target": "n65"
+  },
+  {
+   "source": "n86",
+   "target": "n79"
+  },
+  {
+   "source": "n86",
+   "target": "n82"
+  },
+  {
+   "source": "n86",
+   "target": "n85"
+  },
+  {
+   "source": "n86",
+   "target": "n87"
+  },
+  {
+   "source": "n87",
+   "target": "n5"
+  },
+  {
+   "source": "n87",
+   "target": "n22"
+  },
+  {
+   "source": "n87",
+   "target": "n28"
+  },
+  {
+   "source": "n87",
+   "target": "n68"
+  },
+  {
+   "source": "n87",
+   "target": "n75"
+  },
+  {
+   "source": "n87",
+   "target": "n78"
+  },
+  {
+   "source": "n87",
+   "target": "n86"
+  },
+  {
+   "source": "n88",
+   "target": "n9"
+  },
+  {
+   "source": "n88",
+   "target": "n41"
+  },
+  {
+   "source": "n88",
+   "target": "n68"
+  },
+  {
+   "source": "n88",
+   "target": "n71"
+  },
+  {
+   "source": "n89",
+   "target": "n10"
+  },
+  {
+   "source": "n89",
+   "target": "n12"
+  },
+  {
+   "source": "n89",
+   "target": "n24"
+  },
+  {
+   "source": "n89",
+   "target": "n25"
+  },
+  {
+   "source": "n89",
+   "target": "n39"
+  },
+  {
+   "source": "n89",
+   "target": "n41"
+  },
+  {
+   "source": "n89",
+   "target": "n44"
+  },
+  {
+   "source": "n89",
+   "target": "n45"
+  },
+  {
+   "source": "n89",
+   "target": "n57"
+  },
+  {
+   "source": "n89",
+   "target": "n58"
+  },
+  {
+   "source": "n89",
+   "target": "n68"
+  },
+  {
+   "source": "n89",
+   "target": "n72"
+  },
+  {
+   "source": "n89",
+   "target": "n88"
+  },
+  {
+   "source": "n89",
+   "target": "n90"
+  },
+  {
+   "source": "n89",
+   "target": "n91"
+  },
+  {
+   "source": "n90",
+   "target": "n1"
+  },
+  {
+   "source": "n90",
+   "target": "n24"
+  },
+  {
+   "source": "n90",
+   "target": "n25"
+  },
+  {
+   "source": "n90",
+   "target": "n33"
+  },
+  {
+   "source": "n90",
+   "target": "n38"
+  },
+  {
+   "source": "n90",
+   "target": "n39"
+  },
+  {
+   "source": "n90",
+   "target": "n41"
+  },
+  {
+   "source": "n90",
+   "target": "n45"
+  },
+  {
+   "source": "n90",
+   "target": "n57"
+  },
+  {
+   "source": "n90",
+   "target": "n58"
+  },
+  {
+   "source": "n90",
+   "target": "n72"
+  },
+  {
+   "source": "n90",
+   "target": "n89"
+  },
+  {
+   "source": "n90",
+   "target": "n91"
+  },
+  {
+   "source": "n92",
+   "target": "n25"
+  },
+  {
+   "source": "n92",
+   "target": "n41"
+  },
+  {
+   "source": "n92",
+   "target": "n88"
+  },
+  {
+   "source": "n92",
+   "target": "n93"
+  },
+  {
+   "source": "n93",
+   "target": "n36"
+  },
+  {
+   "source": "n93",
+   "target": "n46"
+  },
+  {
+   "source": "n93",
+   "target": "n68"
+  },
+  {
+   "source": "n93",
+   "target": "n92"
+  },
+  {
+   "source": "n93",
+   "target": "n96"
+  },
+  {
+   "source": "n94",
+   "target": "n28"
+  },
+  {
+   "source": "n94",
+   "target": "n78"
+  },
+  {
+   "source": "n96",
+   "target": "n5"
+  },
+  {
+   "source": "n96",
+   "target": "n32"
+  },
+  {
+   "source": "n96",
+   "target": "n41"
+  },
+  {
+   "source": "n96",
+   "target": "n44"
+  },
+  {
+   "source": "n96",
+   "target": "n62"
+  },
+  {
+   "source": "n96",
+   "target": "n72"
+  },
+  {
+   "source": "n96",
+   "target": "n74"
+  },
+  {
+   "source": "n96",
+   "target": "n88"
+  },
+  {
+   "source": "n96",
+   "target": "n93"
+  },
+  {
+   "source": "n98",
+   "target": "n5"
+  },
+  {
+   "source": "n98",
+   "target": "n17"
+  },
+  {
+   "source": "n98",
+   "target": "n48"
+  },
+  {
+   "source": "n98",
+   "target": "n53"
+  },
+  {
+   "source": "n98",
+   "target": "n59"
+  },
+  {
+   "source": "n98",
+   "target": "n82"
+  },
+  {
+   "source": "n98",
+   "target": "n84"
+  },
+  {
+   "source": "n98",
+   "target": "n85"
+  },
+  {
+   "source": "n98",
+   "target": "n86"
+  },
+  {
+   "source": "n98",
+   "target": "n88"
+  },
+  {
+   "source": "n99",
+   "target": "n1"
+  },
+  {
+   "source": "n99",
+   "target": "n10"
+  },
+  {
+   "source": "n99",
+   "target": "n16"
+  },
+  {
+   "source": "n99",
+   "target": "n30"
+  },
+  {
+   "source": "n99",
+   "target": "n33"
+  },
+  {
+   "source": "n99",
+   "target": "n48"
+  },
+  {
+   "source": "n99",
+   "target": "n62"
+  },
+  {
+   "source": "n99",
+   "target": "n85"
+  },
+  {
+   "source": "n99",
+   "target": "n86"
+  }
+ ],
  "categories": [
   {
    "name": "Republican"
