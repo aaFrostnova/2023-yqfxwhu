@@ -109,20 +109,21 @@ $.getJSON(ROOT_PATH + '{{filename}}', function (graph) {
 + **data_process.py**：
   1. 根据数据文件构造三个$100\times100$的矩阵```following_mat, coat_mat, coexist_mat```，行列分别表示对应的议员；
   2. 生成```senator_info```字典，键为TwitterID，键值为各种信息的字典；
-$$ \left\{
+  3. 生成```analysis_info```字典，用于后续分析个人社交网络的组成情况；
+$ \left\{
 \begin{matrix}
  mat[i,j]=1,~i与j有关系 \\
  mat[i,j]=0,~i与j没有关系 
 \end{matrix}
 \right.
-$$
+$
 
 + **network_dump.py**：
   1. 根据生成的```mats```，进行```network_dump/relation_dump```。前者为总体网络JSON文件生成，后者为个人网络JSON文件生成；
 
 ## 4. Django网页框架
 
-Django的MTV框架十分适合本项目的展示形式，我们主要用到templates和views，暂无models构建。
+Django的MTV框架十分适合本项目的展示形式，我们主要用到templates和views，暂无models构建。更好的一种选择是使用数据库来存取网络信息，限于时间因素并没有实现。
 + **templates**：
   1. 三个页面：graph-of-one.html(个人网络)，graph-overall.html(总体网络)，index.html(导航页面)；
   ```python
