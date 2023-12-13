@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from network_build.network_dump import network_dump, relation_dump
-from network_build.data_process import senator_reader, data_reader, init_matrix
+from network_build.data_process import senator_reader, analysis_reader, data_reader, init_matrix
 import numpy as np
 import os
 import random
@@ -24,10 +24,12 @@ def graphoverall(request, num):
     file_list = ["following-network.json", "coat-network.json", "coexist-network.json"]
     disp_list = ["Following Network", "Co@ Network", "Coexist Network"]
     senator_info = senator_reader()
+    analysis_info = analysis_reader()
     msg = {}
     msg["filename"] = file_list[num]
     msg["dispname"] = disp_list[num]
     msg["senator_info"] = {}
+    msg["analysis_info"] = analysis_info
     for tw_name, info in senator_info.items():
         _tw_name = "@" + tw_name
         msg["senator_info"][_tw_name] = info["name"]
@@ -41,6 +43,7 @@ def search(request):
     file2 = r".\network_build\coat.csv"
     file3 = r".\network_build\coexist.csv"
     senator_info       = senator_reader()            # 参议员所有的信息
+    analysis_info      = analysis_reader()
     following_dict     = data_reader(filename=file1) # 关注者字典
     coat_dict          = data_reader(filename=file2)
     coexist_dict       = data_reader(filename=file3)
@@ -58,6 +61,7 @@ def search(request):
     msg["filename"] = None
     msg["office"] = None
     msg["party"] = None
+    msg["analysis_info"] = analysis_info
     print("Entering...............")
     if request.method == "GET":
         dic = request.GET

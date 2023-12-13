@@ -184,13 +184,24 @@ $.getJSON(ROOT_PATH + '{{filename}}', function (graph) {
 });
 function displayInfomation(information) {
   var infoElement = document.getElementById('info-container');
+  var analysis = "{{analysis_info|safe}}";
+  var analysis = analysis.replace(/'/g, '"');
+  var analysis = JSON.parse(analysis);
   var twitter_name = information.name;
   var office = information.value.office;
   var real_name = information.value.name;
   var party = information.value.party;
+
   var imgSrc = `/static/img/Senators/${twitter_name}.jpg`;
   var _name = real_name.replace(/ /g, "_");
   var wiki_url = `https://en.wikipedia.org/wiki/${_name}`;
+  var following_analysis = analysis.following;
+  var coat_analysis = analysis.coat;
+  var coexist_analysis = analysis.coexist;
+  var following_ratio = following_analysis[twitter_name];
+  var coat_ratio = coat_analysis[twitter_name];
+  var coexist_ratio = coexist_analysis[twitter_name];
+
   var HTMLcontent = `
 
   <div class="row" >
@@ -200,10 +211,13 @@ function displayInfomation(information) {
       <div class="caption" >
         <h3>${real_name}</h3>
         <p>
-          Name: ${real_name}<br>
-          Office: ${office}<br>
-          Party: ${party}<br>
-          TwitterID: <a href="https://twitter.com/${twitter_name}">@${twitter_name}</a><br>
+          Name: <strong>${real_name}</strong><br>
+          Office: <strong>${office}</strong><br>
+          Party: <strong>${party}</strong><br>
+          TwitterID: <a href="https://twitter.com/${twitter_name}">@${twitter_name}</a><br><br>
+          ${Math.floor(following_ratio.Republican*10000)/100}% Republicans, ${Math.floor(following_ratio.Democratic*10000)/100}% Democratics and ${Math.floor(following_ratio.Independent*10000)/100}% Independents in the following network<br><br>
+          ${Math.floor(coat_ratio.Republican*10000)/100}% Republicans, ${Math.floor(coat_ratio.Democratic*10000)/100}% Democratics and ${Math.floor(coat_ratio.Independent*10000)/100}% Independents in the coat network<br><br>
+          ${Math.floor(coexist_ratio.Republican*10000)/100}% Republicans, ${Math.floor(coexist_ratio.Democratic*10000)/100}% Democratics and ${Math.floor(coexist_ratio.Independent*10000)/100}% Independents in the coexist network<br>        
         </p>
         <p><a href="https://twitter.com/${twitter_name}" class="btn btn-primary" role="button">推特主页</a> <a href="${wiki_url}" class="btn btn-default" role="button">维基百科</a></p>
       </div>

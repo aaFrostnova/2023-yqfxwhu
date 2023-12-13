@@ -22,6 +22,29 @@ def senator_reader():
             senators_info[twitter_name]["party"]       = party
     return senators_info
 
+def analysis_reader():
+    file1         = r".\network_build\analysis_follows.csv"
+    file2         = r".\network_build\analysis_mention.csv"
+    file3         = r".\network_build\analysis_content.csv"
+    def csvreader(filename):
+        analysis_info  = {}
+        with open(filename, 'r', encoding="utf-8") as f:
+            csv_reader = csv.reader(f)
+            header     = next(csv_reader)
+            for row in csv_reader:
+                twitter_name = row[0]
+                analysis_info[twitter_name]                = {}
+                analysis_info[twitter_name]["Republican"]  = row[1]
+                analysis_info[twitter_name]["Democratic"]  = row[2]
+                analysis_info[twitter_name]["Independent"] = row[3]
+        return analysis_info
+    analysis_info = {"following":{}, "coat":{}, "coexist":{}}
+    analysis_info["following"] = csvreader(file1)
+    analysis_info["coat"] = csvreader(file2)
+    analysis_info["coexist"] = csvreader(file3)
+
+    return analysis_info
+
 def data_reader(filename):
     #print(os.getcwd())
     if not os.path.exists(filename):
