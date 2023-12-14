@@ -61,7 +61,11 @@ def search(request):
     msg["filename"] = None
     msg["office"] = None
     msg["party"] = None
+    msg["senator_info"] = {}
     msg["analysis_info"] = analysis_info
+    for tw_name, info in senator_info.items():
+        _tw_name = "@" + tw_name
+        msg["senator_info"][_tw_name] = info["name"]
     print("Entering...............")
     if request.method == "GET":
         dic = request.GET
