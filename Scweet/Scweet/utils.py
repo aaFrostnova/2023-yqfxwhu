@@ -325,14 +325,8 @@ def keep_scroling(driver, data, writer, tweet_ids, scrolling, tweet_parsed, limi
 def get_users_follow(users, headless, env, follow=None, verbose=1, wait=2, limit=float('inf')):
     """ get the following or followers of a list of users """
 
-    # initiate the driver
-    # driver = init_driver(headless=headless, env=env, firefox=True)
     driver = init_driver(headless)
     sleep(wait)
-    # log in (the .env file should contain the username and password)
-    # driver.get('https://www.twitter.com/login')
-    '''log_in(driver, env, wait=wait)
-    sleep(wait)'''
     # followers and following dict of each user
     follows_users = {}
 

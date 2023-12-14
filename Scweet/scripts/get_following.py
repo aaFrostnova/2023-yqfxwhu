@@ -11,7 +11,7 @@ def read_twitter_names(filename):
             twitter_names.append(twitter_name)
     return twitter_names
 
-filename = r'G:\project\twint\Scweet\美国国会\美国参议院名单.csv'  # 请确保文件名正确，并且与脚本文件在同一目录下
+filename = r'G:\project\twint\Scweet\美国国会\美国参议院名单.csv'
 twitter_names = read_twitter_names(filename)
 
 
