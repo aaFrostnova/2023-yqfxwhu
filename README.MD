@@ -27,6 +27,8 @@
 
 ## 2. 数据采集
 
+数据采集流程请看[教程](./Scweet/README.md)
+
 ## 3. 网络构建
 
 本项目使用[Apache Echart](https://echarts.apache.org/zh/index.html)工具来进行社交关系网络的绘制。Echart是一种使用JavaScript语言在网页画图的工具，参照官网提供的[示例](https://echarts.apache.org/examples/zh/editor.html?c=graph-label-overlap)，我们总体上是使用Echart在前端调用相应的JSON文件进行渲染，因此网络构建的过程实际上是JSON文件的构造过程。
@@ -115,13 +117,13 @@ $.getJSON(ROOT_PATH + '{{filename}}', function (graph) {
   1. 根据数据文件构造三个$100\times100$的矩阵```following_mat, coat_mat, coexist_mat```，行列分别表示对应的议员；
   2. 生成```senator_info```字典，键为TwitterID，键值为各种信息的字典；
   3. 生成```analysis_info```字典，用于后续分析个人社交网络的组成情况；
-$ \left\{
-\begin{matrix}
- mat[i,j]=1,~i与j有关系 \\
- mat[i,j]=0,~i与j没有关系 
-\end{matrix}
-\right.
-$
+  $ \left\{
+  \begin{matrix}
+   mat[i,j]=1,~i与j有关系 \\
+   mat[i,j]=0,~i与j没有关系 
+  \end{matrix}
+  \right.
+  $
 
 + **network_dump.py**：
   1. 根据生成的```mats```，进行```network_dump/relation_dump```。前者为总体网络JSON文件生成，后者为个人网络JSON文件生成；
