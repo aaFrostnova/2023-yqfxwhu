@@ -15,7 +15,7 @@ cd teamyqfx
 
 ### **Python环境要求：**
 
-```python
+```
 certifi
 selenium==4.2.0
 pandas
@@ -65,10 +65,12 @@ python scripts/extract_mention.py
 
 结果存放在 **content/content_results.csv** 里：
 
-```sh
+```
 python scripts/get_content.py
 python scripts/extract_content.py
 ```
 
+## 分析各党派的比例
 
+可以计算出每种关系中各党派的占比，只需运行analysis.py。
 

@@ -20,7 +20,7 @@ for filename in os.listdir(folder_path):
 
         # 2. 提取Embedded_text列中以@开头的字符串
         embedded_texts = df1['Embedded_text'].astype(str)
-        at_mentions = embedded_texts.apply(lambda text: [word[1:]  for word in text.split() if word.startswith('@')])
+        at_mentions = embedded_texts.apply(lambda text: [word[1:] for word in text.split() if word.startswith('@')])
 
 
 
