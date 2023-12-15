@@ -25,6 +25,10 @@
 
 ## 1. 安装
 
+1. Python环境中安装Django==3.2：```pip install django==3.2```
+2. 切换到项目根目录下，命令行输入:```python manage.py runserver```
+3. 在浏览器输入地址127.0.0.1:8000访问页面
+
 ## 2. 数据采集
 
 数据采集流程请看[教程](./Scweet/README.md)
